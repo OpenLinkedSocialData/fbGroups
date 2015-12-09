@@ -29,20 +29,20 @@
     fb:nFriendsInteracted 64 ;
     fb:nFriendships 1095 ;
     fb:nInteractions 197 ;
-    fb:originalInteractionFile "https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/base/AdornoNaoEhEnfeite29032013.gdf"^^xsd:string,
-        "https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/base/AdornoNaoEhEnfeite29032013_interacoes.gdf"^^xsd:string ;
+    fb:originalInteractionFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/base/AdornoNaoEhEnfeite29032013.gdf"^^xsd:string,
+        "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/base/AdornoNaoEhEnfeite29032013_interacoes.gdf"^^xsd:string ;
     po:acquiredThrough "Netvizz"^^xsd:string ;
-    po:availableAt "https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb"^^xsd:string ;
+    po:availableAt "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb"^^xsd:string ;
     po:createdAt "2013-03-29T00:00:00"^^xsd:datetime ;
-    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbMeta.owl"^^xsd:string ;
-    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbMeta.ttl"^^xsd:string ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbMeta.ttl"^^xsd:string ;
     po:donatedBy "AdornoNaoEhEnfeite29032013"^^xsd:string ;
-    po:friendshipTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbFriendship.ttl"^^xsd:string ;
-    po:friendshipXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbFriendship.owl"^^xsd:string ;
-    po:interactionTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbInteraction.ttl"^^xsd:string ;
-    po:interactionXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbInteraction.owl"^^xsd:string ;
+    po:friendshipTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbFriendship.ttl"^^xsd:string ;
+    po:friendshipXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbFriendship.owl"^^xsd:string ;
+    po:interactionTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbInteraction.ttl"^^xsd:string ;
+    po:interactionXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbInteraction.owl"^^xsd:string ;
     po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
-    po:triplifiedIn "2015-12-09T19:59:30.891870"^^xsd:datetime ;
+    po:triplifiedIn "2015-12-09T20:08:07.867596"^^xsd:datetime ;
     rdfs:comment "facebook network from AdornoNaoEhEnfeite29032013 . Ego: False. Friendship: True. Interaction: True."^^xsd:string .
 
 <http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .
