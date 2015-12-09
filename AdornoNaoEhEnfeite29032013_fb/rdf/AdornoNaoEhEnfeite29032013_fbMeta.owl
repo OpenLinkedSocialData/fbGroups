@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Platform#Facebook">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Platform"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#AdornoNaoEhEnfeite29032013_fb">
+    <fb:fAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:fAnon>
+    <fb:iAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:iAnon>
+    <po:friendshipXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbFriendship.owl</po:friendshipXMLFile>
+    <po:friendshipTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbFriendship.ttl</po:friendshipTTLFile>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">name</fb:friendAttribute>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-09T19:59:30.891870</po:triplifiedIn>
+    <fb:interactionFriendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">posts</fb:interactionFriendAttribute>
+    <fb:ego rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:ego>
+    <fb:originalInteractionFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/base/AdornoNaoEhEnfeite29032013_interacoes.gdf</fb:originalInteractionFile>
+    <fb:nInteractions rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">197</fb:nInteractions>
+    <fb:fbLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/265217103529531/permalink/525654127485826/</fb:fbLink>
+    <fb:originalInteractionFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/base/AdornoNaoEhEnfeite29032013.gdf</fb:originalInteractionFile>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">node1</fb:interactionAttribute>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbMeta.ttl</po:discoveryTTLFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locale</fb:friendAttribute>
+    <fb:interaction rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:interaction>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facebook network from AdornoNaoEhEnfeite29032013 . Ego: False. Friendship: True. Interaction: True.</rdfs:comment>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex</fb:friendAttribute>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AdornoNaoEhEnfeite29032013</po:donatedBy>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbMeta.owl</po:discorveryRDFFile>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">node2</fb:interactionAttribute>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot AdornoNaoEhEnfeite29032013_fb</rdfs:label>
+    <fb:nFriendships rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1095</fb:nFriendships>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight</fb:interactionAttribute>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb</po:availableAt>
+    <fb:nFriends rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">229</fb:nFriends>
+    <po:socialProtocol rdf:resource="http://purl.org/socialparticipation/po/Platform#Facebook"/>
+    <po:interactionXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbInteraction.owl</po:interactionXMLFile>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2013-03-29T00:00:00</po:createdAt>
+    <fb:groupID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">265217103529531</fb:groupID>
+    <po:interactionTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/master/fbGroups/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbInteraction.ttl</po:interactionTTLFile>
+    <fb:friendship rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:friendship>
+    <fb:interactionFriendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">name</fb:interactionFriendAttribute>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <fb:interactionFriendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uid</fb:interactionFriendAttribute>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uid</fb:friendAttribute>
+    <fb:nFriendsInteracted rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</fb:nFriendsInteracted>
+  </rdf:Description>
+</rdf:RDF>
