@@ -1,0 +1,22 @@
+This repo delivers RDF data from the facebook
+friendship network of CienciasComFronteiras29032013 collected around 2013-03-29.
+2921 individuals with metadata ['sex', 'uid', 'name', 'locale']
+and 23302 friendships constitute the friendship network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/CienciasComFronteiras29032013_fb/rdf/CienciasComFronteiras29032013_fbFriendship.owl
+(anonymized: False).
+0 individuals with metadata ['posts']
+and 0 interactions with metadata ['node1', 'node2', 'weight'] constitute the interaction 
+network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/CienciasComFronteiras29032013_fb/rdf/CienciasComFronteiras29032013_fbInteraction.owl
+(anonymized: True).
+Metadata for discovery is in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/CienciasComFronteiras29032013_fb/rdf/CienciasComFronteiras29032013_fbMeta.owl
+Original files:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/CienciasComFronteiras29032013_fb/base/CienciasComFronteiras29032013.gdf
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/CienciasComFronteiras29032013_fb/base/CienciasComFronteiras29032013_interacoes.gdf
+Ego network: False
+Friendship network: True
+Interaction network: True
+All files should be available at the git repository:
+https://github.com/OpenLinkedSocialData/fbGroups/tree/master/CienciasComFronteiras29032013_fb
+

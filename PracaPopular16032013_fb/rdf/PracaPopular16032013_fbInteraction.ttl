@@ -1,0 +1,153 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/fb/Interaction#PracaPopular16032013.gdf-2013-03-16-100000163971176-726169247> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000163971176> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#726169247> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PracaPopular16032013.gdf-2013-03-16-100000388163544-100002672582315> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000388163544> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002672582315> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PracaPopular16032013.gdf-2013-03-16-100000653696619-100000679259253> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000653696619> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000679259253> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PracaPopular16032013.gdf-2013-03-16-100000847795753-100002672582315> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000847795753> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002672582315> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PracaPopular16032013.gdf-2013-03-16-100000847795753-726169247> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000847795753> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#726169247> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PracaPopular16032013.gdf-2013-03-16-100001592156678-100000653696619> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001592156678> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000653696619> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PracaPopular16032013.gdf-2013-03-16-100001944542012-726169247> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001944542012> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#726169247> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PracaPopular16032013.gdf-2013-03-16-100002007579854-100002672582315> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002007579854> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002672582315> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PracaPopular16032013.gdf-2013-03-16-100002672582315-781909429> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002672582315> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#781909429> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PracaPopular16032013.gdf-2013-03-16-100002740899423-100002672582315> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002740899423> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002672582315> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PracaPopular16032013.gdf-2013-03-16-100002740899423-1079370776> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002740899423> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1079370776> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PracaPopular16032013.gdf-2013-03-16-1713144485-100002740899423> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1713144485> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002740899423> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PracaPopular16032013.gdf-2013-03-16-1713144485-1079370776> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1713144485> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1079370776> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#100002052793733> a fb:Participant ;
+    fb:name "Rafael Ferrer Arroz"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100002052793733"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002156845403> a fb:Participant ;
+    fb:name "Independência Ou Marte"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100002156845403"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000163971176> a fb:Participant ;
+    fb:name "Luíza Dantas"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000163971176"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000388163544> a fb:Participant ;
+    fb:name "Leonardo Menezes"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000388163544"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000679259253> a fb:Participant ;
+    fb:name "Lucas Almeida"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100000679259253"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001592156678> a fb:Participant ;
+    fb:name "Maithe Bertolini"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001592156678"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001944542012> a fb:Participant ;
+    fb:name "Réa Sílvia Ramos Montagner"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001944542012"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002007579854> a fb:Participant ;
+    fb:name "Bárbara Roma"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100002007579854"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#781909429> a fb:Participant ;
+    fb:name "Renato Fabbri"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "781909429"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000653696619> a fb:Participant ;
+    fb:name "Paulo Tauyr"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000653696619"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000847795753> a fb:Participant ;
+    fb:name "Raphael Santos"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000847795753"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1079370776> a fb:Participant ;
+    fb:name "Djalma Nery Nery"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "1079370776"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1713144485> a fb:Participant ;
+    fb:name "Laila Guarani-Kaiowá Manuelle"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1713144485"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002740899423> a fb:Participant ;
+    fb:name "Kelly Bernardo"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100002740899423"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#726169247> a fb:Participant ;
+    fb:name "Marcelo Tramontano"^^xsd:string ;
+    fb:posts 4 ;
+    fb:uid "726169247"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002672582315> a fb:Participant ;
+    fb:name "Casa Sanca"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "100002672582315"^^xsd:string .
+

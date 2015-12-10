@@ -39,7 +39,7 @@
     po:interactionTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/PartidoPirata23032013_fb/rdf/PartidoPirata23032013_fbInteraction.ttl"^^xsd:string ;
     po:interactionXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/PartidoPirata23032013_fb/rdf/PartidoPirata23032013_fbInteraction.owl"^^xsd:string ;
     po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
-    po:triplifiedIn "2015-12-09T23:55:37.574310"^^xsd:datetime ;
+    po:triplifiedIn "2015-12-10T03:30:33.086688"^^xsd:datetime ;
     rdfs:comment "facebook network from PartidoPirata23032013 . Ego: False. Friendship: True. Interaction: True."^^xsd:string .
 
 <http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .

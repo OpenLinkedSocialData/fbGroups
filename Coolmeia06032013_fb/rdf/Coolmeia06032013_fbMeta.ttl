@@ -44,7 +44,7 @@
     po:interactionTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Coolmeia06032013_fb/rdf/Coolmeia06032013_fbInteraction.ttl"^^xsd:string ;
     po:interactionXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Coolmeia06032013_fb/rdf/Coolmeia06032013_fbInteraction.owl"^^xsd:string ;
     po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
-    po:triplifiedIn "2015-12-10T01:59:49.839580"^^xsd:datetime ;
+    po:triplifiedIn "2015-12-10T03:30:56.493752"^^xsd:datetime ;
     rdfs:comment "facebook network from Coolmeia06032013 . Ego: False. Friendship: True. Interaction: True."^^xsd:string .
 
 <http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .

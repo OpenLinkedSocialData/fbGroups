@@ -1,6 +1,6 @@
 This repo delivers RDF data from the facebook
 friendship network of AdornoNaoEhEnfeite29032013 collected around 2013-03-29.
-229 individuals with metadata ['uid', 'sex', 'name', 'locale']
+229 individuals with metadata ['sex', 'uid', 'name', 'locale']
 and 1095 friendships constitute the friendship network in file:
 https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbFriendship.owl
 (anonymized: False).
@@ -10,7 +10,7 @@ network in file:
 https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbInteraction.owl
 (anonymized: True).
 Metadata for discovery is in file:
-https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbMeta.owl.
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbMeta.owl
 Original files:
 https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/base/AdornoNaoEhEnfeite29032013.gdf
 https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/base/AdornoNaoEhEnfeite29032013_interacoes.gdf

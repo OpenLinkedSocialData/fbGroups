@@ -1,0 +1,22 @@
+This repo delivers RDF data from the facebook
+friendship network of Auricultura10042013 collected around 2013-04-10.
+325 individuals with metadata ['sex', 'uid', 'name', 'locale']
+and 3746 friendships constitute the friendship network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Auricultura10042013_fb/rdf/Auricultura10042013_fbFriendship.owl
+(anonymized: False).
+87 individuals with metadata ['posts']
+and 152 interactions with metadata ['node1', 'node2', 'weight'] constitute the interaction 
+network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Auricultura10042013_fb/rdf/Auricultura10042013_fbInteraction.owl
+(anonymized: True).
+Metadata for discovery is in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Auricultura10042013_fb/rdf/Auricultura10042013_fbMeta.owl
+Original files:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Auricultura10042013_fb/base/Auricultura10042013.gdf
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Auricultura10042013_fb/base/Auricultura10042013_interactions.gdf
+Ego network: False
+Friendship network: True
+Interaction network: True
+All files should be available at the git repository:
+https://github.com/OpenLinkedSocialData/fbGroups/tree/master/Auricultura10042013_fb
+

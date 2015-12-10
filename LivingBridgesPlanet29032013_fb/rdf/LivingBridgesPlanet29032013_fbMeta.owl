@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#LivingBridgesPlanet29032013_fb">
+    <fb:nFriendships rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32010</fb:nFriendships>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">node2</fb:interactionAttribute>
+    <fb:groupID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">264044860368840</fb:groupID>
+    <po:socialProtocol rdf:resource="http://purl.org/socialparticipation/po/Platform#Facebook"/>
+    <fb:nFriends rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2907</fb:nFriends>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locale</fb:friendAttribute>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight</fb:interactionAttribute>
+    <fb:originalFriendshipFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/LivingBridgesPlanet29032013_fb/base/LivingBridgesPlanet29032013.gdf</fb:originalFriendshipFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/LivingBridgesPlanet29032013_fb/rdf/LivingBridgesPlanet29032013_fbMeta.owl</po:discorveryRDFFile>
+    <fb:nInteractions rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">484</fb:nInteractions>
+    <fb:friendship rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:friendship>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-10T03:32:01.686243</po:triplifiedIn>
+    <po:friendshipTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/LivingBridgesPlanet29032013_fb/rdf/LivingBridgesPlanet29032013_fbFriendship.ttl</po:friendshipTTLFile>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">name</fb:friendAttribute>
+    <fb:iAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:iAnon>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex</fb:friendAttribute>
+    <fb:nFriendsInteracted rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</fb:nFriendsInteracted>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-03-29</po:createdAt>
+    <po:interactionTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/LivingBridgesPlanet29032013_fb/rdf/LivingBridgesPlanet29032013_fbInteraction.ttl</po:interactionTTLFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facebook network from LivingBridgesPlanet29032013 . Ego: False. Friendship: True. Interaction: True.</rdfs:comment>
+    <fb:ego rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:ego>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/fbGroups/tree/master/LivingBridgesPlanet29032013_fb</po:availableAt>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/LivingBridgesPlanet29032013_fb/rdf/LivingBridgesPlanet29032013_fbMeta.ttl</po:discoveryTTLFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uid</fb:friendAttribute>
+    <fb:interactionFriendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">posts</fb:interactionFriendAttribute>
+    <fb:fbLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/livingbridgesplanet/permalink/352950408144951/</fb:fbLink>
+    <fb:originalInteractionFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/LivingBridgesPlanet29032013_fb/base/LivingBridgesPlanet29032013_interactions.gdf</fb:originalInteractionFile>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LivingBridgesPlanet29032013</po:donatedBy>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot LivingBridgesPlanet29032013_fb</rdfs:label>
+    <po:interactionXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/LivingBridgesPlanet29032013_fb/rdf/LivingBridgesPlanet29032013_fbInteraction.owl</po:interactionXMLFile>
+    <fb:interaction rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:interaction>
+    <fb:groupSID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">livingbridgesplanet</fb:groupSID>
+    <fb:fAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:fAnon>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">node1</fb:interactionAttribute>
+    <po:friendshipXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/LivingBridgesPlanet29032013_fb/rdf/LivingBridgesPlanet29032013_fbFriendship.owl</po:friendshipXMLFile>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Platform#Facebook">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Platform"/>
+  </rdf:Description>
+</rdf:RDF>

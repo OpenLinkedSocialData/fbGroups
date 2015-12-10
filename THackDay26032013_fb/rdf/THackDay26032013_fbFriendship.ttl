@@ -1,0 +1,594 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_25> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_15>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_18>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_22>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_9> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_34> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_13>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_21>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_40> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_17>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_2>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_21>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_3>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_37>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_38>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_4>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_5>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_8> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "female"^^xsd:string .
+
+fb:friend a owl:SymmetricProperty .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_0> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_8> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_22> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_3> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_37>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_38>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_39>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_4>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_5>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_13> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_18> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_15>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_9> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_39> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_37>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_38>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_5>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_38> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_2>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_37>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_5>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_4> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_15> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_9> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_37> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_2>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_36>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_5>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_21> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_17>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_8>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_9> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_35> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_2>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_4>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_5>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_36> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_2>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_21>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_33>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_35>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_5>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_9> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_17> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_8> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_29> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_17>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_8> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_32> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_2>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_33> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_2>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_31>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_32>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_5>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_2> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_5>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_31> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_17>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_2>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_21>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_30>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_8> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_30> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_15>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_17>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_2>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_21>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_28>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_29>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_5>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_8> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_5> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_8> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_28> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_5>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_26> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "de_DE"^^xsd:string ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_27> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_1>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_17>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_26>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_8> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_8> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_24> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_20>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_23>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_8> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_19> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_0>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_10>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_11>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_12>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_13>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_14>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_15>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_16>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_17>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_18>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_6>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_8>,
+        <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_9> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_7> a fb:Participant ;
+    fb:friend <http://purl.org/socialparticipation/fb/Participant#THackDay26032013-user_8> ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:sex "male"^^xsd:string .
+

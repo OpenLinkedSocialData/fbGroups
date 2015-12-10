@@ -42,7 +42,7 @@
     po:interactionTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/RedeTranzmidias02032013_fb/rdf/RedeTranzmidias02032013_fbInteraction.ttl"^^xsd:string ;
     po:interactionXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/RedeTranzmidias02032013_fb/rdf/RedeTranzmidias02032013_fbInteraction.owl"^^xsd:string ;
     po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
-    po:triplifiedIn "2015-12-10T01:15:39.099388"^^xsd:datetime ;
+    po:triplifiedIn "2015-12-10T03:30:51.942257"^^xsd:datetime ;
     rdfs:comment "facebook network from RedeTranzmidias02032013 . Ego: False. Friendship: True. Interaction: True."^^xsd:string .
 
 <http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .

@@ -1,0 +1,22 @@
+This repo delivers RDF data from the facebook
+friendship network of MobilizacoesCulturaisInteriorSP13032013 collected around 2013-03-13.
+297 individuals with metadata ['sex', 'uid', 'name', 'locale']
+and 6085 friendships constitute the friendship network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/MobilizacoesCulturaisInteriorSP13032013_fb/rdf/MobilizacoesCulturaisInteriorSP13032013_fbFriendship.owl
+(anonymized: False).
+22 individuals with metadata ['uid', 'name', 'posts']
+and 11 interactions with metadata ['node1', 'node2', 'weight'] constitute the interaction 
+network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/MobilizacoesCulturaisInteriorSP13032013_fb/rdf/MobilizacoesCulturaisInteriorSP13032013_fbInteraction.owl
+(anonymized: False).
+Metadata for discovery is in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/MobilizacoesCulturaisInteriorSP13032013_fb/rdf/MobilizacoesCulturaisInteriorSP13032013_fbMeta.owl
+Original files:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/MobilizacoesCulturaisInteriorSP13032013_fb/base/MobilizacoesCulturaisInteriorSP13032013.gdf
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/MobilizacoesCulturaisInteriorSP13032013_fb/base/MobilizacoesCulturaisInteriorSP13032013_interacoes.gdf
+Ego network: False
+Friendship network: True
+Interaction network: True
+All files should be available at the git repository:
+https://github.com/OpenLinkedSocialData/fbGroups/tree/master/MobilizacoesCulturaisInteriorSP13032013_fb
+

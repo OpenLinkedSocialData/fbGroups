@@ -16,7 +16,7 @@
         "sex"^^xsd:string,
         "uid"^^xsd:string ;
     fb:friendship true ;
-    fb:groupID 180370915431693 ;
+    fb:groupID "180370915431693"^^xsd:string ;
     fb:groupSID "computerart"^^xsd:string ;
     fb:iAnon false ;
     fb:interaction true ;
@@ -43,7 +43,7 @@
     po:interactionTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/ComputerArt10032013_fb/rdf/ComputerArt10032013_fbInteraction.ttl"^^xsd:string ;
     po:interactionXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/ComputerArt10032013_fb/rdf/ComputerArt10032013_fbInteraction.owl"^^xsd:string ;
     po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
-    po:triplifiedIn "2015-12-10T00:40:39.190111"^^xsd:datetime ;
+    po:triplifiedIn "2015-12-10T03:30:41.882355"^^xsd:datetime ;
     rdfs:comment "facebook network from ComputerArt10032013 . Ego: False. Friendship: True. Interaction: True."^^xsd:string .
 
 <http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .

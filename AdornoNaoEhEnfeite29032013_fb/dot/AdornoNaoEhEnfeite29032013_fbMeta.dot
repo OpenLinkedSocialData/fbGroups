@@ -6,7 +6,7 @@ digraph  {
 		style=filled];
 	"Snapshot AdornoNaoEhEnfeite29032013_fb" -> 0	 [label=createdAt];
 	1	 [color="#02F3F1",
-		label="2015-12-10 00:00:18.599427",
+		label="2015-12-10 03:30:31.394988",
 		style=filled];
 	"Snapshot AdornoNaoEhEnfeite29032013_fb" -> 1	 [label=triplifiedIn];
 	2	 [color="#02F3F1",
@@ -74,11 +74,11 @@ fbFriendship.ttl",
 		style=filled];
 	"Snapshot AdornoNaoEhEnfeite29032013_fb" -> 16	 [label=fAnon];
 	17	 [color="#02F3F1",
-		label=uid,
+		label=sex,
 		style=filled];
 	"Snapshot AdornoNaoEhEnfeite29032013_fb" -> 17	 [label=friendAttribute];
 	18	 [color="#02F3F1",
-		label=sex,
+		label=uid,
 		style=filled];
 	"Snapshot AdornoNaoEhEnfeite29032013_fb" -> 18	 [label=friendAttribute];
 	19	 [color="#02F3F1",

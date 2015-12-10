@@ -40,7 +40,7 @@
     po:interactionTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbInteraction.ttl"^^xsd:string ;
     po:interactionXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbInteraction.owl"^^xsd:string ;
     po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
-    po:triplifiedIn "2015-12-10T00:00:18.599427"^^xsd:datetime ;
+    po:triplifiedIn "2015-12-10T03:30:31.394988"^^xsd:datetime ;
     rdfs:comment "facebook network from AdornoNaoEhEnfeite29032013 . Ego: False. Friendship: True. Interaction: True."^^xsd:string .
 
 <http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .

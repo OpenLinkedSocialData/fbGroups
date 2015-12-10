@@ -1,10 +1,10 @@
 This repo delivers RDF data from the facebook
 friendship network of ComputerArt10032013 collected around 2013-03-10.
-1342 individuals with metadata ['locale', 'name', 'uid', 'sex']
+1342 individuals with metadata ['sex', 'uid', 'name', 'locale']
 and 62753 friendships constitute the friendship network in file:
 https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/ComputerArt10032013_fb/rdf/ComputerArt10032013_fbFriendship.owl
 (anonymized: False).
-41 individuals with metadata ['name', 'uid', 'posts']
+41 individuals with metadata ['uid', 'name', 'posts']
 and 66 interactions with metadata ['node1', 'node2', 'weight'] constitute the interaction 
 network in file:
 https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/ComputerArt10032013_fb/rdf/ComputerArt10032013_fbInteraction.owl

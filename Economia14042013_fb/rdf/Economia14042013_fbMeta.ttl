@@ -41,7 +41,7 @@
     po:interactionTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Economia14042013_fb/rdf/Economia14042013_fbInteraction.ttl"^^xsd:string ;
     po:interactionXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Economia14042013_fb/rdf/Economia14042013_fbInteraction.owl"^^xsd:string ;
     po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
-    po:triplifiedIn "2015-12-10T02:43:53.412932"^^xsd:datetime ;
+    po:triplifiedIn "2015-12-10T03:31:04.051736"^^xsd:datetime ;
     rdfs:comment "facebook network from Economia14042013 . Ego: False. Friendship: True. Interaction: True."^^xsd:string .
 
 <http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .

@@ -16,34 +16,34 @@
     fb:locale "pt_PT"^^xsd:string ;
     fb:name "Ró Prataviera"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000235444553 .
+    fb:uid "100000235444553"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000368614465> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002465544961> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Bruno Garutti"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000368614465 .
+    fb:uid "100000368614465"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001182650681> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001748885187> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Maressa De Proença"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100001182650681 .
+    fb:uid "100001182650681"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002236271320> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Vitor Muramatsu"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002236271320 .
+    fb:uid "100002236271320"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1019048948> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301> ;
     fb:locale "en_US"^^xsd:string ;
     fb:name "Kelly Borges Ramos"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1019048948 .
+    fb:uid "1019048948"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1127184247> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -52,7 +52,7 @@
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Roberta Fiusa Magnelli"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1127184247 .
+    fb:uid "1127184247"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1154684810> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000700823571>,
@@ -60,7 +60,7 @@
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "João Vítor Almeida Rossi"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1154684810 .
+    fb:uid "1154684810"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1180064949> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000669596805>,
@@ -70,20 +70,20 @@
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "William de Paula"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1180064949 .
+    fb:uid "1180064949"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1196371617> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001748885187> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Pâmela Fabrizzio"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1196371617 .
+    fb:uid "1196371617"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1280750089> a fb:Participant ;
     fb:locale "es_LA"^^xsd:string ;
     fb:name "Gustavo Robles"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1280750089 .
+    fb:uid "1280750089"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1309972020> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000455765962>,
@@ -96,7 +96,7 @@
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Francisco Alambert"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1309972020 .
+    fb:uid "1309972020"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1337437011> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -105,7 +105,7 @@
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Paula Ramos"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1337437011 .
+    fb:uid "1337437011"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1352052544> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000144185263>,
@@ -113,7 +113,7 @@
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Maria Nakasu"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1352052544 .
+    fb:uid "1352052544"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1415563286> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -122,20 +122,20 @@
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Bianca Ribeiro"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1415563286 .
+    fb:uid "1415563286"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1425127930> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000510381397> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Thales Schmidt"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1425127930 .
+    fb:uid "1425127930"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1568528705> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Flávio Lacerda"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1568528705 .
+    fb:uid "1568528705"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#516640734> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#520322516>,
@@ -143,7 +143,7 @@
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Larissa Preuss"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 516640734 .
+    fb:uid "516640734"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#520214145> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000665758666>,
@@ -163,7 +163,7 @@
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Erick Felinto"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 520214145 .
+    fb:uid "520214145"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#531716613> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -174,7 +174,7 @@
     fb:locale "en_US"^^xsd:string ;
     fb:name "D See Ker"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 531716613 .
+    fb:uid "531716613"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#572260063> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000144185263>,
@@ -186,13 +186,13 @@
     fb:locale "en_US"^^xsd:string ;
     fb:name "Caio Favaretto"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 572260063 .
+    fb:uid "572260063"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#643913049> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Natacha Szmidke"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 643913049 .
+    fb:uid "643913049"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#649658892> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -203,7 +203,7 @@
     fb:locale "en_US"^^xsd:string ;
     fb:name "Rodrigo Luiz"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 649658892 .
+    fb:uid "649658892"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#652506159> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001425273742>,
@@ -211,20 +211,20 @@
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Sabrina Bettiol"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 652506159 .
+    fb:uid "652506159"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#653239024> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Ricardo Paes"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 653239024 .
+    fb:uid "653239024"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#661201582> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002465544961> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Susana Mesquita Barbosa"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 661201582 .
+    fb:uid "661201582"^^xsd:string .
 
 fb:friend a owl:SymmetricProperty .
 
@@ -235,26 +235,26 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Waldirene Pádua Bícego Waldirene"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000209638042 .
+    fb:uid "100000209638042"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000283952687> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Aurélia Hubner"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000283952687 .
+    fb:uid "100000283952687"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000323048034> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Thiago Dias"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000323048034 .
+    fb:uid "100000323048034"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000354686112> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100003386722055> ;
     fb:locale "en_US"^^xsd:string ;
     fb:name "Paula Silva"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000354686112 .
+    fb:uid "100000354686112"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000363009118> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -262,19 +262,19 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Luciana Furlanetto Pereira"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000363009118 .
+    fb:uid "100000363009118"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000522922071> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Claudia Maria Bonini"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000522922071 .
+    fb:uid "100000522922071"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000628830036> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Roberta Vieira"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000628830036 .
+    fb:uid "100000628830036"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000681447439> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -282,13 +282,13 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Clara Guimarães"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000681447439 .
+    fb:uid "100000681447439"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000835966993> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Ricardo Brasil"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000835966993 .
+    fb:uid "100000835966993"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001423202943> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001748885187>,
@@ -296,7 +296,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Paulo F. Silva"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001423202943 .
+    fb:uid "100001423202943"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001665113997> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002491921939>,
@@ -304,13 +304,13 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Vítor Amorim"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001665113997 .
+    fb:uid "100001665113997"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001705079088> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Anderson Paiva"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001705079088 .
+    fb:uid "100001705079088"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001797631157> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002145362755>,
@@ -318,19 +318,19 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Elcio Da Riva Moura"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001797631157 .
+    fb:uid "100001797631157"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001914899110> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Letícia Simões"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100001914899110 .
+    fb:uid "100001914899110"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002661755456> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Nancy Rafer"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100002661755456 .
+    fb:uid "100002661755456"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1025268459> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000323048034>,
@@ -341,7 +341,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Hidra Colere"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1025268459 .
+    fb:uid "1025268459"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1047681138> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000008975679>,
@@ -354,7 +354,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Leandro Masson"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1047681138 .
+    fb:uid "1047681138"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1061372641> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000566486270>,
@@ -369,7 +369,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_US"^^xsd:string ;
     fb:name "Fabio Akcelrud Durão"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1061372641 .
+    fb:uid "1061372641"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1128519128> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000669596805>,
@@ -380,19 +380,19 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Brunno Almeida Maia"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1128519128 .
+    fb:uid "1128519128"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1162906631> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Hanelise Marzall"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1162906631 .
+    fb:uid "1162906631"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1245665792> a fb:Participant ;
     fb:locale "fr_FR"^^xsd:string ;
     fb:name "Jean-Jacques Herbaud"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1245665792 .
+    fb:uid "1245665792"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1263016696> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000183987957>,
@@ -405,7 +405,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "gl_ES"^^xsd:string ;
     fb:name "Hilan Bensusan"^^xsd:string ;
     fb:sex ""^^xsd:string ;
-    fb:uid 1263016696 .
+    fb:uid "1263016696"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1361345572> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000250020540>,
@@ -414,7 +414,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Eliandro Costa Cordeiro"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1361345572 .
+    fb:uid "1361345572"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1539921657> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000399927546>,
@@ -423,7 +423,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Djulia Gangary"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1539921657 .
+    fb:uid "1539921657"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1555838539> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000809250766>,
@@ -431,21 +431,21 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Canto Canto"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1555838539 .
+    fb:uid "1555838539"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1563863339> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002491921939> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Tatiana Koschelny"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1563863339 .
+    fb:uid "1563863339"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1699879437> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000962672782> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Daniele Cardoso"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1699879437 .
+    fb:uid "1699879437"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1755002359> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -453,14 +453,14 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Jc Ruzza"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1755002359 .
+    fb:uid "1755002359"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1790840582> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001208055046> ;
     fb:locale "en_US"^^xsd:string ;
     fb:name "Davi Mamblona"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1790840582 .
+    fb:uid "1790840582"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#535408770> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000183987957>,
@@ -479,7 +479,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_US"^^xsd:string ;
     fb:name "Renata Felisatti"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 535408770 .
+    fb:uid "535408770"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#558146539> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000113575311>,
@@ -498,7 +498,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Jose Carlos Pernambuco"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 558146539 .
+    fb:uid "558146539"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#568566331> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000264204928>,
@@ -527,7 +527,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Fernando Trz"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 568566331 .
+    fb:uid "568566331"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#597742454> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -536,7 +536,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_US"^^xsd:string ;
     fb:name "Keren Chernizon"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 597742454 .
+    fb:uid "597742454"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#613831000> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000067222744>,
@@ -559,7 +559,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Antonio Walter Ribeiro de Barros Jr."^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 613831000 .
+    fb:uid "613831000"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#628730037> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -567,20 +567,20 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Ivi Belmonte Machado"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 628730037 .
+    fb:uid "628730037"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#661937842> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301> ;
     fb:locale "en_US"^^xsd:string ;
     fb:name "Ludmila Pimentel"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 661937842 .
+    fb:uid "661937842"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#692956138> a fb:Participant ;
     fb:locale "es_LA"^^xsd:string ;
     fb:name "Amira Tremont"^^xsd:string ;
     fb:sex ""^^xsd:string ;
-    fb:uid 692956138 .
+    fb:uid "692956138"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#700344337> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#1327838394>,
@@ -588,7 +588,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "it_IT"^^xsd:string ;
     fb:name "Alex Giordano"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 700344337 .
+    fb:uid "700344337"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#743190198> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000264204928>,
@@ -599,13 +599,13 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Gabi Zabeu"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 743190198 .
+    fb:uid "743190198"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#748836303> a fb:Participant ;
     fb:locale "en_US"^^xsd:string ;
     fb:name "Marília Pasculli"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 748836303 .
+    fb:uid "748836303"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#771163572> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000354686112>,
@@ -615,20 +615,20 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Manuela Monti"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 771163572 .
+    fb:uid "771163572"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#857809658> a fb:Participant ;
     fb:locale "es_LA"^^xsd:string ;
     fb:name "Pedro Sierra"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 857809658 .
+    fb:uid "857809658"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000171990259> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000331406793> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Fernanda Barbosa"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000171990259 .
+    fb:uid "100000171990259"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000250020540> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000809250766>,
@@ -637,7 +637,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Vanessa Fontana"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000250020540 .
+    fb:uid "100000250020540"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000399927546> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001695992205>,
@@ -645,7 +645,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Odie Takio"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000399927546 .
+    fb:uid "100000399927546"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000455765962> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000733711146>,
@@ -655,7 +655,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Rafael Morato Zanatto"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000455765962 .
+    fb:uid "100000455765962"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000456236011> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000682707027>,
@@ -663,7 +663,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Pili Cardoso"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000456236011 .
+    fb:uid "100000456236011"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000566486270> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000665758666>,
@@ -675,7 +675,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Rodrigo Lucheta"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000566486270 .
+    fb:uid "100000566486270"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000669596805> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -684,13 +684,13 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Beatriz Zanfra"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000669596805 .
+    fb:uid "100000669596805"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000879889827> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Ciça Marrara"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000879889827 .
+    fb:uid "100000879889827"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001212505595> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001748885187>,
@@ -700,13 +700,13 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_US"^^xsd:string ;
     fb:name "Patricia Riffel de Almeida"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100001212505595 .
+    fb:uid "100001212505595"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001362993139> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Cata Rina"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100001362993139 .
+    fb:uid "100001362993139"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002077999532> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002526205375>,
@@ -714,44 +714,44 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Carlos Vieira"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002077999532 .
+    fb:uid "100002077999532"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002094353974> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Renan Pavini"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002094353974 .
+    fb:uid "100002094353974"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002235712944> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Adriane Treitero Cônsolo"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100002235712944 .
+    fb:uid "100002235712944"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002289981660> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Jacqueline Arruda"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100002289981660 .
+    fb:uid "100002289981660"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100003053164230> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100003541536545> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Alex Moletta"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100003053164230 .
+    fb:uid "100003053164230"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100003386722055> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Carlos Ramos"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100003386722055 .
+    fb:uid "100003386722055"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100003548630209> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Leonardo André Paes Müller"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100003548630209 .
+    fb:uid "100003548630209"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1070326409> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001254147231>,
@@ -760,7 +760,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Cleiton Rolo"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1070326409 .
+    fb:uid "1070326409"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1147308615> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000264204928>,
@@ -779,7 +779,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Denise Mizukami"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1147308615 .
+    fb:uid "1147308615"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1167564246> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000144185263>,
@@ -800,7 +800,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Vick Gombi"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1167564246 .
+    fb:uid "1167564246"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1177660162> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001723812483>,
@@ -809,7 +809,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "de_DE"^^xsd:string ;
     fb:name "Eduardo Losso"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1177660162 .
+    fb:uid "1177660162"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1226192761> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000834641686>,
@@ -817,7 +817,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Lênon Guarani Kayowá"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1226192761 .
+    fb:uid "1226192761"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1298523459> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000144185263>,
@@ -826,7 +826,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "es_LA"^^xsd:string ;
     fb:name "Mariana Ortiz"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1298523459 .
+    fb:uid "1298523459"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1375982430> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000264204928>,
@@ -843,13 +843,13 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Vitória Daniel"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1375982430 .
+    fb:uid "1375982430"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1429820046> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Allan Nunes"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1429820046 .
+    fb:uid "1429820046"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1533057570> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000264204928>,
@@ -862,7 +862,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Julia Filardi"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1533057570 .
+    fb:uid "1533057570"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1665891154> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -870,7 +870,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Maria Lucia Montes"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1665891154 .
+    fb:uid "1665891154"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#520322516> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000008975679>,
@@ -1026,7 +1026,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Juliana de Souza"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 520322516 .
+    fb:uid "520322516"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#554994561> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -1037,7 +1037,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_GB"^^xsd:string ;
     fb:name "Roy Ascott"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 554994561 .
+    fb:uid "554994561"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#608025035> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000405852852>,
@@ -1048,7 +1048,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Esmeraldo Marques Pergentino Filho"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 608025035 .
+    fb:uid "608025035"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#668361081> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000446509505>,
@@ -1069,14 +1069,14 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Tatiana Melani Tosi"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 668361081 .
+    fb:uid "668361081"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#669203414> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002145362755> ;
     fb:locale "en_GB"^^xsd:string ;
     fb:name "Mari Mari"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 669203414 .
+    fb:uid "669203414"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#697162678> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -1087,7 +1087,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Masi Torres"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 697162678 .
+    fb:uid "697162678"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#708766999> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000008975679>,
@@ -1105,7 +1105,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Gustavo Racy"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 708766999 .
+    fb:uid "708766999"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#712069453> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000264204928>,
@@ -1128,7 +1128,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Lucas Penna"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 712069453 .
+    fb:uid "712069453"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#715387450> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000168571714>,
@@ -1143,14 +1143,14 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Vitor Brumatti"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 715387450 .
+    fb:uid "715387450"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#739666513> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#1691371761> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Louise Bezerra"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 739666513 .
+    fb:uid "739666513"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#768164062> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000301750156>,
@@ -1165,7 +1165,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Taís Capelini"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 768164062 .
+    fb:uid "768164062"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#781263833> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000264204928>,
@@ -1182,7 +1182,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Edu Zal"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 781263833 .
+    fb:uid "781263833"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#781909429> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000405852852>,
@@ -1202,7 +1202,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_US"^^xsd:string ;
     fb:name "Renato Fabbri"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 781909429 .
+    fb:uid "781909429"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#844379719> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -1216,7 +1216,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Marcelo Ariel"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 844379719 .
+    fb:uid "844379719"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000008975679> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001748885187>,
@@ -1225,7 +1225,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_PT"^^xsd:string ;
     fb:name "Jean D. Soares"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000008975679 .
+    fb:uid "100000008975679"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000067222744> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000300132708>,
@@ -1240,21 +1240,21 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Laís Fernandes"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000067222744 .
+    fb:uid "100000067222744"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000217975723> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001701153807> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Erica Franzon"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000217975723 .
+    fb:uid "100000217975723"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000326214928> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001696445297> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Bruno Carvalho"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000326214928 .
+    fb:uid "100000326214928"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000347863172> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000405852852>,
@@ -1265,7 +1265,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Roger Fernando Vicente"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000347863172 .
+    fb:uid "100000347863172"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000381622349> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001215387261>,
@@ -1275,7 +1275,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Taisly Mazza"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000381622349 .
+    fb:uid "100000381622349"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000446509505> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001997482871>,
@@ -1283,20 +1283,20 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Evandro Souza"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000446509505 .
+    fb:uid "100000446509505"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000545804622> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Diogo Farias"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000545804622 .
+    fb:uid "100000545804622"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000611316312> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002357404090> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Alécia Pontes"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000611316312 .
+    fb:uid "100000611316312"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000733711146> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -1304,34 +1304,34 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Fábio Uchôa"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000733711146 .
+    fb:uid "100000733711146"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000964020292> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001748885187> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Roberta Stubs"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000964020292 .
+    fb:uid "100000964020292"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001517084896> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002491921939> ;
     fb:locale "en_US"^^xsd:string ;
     fb:name "Renato Belinelli"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001517084896 .
+    fb:uid "100001517084896"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001695992205> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002421567306> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Nei Vital"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001695992205 .
+    fb:uid "100001695992205"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001701153807> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Francienne Hernandes"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100001701153807 .
+    fb:uid "100001701153807"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001840777612> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002104932991>,
@@ -1339,7 +1339,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Aline Maffi"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100001840777612 .
+    fb:uid "100001840777612"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001928414879> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002104932991>,
@@ -1347,27 +1347,27 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Beatriz Moraes"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100001928414879 .
+    fb:uid "100001928414879"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001997482871> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002680041203> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Francisco Peres"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001997482871 .
+    fb:uid "100001997482871"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002695748605> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002792929035> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Artur Sinaque Bez"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002695748605 .
+    fb:uid "100002695748605"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002923787760> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Laís Aglio Rossi"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100002923787760 .
+    fb:uid "100002923787760"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1038132846> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000782886045>,
@@ -1378,7 +1378,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "es_ES"^^xsd:string ;
     fb:name "Rafael Franco Coelho"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1038132846 .
+    fb:uid "1038132846"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1138997724> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -1386,7 +1386,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_US"^^xsd:string ;
     fb:name "Rodrigo Gidra"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1138997724 .
+    fb:uid "1138997724"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1177771136> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000144185263>,
@@ -1395,7 +1395,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Caito Navalhada"^^xsd:string ;
     fb:sex ""^^xsd:string ;
-    fb:uid 1177771136 .
+    fb:uid "1177771136"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1313865945> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -1410,7 +1410,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Romero Freitas"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1313865945 .
+    fb:uid "1313865945"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1331804749> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000144185263>,
@@ -1423,7 +1423,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Gustavo Pedroso"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1331804749 .
+    fb:uid "1331804749"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1355695191> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -1433,7 +1433,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_PT"^^xsd:string ;
     fb:name "Clotilde Perez"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1355695191 .
+    fb:uid "1355695191"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1356031096> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -1444,7 +1444,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Jussara Alonso"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1356031096 .
+    fb:uid "1356031096"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1525420140> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000171990259>,
@@ -1457,7 +1457,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_US"^^xsd:string ;
     fb:name "Diego Pessoa"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1525420140 .
+    fb:uid "1525420140"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1701254446> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000700823571>,
@@ -1466,7 +1466,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Charles Feitosa"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1701254446 .
+    fb:uid "1701254446"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1832973842> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000168571714>,
@@ -1477,7 +1477,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Danilo Gomes"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1832973842 .
+    fb:uid "1832973842"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#632041580> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -1491,7 +1491,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Georgia Haddad Nicolau"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 632041580 .
+    fb:uid "632041580"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#670259864> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#1038132846>,
@@ -1501,7 +1501,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Sergio Bairon"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 670259864 .
+    fb:uid "670259864"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000168571714> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000300132708>,
@@ -1514,7 +1514,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Lourdes Feitosa"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000168571714 .
+    fb:uid "100000168571714"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000300132708> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000545804622>,
@@ -1530,7 +1530,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Roger M. M. Gomes"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000300132708 .
+    fb:uid "100000300132708"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000301750156> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000405852852>,
@@ -1541,44 +1541,44 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Lemuel Simis"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000301750156 .
+    fb:uid "100000301750156"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001039831800> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Edla Eggert"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100001039831800 .
+    fb:uid "100001039831800"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002061698036> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Vivian Cristina"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100002061698036 .
+    fb:uid "100002061698036"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002421567306> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Cão Pereira"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002421567306 .
+    fb:uid "100002421567306"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002792929035> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Kauana Anglés"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100002792929035 .
+    fb:uid "100002792929035"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100003357278369> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100003816925268> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Jorge Vasconcellos"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100003357278369 .
+    fb:uid "100003357278369"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100003744238533> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Bárbara Milano"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100003744238533 .
+    fb:uid "100003744238533"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1171535087> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000264204928>,
@@ -1596,7 +1596,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_GB"^^xsd:string ;
     fb:name "Luis Germano"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1171535087 .
+    fb:uid "1171535087"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1242083048> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000405852852>,
@@ -1606,7 +1606,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_GB"^^xsd:string ;
     fb:name "Francisco Trento"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1242083048 .
+    fb:uid "1242083048"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1546014583> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -1615,7 +1615,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_GB"^^xsd:string ;
     fb:name "Flavia Kremer"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1546014583 .
+    fb:uid "1546014583"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1652395978> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000962672782>,
@@ -1624,7 +1624,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_US"^^xsd:string ;
     fb:name "Ivi Castanho"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1652395978 .
+    fb:uid "1652395978"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1736575430> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000183987957>,
@@ -1633,14 +1633,14 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Luciana Zaterka"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1736575430 .
+    fb:uid "1736575430"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1787438912> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000217975723> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Norval Baitello Junior"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1787438912 .
+    fb:uid "1787438912"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#836944624> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000264204928>,
@@ -1670,7 +1670,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Attraktor Zeros"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 836944624 .
+    fb:uid "836944624"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#838737751> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -1686,7 +1686,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Daniel Valente"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 838737751 .
+    fb:uid "838737751"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000113575311> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000264204928>,
@@ -1696,7 +1696,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_GB"^^xsd:string ;
     fb:name "Cláudia Bohn"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000113575311 .
+    fb:uid "100000113575311"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000809250766> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001215387261>,
@@ -1704,13 +1704,13 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Fernando Marinheiro"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000809250766 .
+    fb:uid "100000809250766"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001208055046> a fb:Participant ;
     fb:locale "pt_PT"^^xsd:string ;
     fb:name "Mariana Leme"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100001208055046 .
+    fb:uid "100001208055046"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001210663098> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001840976491>,
@@ -1722,14 +1722,14 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Mauricio Brugnolo"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001210663098 .
+    fb:uid "100001210663098"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001696445297> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002017785545> ;
     fb:locale "fr_FR"^^xsd:string ;
     fb:name "Hugo Lana"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001696445297 .
+    fb:uid "100001696445297"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001735002166> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001823571416>,
@@ -1737,7 +1737,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Francisco Costa Costa"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001735002166 .
+    fb:uid "100001735002166"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002383405748> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002465544961>,
@@ -1746,26 +1746,26 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Antonio Carlos Gonçalves"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002383405748 .
+    fb:uid "100002383405748"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002890786837> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100003318572356> ;
     fb:locale "en_US"^^xsd:string ;
     fb:name "Natalia Juliani"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100002890786837 .
+    fb:uid "100002890786837"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100004300807393> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Francielle Freire"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100004300807393 .
+    fb:uid "100004300807393"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100004390863145> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Luiz Vitor Martinello"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100004390863145 .
+    fb:uid "100004390863145"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1053136167> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -1779,7 +1779,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Helô Cuente"^^xsd:string ;
     fb:sex ""^^xsd:string ;
-    fb:uid 1053136167 .
+    fb:uid "1053136167"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1442918777> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000113575311>,
@@ -1790,7 +1790,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "es_ES"^^xsd:string ;
     fb:name "Vitoria Bonsi"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1442918777 .
+    fb:uid "1442918777"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1603775104> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -1798,7 +1798,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Guilherme Maschke"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1603775104 .
+    fb:uid "1603775104"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1691371761> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000183987957>,
@@ -1806,7 +1806,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Rodrigo Petronio"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1691371761 .
+    fb:uid "1691371761"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000183987957> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -1814,7 +1814,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Ana Cristina Joaquim"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000183987957 .
+    fb:uid "100000183987957"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000457609775> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000700823571>,
@@ -1823,7 +1823,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Gera Rocha"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000457609775 .
+    fb:uid "100000457609775"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000510381397> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000986379051>,
@@ -1832,7 +1832,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Laís Bellini"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000510381397 .
+    fb:uid "100000510381397"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000665758666> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000700823571>,
@@ -1845,7 +1845,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_US"^^xsd:string ;
     fb:name "Cibele Horizonte"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000665758666 .
+    fb:uid "100000665758666"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000782886045> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001254147231>,
@@ -1856,14 +1856,14 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Ricardo Polettini"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000782886045 .
+    fb:uid "100000782886045"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001096887972> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001208055046> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Roberta Dezan"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100001096887972 .
+    fb:uid "100001096887972"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001823571416> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001928414879>,
@@ -1872,13 +1872,13 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Ana Laura Oliveira"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100001823571416 .
+    fb:uid "100001823571416"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002113625352> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Bruno Emmanuel Sanches"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002113625352 .
+    fb:uid "100002113625352"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002143730439> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002890786837>,
@@ -1886,27 +1886,27 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Diego Diz Ferreira"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002143730439 .
+    fb:uid "100002143730439"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002290835702> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002567405621> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Pedro Magnabosco"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002290835702 .
+    fb:uid "100002290835702"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002357404090> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002491921939> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "L Seven Martins"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002357404090 .
+    fb:uid "100002357404090"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002948609056> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Marcelo Benedito"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002948609056 .
+    fb:uid "100002948609056"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1031331658> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000733711146>,
@@ -1922,7 +1922,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Dudu Tsuda"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1031331658 .
+    fb:uid "1031331658"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1110305437> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000331406793>,
@@ -1940,7 +1940,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Caleb Luporini"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1110305437 .
+    fb:uid "1110305437"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1838423615> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000183987957>,
@@ -1950,7 +1950,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_US"^^xsd:string ;
     fb:name "Chiu Yi Chih"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1838423615 .
+    fb:uid "1838423615"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000238303975> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000264204928>,
@@ -1965,7 +1965,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Leandro Atta"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000238303975 .
+    fb:uid "100000238303975"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000331406793> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100003541536545>,
@@ -1973,7 +1973,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Glamour Garcia"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000331406793 .
+    fb:uid "100000331406793"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000682707027> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001215387261>,
@@ -1983,7 +1983,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Luiz Henrique Herrera"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000682707027 .
+    fb:uid "100000682707027"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1071851267> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000144185263>,
@@ -2002,7 +2002,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_US"^^xsd:string ;
     fb:name "Rita Wu"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1071851267 .
+    fb:uid "1071851267"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1110739967> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -2015,7 +2015,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_US"^^xsd:string ;
     fb:name "Paloma Oliveira"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1110739967 .
+    fb:uid "1110739967"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1403407019> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000113575311>,
@@ -2029,7 +2029,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "es_LA"^^xsd:string ;
     fb:name "Carolina Bonsi"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1403407019 .
+    fb:uid "1403407019"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000834641686> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001423202943>,
@@ -2039,7 +2039,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Maria Érbia"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000834641686 .
+    fb:uid "100000834641686"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001840976491> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002145362755>,
@@ -2050,21 +2050,21 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Diego Giusep"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001840976491 .
+    fb:uid "100001840976491"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002390984924> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100003541536545> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Vanessa Ferreira"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100002390984924 .
+    fb:uid "100002390984924"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002567405621> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002680041203> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Cláudia Robles"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100002567405621 .
+    fb:uid "100002567405621"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000700823571> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -2074,25 +2074,25 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Raísa Inocêncio"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000700823571 .
+    fb:uid "100000700823571"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100003318572356> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Raul Hoffmann"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100003318572356 .
+    fb:uid "100003318572356"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100003816925268> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Pedro Hussak"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100003816925268 .
+    fb:uid "100003816925268"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100004890041371> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Dziga Kut Paik"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100004890041371 .
+    fb:uid "100004890041371"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1355798902> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000812625301>,
@@ -2105,7 +2105,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_US"^^xsd:string ;
     fb:name "Sheila Canevacci Ribeiro"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1355798902 .
+    fb:uid "1355798902"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1379920061> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000144185263>,
@@ -2118,7 +2118,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_US"^^xsd:string ;
     fb:name "Deborah Antunes"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1379920061 .
+    fb:uid "1379920061"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002017785545> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002104932991>,
@@ -2127,21 +2127,21 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Paulo Eduardo Tonon"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002017785545 .
+    fb:uid "100002017785545"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002526205375> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100004004423998> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Rafaela Aragon"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100002526205375 .
+    fb:uid "100002526205375"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002680041203> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002948609056> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Pedro Pamplona"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002680041203 .
+    fb:uid "100002680041203"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1327838394> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000144185263>,
@@ -2158,7 +2158,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "it_IT"^^xsd:string ;
     fb:name "Massimo Canevacci"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 1327838394 .
+    fb:uid "1327838394"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1537227548> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000067222744>,
@@ -2177,7 +2177,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Tarsila Schubert"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1537227548 .
+    fb:uid "1537227548"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000144185263> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000326214928>,
@@ -2195,7 +2195,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Silvio Carneiro"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000144185263 .
+    fb:uid "100000144185263"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002465544961> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002526205375>,
@@ -2205,7 +2205,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Susana Barbosa"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100002465544961 .
+    fb:uid "100002465544961"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001480638045> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001823571416>,
@@ -2213,7 +2213,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Brunno Goulart de Souza"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001480638045 .
+    fb:uid "100001480638045"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001846720767> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100003541536545>,
@@ -2221,13 +2221,13 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Rodrigo Duarte"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001846720767 .
+    fb:uid "100001846720767"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100004004423998> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Angela Zamora Cilento"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100004004423998 .
+    fb:uid "100004004423998"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000986379051> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002104932991>,
@@ -2235,7 +2235,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Aline Paes"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000986379051 .
+    fb:uid "100000986379051"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001723812483> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001748885187>,
@@ -2244,14 +2244,14 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Renato B Franco"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001723812483 .
+    fb:uid "100001723812483"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100003395403291> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100003541536545> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "O Pensador da Aldeia"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100003395403291 .
+    fb:uid "100003395403291"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001425273742> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001823571416>,
@@ -2266,7 +2266,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Isabella Serrano"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100001425273742 .
+    fb:uid "100001425273742"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000264204928> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000347863172>,
@@ -2280,7 +2280,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "en_US"^^xsd:string ;
     fb:name "Vinícius Luz"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000264204928 .
+    fb:uid "100000264204928"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001215387261> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001425273742>,
@@ -2299,7 +2299,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Jackson Valentim Bastos"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001215387261 .
+    fb:uid "100001215387261"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002080034739> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100003541536545>,
@@ -2307,7 +2307,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "es_LA"^^xsd:string ;
     fb:name "Daniel Gonzalez Xavier"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002080034739 .
+    fb:uid "100002080034739"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000962672782> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001096887972>,
@@ -2316,13 +2316,13 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Felipe Atta"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100000962672782 .
+    fb:uid "100000962672782"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100004436223609> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Theo Oliveira"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100004436223609 .
+    fb:uid "100004436223609"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#1734961933> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000144185263>,
@@ -2342,7 +2342,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Paloma Guarani-Kaiowá Kliss"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 1734961933 .
+    fb:uid "1734961933"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001254147231> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001480638045>,
@@ -2352,7 +2352,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Luís Paulo Césari Domingues"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001254147231 .
+    fb:uid "100001254147231"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002104932991> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002113625352>,
@@ -2364,7 +2364,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Post Mejnun Aran"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002104932991 .
+    fb:uid "100002104932991"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002145362755> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100002383405748>,
@@ -2378,7 +2378,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Moyra Madeira"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100002145362755 .
+    fb:uid "100002145362755"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000405852852> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000446509505>,
@@ -2407,7 +2407,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Camila Turtelli"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000405852852 .
+    fb:uid "100000405852852"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100001748885187> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100001846720767>,
@@ -2417,14 +2417,14 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Robespierre de Oliveira"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100001748885187 .
+    fb:uid "100001748885187"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100002491921939> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100003541536545> ;
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Lucas Guarani Kaiwoá Grilli Maia"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100002491921939 .
+    fb:uid "100002491921939"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100003541536545> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100003744238533>,
@@ -2434,7 +2434,7 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_BR"^^xsd:string ;
     fb:name "Fabiano Alcântara"^^xsd:string ;
     fb:sex "male"^^xsd:string ;
-    fb:uid 100003541536545 .
+    fb:uid "100003541536545"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#100000812625301> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#100000834641686>,
@@ -2475,5 +2475,5 @@ fb:friend a owl:SymmetricProperty .
     fb:locale "pt_PT"^^xsd:string ;
     fb:name "Marilia Pisani"^^xsd:string ;
     fb:sex "female"^^xsd:string ;
-    fb:uid 100000812625301 .
+    fb:uid "100000812625301"^^xsd:string .
 

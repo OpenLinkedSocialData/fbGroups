@@ -43,7 +43,7 @@
     po:interactionTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/EconomiaCriativaDigital03032013_fb/rdf/EconomiaCriativaDigital03032013_fbInteraction.ttl"^^xsd:string ;
     po:interactionXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/EconomiaCriativaDigital03032013_fb/rdf/EconomiaCriativaDigital03032013_fbInteraction.owl"^^xsd:string ;
     po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
-    po:triplifiedIn "2015-12-10T02:57:14.298042"^^xsd:datetime ;
+    po:triplifiedIn "2015-12-10T03:31:32.294115"^^xsd:datetime ;
     rdfs:comment "facebook network from EconomiaCriativaDigital03032013 . Ego: False. Friendship: True. Interaction: True."^^xsd:string .
 
 <http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .

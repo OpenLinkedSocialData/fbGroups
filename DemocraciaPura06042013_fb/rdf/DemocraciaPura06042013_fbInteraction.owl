@@ -3,425 +3,147 @@
    xmlns:fb="http://purl.org/socialparticipation/fb/"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_22">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_40-DemocraciaPura06042013_interactions-user_26">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_40"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_29-DemocraciaPura06042013_interactions-user_26">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_29"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
   <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_11">
     <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11"/>
     <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
     <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_41">
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_16">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_39">
     <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_30-DemocraciaPura06042013_interactions-user_1">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_30"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_4-DemocraciaPura06042013_interactions-user_1">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_4"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_11-DemocraciaPura06042013_interactions-user_7">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_9">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_23-DemocraciaPura06042013_interactions-user_5">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_23"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_7-DemocraciaPura06042013_interactions-user_26">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_9">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
     <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
     <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_5">
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_6">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_24-DemocraciaPura06042013_interactions-user_3">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_24"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_35">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_1-DemocraciaPura06042013_interactions-user_26">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_14">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_1-DemocraciaPura06042013_interactions-user_1">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</fb:weight>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_10">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_0-DemocraciaPura06042013_interactions-user_5">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31"/>
     <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_0"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_14-DemocraciaPura06042013_interactions-user_1">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_14"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_6-DemocraciaPura06042013_interactions-user_5">
     <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_11-DemocraciaPura06042013_interactions-user_5">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
     <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_18-DemocraciaPura06042013_interactions-user_1">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_18"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_13">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_1">
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_5">
     <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
     <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_0-DemocraciaPura06042013_interactions-user_26">
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_0"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_8-DemocraciaPura06042013_interactions-user_5">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_8"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
     <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_27-DemocraciaPura06042013_interactions-user_26">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_27"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_38">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_3-DemocraciaPura06042013_interactions-user_7">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_13-DemocraciaPura06042013_interactions-user_1">
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_13"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_28-DemocraciaPura06042013_interactions-user_26">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_28"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_33-DemocraciaPura06042013_interactions-user_5">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_33"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_26">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_36-DemocraciaPura06042013_interactions-user_26">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_36"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_29-DemocraciaPura06042013_interactions-user_1">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_29"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_3-DemocraciaPura06042013_interactions-user_1">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_40-DemocraciaPura06042013_interactions-user_26">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_40"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_7-DemocraciaPura06042013_interactions-user_5">
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_5">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_35-DemocraciaPura06042013_interactions-user_26">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_35"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_3-DemocraciaPura06042013_interactions-user_5">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_5-DemocraciaPura06042013_interactions-user_11">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_12">
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_25">
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
     <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_4-DemocraciaPura06042013_interactions-user_0">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_0"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_4"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_11-DemocraciaPura06042013_interactions-user_5">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_10">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_22-DemocraciaPura06042013_interactions-user_1">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_22"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_0">
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_6">
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:posts>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">146</fb:posts>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_22">
     <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_5-DemocraciaPura06042013_interactions-user_11">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_33">
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
     <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_17-DemocraciaPura06042013_interactions-user_3">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_17"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_20-DemocraciaPura06042013_interactions-user_1">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_20"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_29-DemocraciaPura06042013_interactions-user_26">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_29"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_26">
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_1">
     <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_32-DemocraciaPura06042013_interactions-user_5">
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_32"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_37">
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_34-DemocraciaPura06042013_interactions-user_26">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_34"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_13">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
     <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_5">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_0-DemocraciaPura06042013_interactions-user_1">
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</fb:weight>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_0"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_24-DemocraciaPura06042013_interactions-user_1">
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_24"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_21-DemocraciaPura06042013_interactions-user_1">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_21"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_15">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_18-DemocraciaPura06042013_interactions-user_26">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_18"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_2-DemocraciaPura06042013_interactions-user_5">
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_0-DemocraciaPura06042013_interactions-user_5">
     <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
     <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_2"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_0"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_36">
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_29">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_38">
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
     <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_26">
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_34-DemocraciaPura06042013_interactions-user_26">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_34"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_1">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31"/>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_0-DemocraciaPura06042013_interactions-user_1">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_0"/>
     <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</fb:weight>
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</fb:weight>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_24">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_33-DemocraciaPura06042013_interactions-user_33">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_33"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_33"/>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_4-DemocraciaPura06042013_interactions-user_1">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_4"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_28">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_35-DemocraciaPura06042013_interactions-user_26">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_35"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_16">
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_21">
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
     <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_33">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_33"/>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_10">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
     <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</fb:posts>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_8-DemocraciaPura06042013_interactions-user_5">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_8"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_39-DemocraciaPura06042013_interactions-user_26">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_39"/>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_0-DemocraciaPura06042013_interactions-user_26">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_0"/>
     <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_1">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_11-DemocraciaPura06042013_interactions-user_26">
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
@@ -429,137 +151,55 @@
     <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11"/>
     <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_38-DemocraciaPura06042013_interactions-user_26">
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_26">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
     <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_38"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_37-DemocraciaPura06042013_interactions-user_26">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_37"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_3">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_5">
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_25">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_20">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
     <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_20"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_3-DemocraciaPura06042013_interactions-user_26">
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
     <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_24-DemocraciaPura06042013_interactions-user_5">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
     <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_24"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_4">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:posts>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</fb:posts>
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_41-DemocraciaPura06042013_interactions-user_1">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_41"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_23">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_2-DemocraciaPura06042013_interactions-user_1">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_2"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_2-DemocraciaPura06042013_interactions-user_26">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_2"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
-    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
   </rdf:Description>
   <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_7">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
     <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7"/>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
     <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_20">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_32">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_10">
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31"/>
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
-    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_6-DemocraciaPura06042013_interactions-user_5">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_6"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_33-DemocraciaPura06042013_interactions-user_5">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_33"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_18-DemocraciaPura06042013_interactions-user_26">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_18"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_24">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_23-DemocraciaPura06042013_interactions-user_5">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_23"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
     <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_39">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:posts>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_2">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_30">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_18">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_27">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_34">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_8">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_26-DemocraciaPura06042013_interactions-user_1">
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
@@ -567,34 +207,394 @@
     <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
     <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
   </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_4">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_14-DemocraciaPura06042013_interactions-user_1">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_14"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_7-DemocraciaPura06042013_interactions-user_5">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_19">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_24-DemocraciaPura06042013_interactions-user_3">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_24"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_26">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_33">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_33"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_28-DemocraciaPura06042013_interactions-user_26">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_28"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_3-DemocraciaPura06042013_interactions-user_7">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_33-DemocraciaPura06042013_interactions-user_33">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_33"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_33"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_40">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_1">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_20-DemocraciaPura06042013_interactions-user_1">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_20"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_32-DemocraciaPura06042013_interactions-user_5">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_32"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_29-DemocraciaPura06042013_interactions-user_1">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_29"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_0">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_3-DemocraciaPura06042013_interactions-user_5">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_41-DemocraciaPura06042013_interactions-user_1">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_41"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_20">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_20"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_3-DemocraciaPura06042013_interactions-user_26">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_30">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_10">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_39-DemocraciaPura06042013_interactions-user_26">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_39"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_23">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_26">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_3-DemocraciaPura06042013_interactions-user_1">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_11-DemocraciaPura06042013_interactions-user_7">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_3">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_32">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_27-DemocraciaPura06042013_interactions-user_26">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_27"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_38-DemocraciaPura06042013_interactions-user_26">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_38"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_34">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_28">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_10">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_2">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_9">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_7-DemocraciaPura06042013_interactions-user_26">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_1-DemocraciaPura06042013_interactions-user_26">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_36-DemocraciaPura06042013_interactions-user_26">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_36"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
   <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_11-DemocraciaPura06042013_interactions-user_1">
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
     <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</fb:weight>
-    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11"/>
     <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_24-DemocraciaPura06042013_interactions-user_1">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_24"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_41">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_13-DemocraciaPura06042013_interactions-user_1">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_13"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">146</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_30-DemocraciaPura06042013_interactions-user_1">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_30"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_2-DemocraciaPura06042013_interactions-user_26">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_36">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_4-DemocraciaPura06042013_interactions-user_0">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_0"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_17">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_35">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_2-DemocraciaPura06042013_interactions-user_1">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_2"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_8">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_1">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_18-DemocraciaPura06042013_interactions-user_1">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_18"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_20">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_12">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_27">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_2-DemocraciaPura06042013_interactions-user_5">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_2"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_15">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_18">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_14">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_37">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_21-DemocraciaPura06042013_interactions-user_1">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_21"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_22-DemocraciaPura06042013_interactions-user_1">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_22"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_1-DemocraciaPura06042013_interactions-user_1">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_17-DemocraciaPura06042013_interactions-user_3">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_17"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
   </rdf:Description>
   <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10">
     <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
     <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_19">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_37-DemocraciaPura06042013_interactions-user_26">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_37"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26"/>
   </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_29">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_40">
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_21">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
-  </rdf:Description>
-  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_17">
-    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
-    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_5">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5"/>
   </rdf:Description>
 </rdf:RDF>

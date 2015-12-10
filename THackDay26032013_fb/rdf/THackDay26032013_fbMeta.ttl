@@ -1,0 +1,45 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#THackDay26032013_fb> a po:Snapshot ;
+    rdfs:label "Snapshot THackDay26032013_fb"^^xsd:string ;
+    fb:ego false ;
+    fb:fAnon true ;
+    fb:friendAttribute "locale"^^xsd:string,
+        "sex"^^xsd:string ;
+    fb:friendship true ;
+    fb:groupID "482669121788679"^^xsd:string ;
+    fb:groupSID "thackday"^^xsd:string ;
+    fb:iAnon true ;
+    fb:interaction true ;
+    fb:interactionAttribute "node1"^^xsd:string,
+        "node2"^^xsd:string,
+        "weight"^^xsd:string ;
+    fb:interactionFriendAttribute "posts"^^xsd:string ;
+    fb:nFriends 41 ;
+    fb:nFriendsInteracted 0 ;
+    fb:nFriendships 420 ;
+    fb:nInteractions 0 ;
+    fb:originalFriendshipFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/THackDay26032013_fb/base/THackDay26032013.gdf"^^xsd:string ;
+    fb:originalInteractionFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/THackDay26032013_fb/base/THackDay26032013_interacoes.gdf"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/fbGroups/tree/master/THackDay26032013_fb"^^xsd:string ;
+    po:createdAt "2013-03-26"^^xsd:date ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/THackDay26032013_fb/rdf/THackDay26032013_fbMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/THackDay26032013_fb/rdf/THackDay26032013_fbMeta.ttl"^^xsd:string ;
+    po:donatedBy "THackDay26032013"^^xsd:string ;
+    po:friendshipTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/THackDay26032013_fb/rdf/THackDay26032013_fbFriendship.ttl"^^xsd:string ;
+    po:friendshipXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/THackDay26032013_fb/rdf/THackDay26032013_fbFriendship.owl"^^xsd:string ;
+    po:interactionTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/THackDay26032013_fb/rdf/THackDay26032013_fbInteraction.ttl"^^xsd:string ;
+    po:interactionXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/THackDay26032013_fb/rdf/THackDay26032013_fbInteraction.owl"^^xsd:string ;
+    po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
+    po:triplifiedIn "2015-12-10T03:32:14.043352"^^xsd:datetime ;
+    rdfs:comment "facebook network from THackDay26032013 . Ego: False. Friendship: True. Interaction: True."^^xsd:string .
+
+<http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .
+

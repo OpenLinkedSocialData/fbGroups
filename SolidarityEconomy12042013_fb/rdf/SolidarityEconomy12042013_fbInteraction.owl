@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_2-SolidarityEconomy12042013_interactions-user_46">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_46"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_4">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_4-SolidarityEconomy12042013_interactions-user_14">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_14"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_4"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_12-SolidarityEconomy12042013_interactions-user_42">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_12"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_42"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_4-SolidarityEconomy12042013_interactions-user_6">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_4"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_34-SolidarityEconomy12042013_interactions-user_0">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_34"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_14-SolidarityEconomy12042013_interactions-user_12">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_14"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_12"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_11-SolidarityEconomy12042013_interactions-user_1">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_1"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_32-SolidarityEconomy12042013_interactions-user_5">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_32"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_5"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_2-SolidarityEconomy12042013_interactions-user_24">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_24"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_2-SolidarityEconomy12042013_interactions-user_26">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_26"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_31-SolidarityEconomy12042013_interactions-user_0">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_31"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_34-SolidarityEconomy12042013_interactions-user_34">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_34"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_34"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_50">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_58">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_50-SolidarityEconomy12042013_interactions-user_52">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_50"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_52"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_1">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_1-SolidarityEconomy12042013_interactions-user_3">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_1"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_26">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_19-SolidarityEconomy12042013_interactions-user_10">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_19"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_3-SolidarityEconomy12042013_interactions-user_3">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_0-SolidarityEconomy12042013_interactions-user_3">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_1-SolidarityEconomy12042013_interactions-user_48">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_48"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_1"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_5-SolidarityEconomy12042013_interactions-user_0">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_22-SolidarityEconomy12042013_interactions-user_0">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_50-SolidarityEconomy12042013_interactions-user_0">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_50"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_40">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_2-SolidarityEconomy12042013_interactions-user_5">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_5"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_1-SolidarityEconomy12042013_interactions-user_0">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_1"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_36-SolidarityEconomy12042013_interactions-user_33">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_36"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_33"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_14-SolidarityEconomy12042013_interactions-user_6">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_24">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_4-SolidarityEconomy12042013_interactions-user_9">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_4"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_17-SolidarityEconomy12042013_interactions-user_5">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_17"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_5"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_6-SolidarityEconomy12042013_interactions-user_12">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_12"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_62">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_6-SolidarityEconomy12042013_interactions-user_23">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_23"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_8-SolidarityEconomy12042013_interactions-user_14">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_8"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_14"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_56-SolidarityEconomy12042013_interactions-user_0">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_56"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_14-SolidarityEconomy12042013_interactions-user_14">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_14"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_14"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_23">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_7-SolidarityEconomy12042013_interactions-user_6">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_7"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_60">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_31">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_17">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_54-SolidarityEconomy12042013_interactions-user_12">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_54"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_12"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_49-SolidarityEconomy12042013_interactions-user_48">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_48"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_49"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_33">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_13-SolidarityEconomy12042013_interactions-user_12">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_12"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_13"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_2-SolidarityEconomy12042013_interactions-user_9">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_9"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_38">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_56">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_14-SolidarityEconomy12042013_interactions-user_3">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_14"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_52">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_59-SolidarityEconomy12042013_interactions-user_0">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_59"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_63-SolidarityEconomy12042013_interactions-user_0">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_63"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_11">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_10">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_8-SolidarityEconomy12042013_interactions-user_6">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_8"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_6-SolidarityEconomy12042013_interactions-user_6">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_58-SolidarityEconomy12042013_interactions-user_0">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_58"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_62-SolidarityEconomy12042013_interactions-user_12">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_62"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_12"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_4-SolidarityEconomy12042013_interactions-user_3">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_4"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_12-SolidarityEconomy12042013_interactions-user_3">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_12"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_30-SolidarityEconomy12042013_interactions-user_0">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_30"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_19">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_2-SolidarityEconomy12042013_interactions-user_42">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_42"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_44-SolidarityEconomy12042013_interactions-user_0">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_44"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_48">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_35-SolidarityEconomy12042013_interactions-user_33">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_33"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_35"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_14-SolidarityEconomy12042013_interactions-user_2">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_14"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_49-SolidarityEconomy12042013_interactions-user_0">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_49"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_49-SolidarityEconomy12042013_interactions-user_3">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_49"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_2-SolidarityEconomy12042013_interactions-user_12">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_12"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_40-SolidarityEconomy12042013_interactions-user_0">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_40"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_35-SolidarityEconomy12042013_interactions-user_0">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_35"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_2-SolidarityEconomy12042013_interactions-user_0">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_57-SolidarityEconomy12042013_interactions-user_0">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_57"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_46-SolidarityEconomy12042013_interactions-user_0">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_46"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_1-SolidarityEconomy12042013_interactions-user_41">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_41"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_1-SolidarityEconomy12042013_interactions-user_12">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_1"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_12"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_50-SolidarityEconomy12042013_interactions-user_3">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_50"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_16-SolidarityEconomy12042013_interactions-user_3">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_16"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_47">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_4-SolidarityEconomy12042013_interactions-user_0">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_4"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_41">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_1-SolidarityEconomy12042013_interactions-user_24">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_24"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_1"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_1-SolidarityEconomy12042013_interactions-user_2">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_1"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_14-SolidarityEconomy12042013_interactions-user_5">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_14"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_5"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_42">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_9">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_39-SolidarityEconomy12042013_interactions-user_0">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_39"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_2-SolidarityEconomy12042013_interactions-user_14">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_16">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_1-SolidarityEconomy12042013_interactions-user_26">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_1"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_26"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_20-SolidarityEconomy12042013_interactions-user_10">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_20"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_10"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_14-SolidarityEconomy12042013_interactions-user_41">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_14"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_41"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_35-SolidarityEconomy12042013_interactions-user_45">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_35"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_45"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_55-SolidarityEconomy12042013_interactions-user_3">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_55"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_1-SolidarityEconomy12042013_interactions-user_42">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_1"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_42"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_4-SolidarityEconomy12042013_interactions-user_41">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_41"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_1-SolidarityEconomy12042013_interactions-user_52">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_52"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_6-SolidarityEconomy12042013_interactions-user_9">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_9"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_0-SolidarityEconomy12042013_interactions-user_0">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_5">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_61-SolidarityEconomy12042013_interactions-user_12">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_12"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_61"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_6-SolidarityEconomy12042013_interactions-user_10">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_10"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_10-SolidarityEconomy12042013_interactions-user_9">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_9"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_10"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_43-SolidarityEconomy12042013_interactions-user_3">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_43"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_8-SolidarityEconomy12042013_interactions-user_5">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_8"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_43-SolidarityEconomy12042013_interactions-user_0">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_43"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_8-SolidarityEconomy12042013_interactions-user_3">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_8"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_21-SolidarityEconomy12042013_interactions-user_6">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_21"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_18-SolidarityEconomy12042013_interactions-user_10">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_10"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_18"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_8-SolidarityEconomy12042013_interactions-user_0">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_8"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_56-SolidarityEconomy12042013_interactions-user_12">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_56"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_12"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_28">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_6-SolidarityEconomy12042013_interactions-user_0">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_28-SolidarityEconomy12042013_interactions-user_0">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_28"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_27">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_15-SolidarityEconomy12042013_interactions-user_0">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_15"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_36">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_17-SolidarityEconomy12042013_interactions-user_12">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_12"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_17"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_44-SolidarityEconomy12042013_interactions-user_3">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_44"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_7-SolidarityEconomy12042013_interactions-user_5">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_5"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_25">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_45">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_61">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_6-SolidarityEconomy12042013_interactions-user_5">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_5"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_0-SolidarityEconomy12042013_interactions-user_5">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_5"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_1-SolidarityEconomy12042013_interactions-user_6">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_1"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_60-SolidarityEconomy12042013_interactions-user_0">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_60"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_12-SolidarityEconomy12042013_interactions-user_0">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_12"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_38-SolidarityEconomy12042013_interactions-user_33">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_38"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_33"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_20">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_4-SolidarityEconomy12042013_interactions-user_12">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_12"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_47-SolidarityEconomy12042013_interactions-user_25">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_47"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_25"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_59">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_29-SolidarityEconomy12042013_interactions-user_0">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_29"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_2-SolidarityEconomy12042013_interactions-user_1">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_1"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_8">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_2-SolidarityEconomy12042013_interactions-user_3">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_2-SolidarityEconomy12042013_interactions-user_41">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_41"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_49-SolidarityEconomy12042013_interactions-user_6">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_49"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_2-SolidarityEconomy12042013_interactions-user_33">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_33"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_1-SolidarityEconomy12042013_interactions-user_5">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_1"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_5"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_14-SolidarityEconomy12042013_interactions-user_0">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_14"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_55">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_51-SolidarityEconomy12042013_interactions-user_0">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_51"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_34">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_14-SolidarityEconomy12042013_interactions-user_34">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_14"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_34"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_2-SolidarityEconomy12042013_interactions-user_6">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_22">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_44">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_6-SolidarityEconomy12042013_interactions-user_3">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_29">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_5-SolidarityEconomy12042013_interactions-user_5">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_5"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_54">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_14">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_39">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_32">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_53">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_32-SolidarityEconomy12042013_interactions-user_0">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_32"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_13">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_43">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_15">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_37">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_6-SolidarityEconomy12042013_interactions-user_2">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_2"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_6"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_57">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_35">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_46">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_30">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_21">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_7">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_63">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_3">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_18">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#SolidarityEconomy12042013_interactions-user_10-SolidarityEconomy12042013_interactions-user_0">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_0"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_10"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_49">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_51">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#SolidarityEconomy12042013_interactions-user_12">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:posts>
+  </rdf:Description>
+</rdf:RDF>

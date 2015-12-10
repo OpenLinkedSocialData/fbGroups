@@ -1243,8 +1243,7 @@
         <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1635>,
         <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_496>,
         <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_843> ;
-    fb:locale "pt_BR"^^xsd:string ;
-    fb:sex ""^^xsd:string .
+    fb:locale "pt_BR"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1569> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654>,
@@ -1483,8 +1482,7 @@
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1686> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1819> ;
-    fb:locale "en_US"^^xsd:string ;
-    fb:sex ""^^xsd:string .
+    fb:locale "en_US"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_169> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
@@ -1728,8 +1726,7 @@
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1779> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1442> ;
-    fb:locale "en_US"^^xsd:string ;
-    fb:sex ""^^xsd:string .
+    fb:locale "en_US"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_178> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1012>,
@@ -1746,8 +1743,7 @@
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1783> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1531>,
         <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1764> ;
-    fb:locale "pt_BR"^^xsd:string ;
-    fb:sex ""^^xsd:string .
+    fb:locale "pt_BR"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1784> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1764> ;
@@ -2183,8 +2179,7 @@
     fb:sex "male"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1923> a fb:Participant ;
-    fb:locale "pt_BR"^^xsd:string ;
-    fb:sex ""^^xsd:string .
+    fb:locale "pt_BR"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1925> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1890>,
@@ -4938,8 +4933,7 @@ fb:friend a owl:SymmetricProperty .
         <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1764>,
         <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_2>,
         <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_4> ;
-    fb:locale "pt_BR"^^xsd:string ;
-    fb:sex ""^^xsd:string .
+    fb:locale "pt_BR"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1778> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1811>,
@@ -6765,8 +6759,7 @@ fb:friend a owl:SymmetricProperty .
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1604> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1642> ;
-    fb:locale "pt_BR"^^xsd:string ;
-    fb:sex ""^^xsd:string .
+    fb:locale "pt_BR"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1610> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1644>,
@@ -7109,8 +7102,7 @@ fb:friend a owl:SymmetricProperty .
     fb:sex "male"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_401> a fb:Participant ;
-    fb:locale "pt_BR"^^xsd:string ;
-    fb:sex ""^^xsd:string .
+    fb:locale "pt_BR"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_403> a fb:Participant ;
     fb:locale "pt_BR"^^xsd:string ;
@@ -9199,8 +9191,7 @@ fb:friend a owl:SymmetricProperty .
         <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_691>,
         <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_913>,
         <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_952> ;
-    fb:locale "pt_BR"^^xsd:string ;
-    fb:sex ""^^xsd:string .
+    fb:locale "pt_BR"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1554> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1303>,
@@ -14277,8 +14268,7 @@ fb:friend a owl:SymmetricProperty .
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1657> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
-    fb:locale "pt_BR"^^xsd:string ;
-    fb:sex ""^^xsd:string .
+    fb:locale "pt_BR"^^xsd:string .
 
 <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1687> a fb:Participant ;
     fb:friend <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1241>,

@@ -43,7 +43,7 @@
     po:interactionTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/PoliticasCulturasBrasileiras08032013_fb/rdf/PoliticasCulturasBrasileiras08032013_fbInteraction.ttl"^^xsd:string ;
     po:interactionXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/PoliticasCulturasBrasileiras08032013_fb/rdf/PoliticasCulturasBrasileiras08032013_fbInteraction.owl"^^xsd:string ;
     po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
-    po:triplifiedIn "2015-12-10T02:59:44.691863"^^xsd:datetime ;
+    po:triplifiedIn "2015-12-10T03:31:42.715765"^^xsd:datetime ;
     rdfs:comment "facebook network from PoliticasCulturasBrasileiras08032013 . Ego: False. Friendship: True. Interaction: True."^^xsd:string .
 
 <http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .

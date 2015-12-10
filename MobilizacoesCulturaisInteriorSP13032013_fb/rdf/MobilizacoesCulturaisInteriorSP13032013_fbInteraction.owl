@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#MobilizacoesCulturaisInteriorSP13032013.gdf-2013-03-13-100002988427247-100002672582315">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002988427247"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002672582315"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#MobilizacoesCulturaisInteriorSP13032013.gdf-2013-03-13-100002590915151-100000264250825">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002590915151"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000264250825"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#781909429">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">781909429</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renato Fabbri</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1696345873">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">João Paulo Miranda Maria</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1696345873</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002988427247">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eduardo Porto</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002988427247</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001713503430">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001713503430</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Johnny Mau</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#MobilizacoesCulturaisInteriorSP13032013.gdf-2013-03-13-100002590915151-1696345873">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002590915151"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1696345873"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002590915151">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maria Rita Leonardo</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002590915151</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002341045095">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002341045095</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Urucungos Puítas E Quijengues</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003703814570">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003703814570</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casa da Amizade</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1730305979">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1730305979</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cláudio Lopes</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1490973240">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1490973240</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vanessa Dias</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#MobilizacoesCulturaisInteriorSP13032013.gdf-2013-03-13-100000264250825-100000109878809">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000264250825"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000109878809"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000264250825">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jéssica Paranhos</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000264250825</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002353521320">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mariana Menezes</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002353521320</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002672582315">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002672582315</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casa Sanca</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000309470350">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000309470350</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bruna Reis</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#709083228">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">709083228</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Binho Riani Costa Perinotto</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1697395795">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1697395795</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Claudia Borges</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#MobilizacoesCulturaisInteriorSP13032013.gdf-2013-03-13-100002353521320-709083228">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#709083228"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002353521320"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#MobilizacoesCulturaisInteriorSP13032013.gdf-2013-03-13-100000664962544-1182733149">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1182733149"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000664962544"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000109878809">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000109878809</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eliane Pessotto</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#MobilizacoesCulturaisInteriorSP13032013.gdf-2013-03-13-709083228-100003703814570">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003703814570"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#709083228"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1103221991">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1103221991</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amanda Fulana</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#MobilizacoesCulturaisInteriorSP13032013.gdf-2013-03-13-709083228-100000264250825">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000264250825"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#709083228"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#MobilizacoesCulturaisInteriorSP13032013.gdf-2013-03-13-100000309470350-709083228">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000309470350"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#709083228"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#MobilizacoesCulturaisInteriorSP13032013.gdf-2013-03-13-100001311184473-100002672582315">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002672582315"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001311184473"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000664962544">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robson Sampaio</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000664962544</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1182733149">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marcelo Manzatti</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1182733149</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#717168936">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">717168936</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anderson Rossetti</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001377526874">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001377526874</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Felipe Stival Harter</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#MobilizacoesCulturaisInteriorSP13032013.gdf-2013-03-13-709083228-100000664962544">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000664962544"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#709083228"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001311184473">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lucas Vieira</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001311184473</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+</rdf:RDF>
