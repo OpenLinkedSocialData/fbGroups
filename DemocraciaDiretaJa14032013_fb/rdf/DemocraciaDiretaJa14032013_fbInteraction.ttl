@@ -1,0 +1,1143 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000067478391-100000067478391> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000067478391> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000067478391> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000082224300-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000082224300> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000112249273-100000112249273> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000112249273> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000112249273> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000112249273-100002699638563> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000112249273> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002699638563> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100000067478391> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000139196863> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000067478391> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100000139196863> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000139196863> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000139196863> ;
+    fb:weight 8 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100000438033584> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000139196863> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000438033584> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100000611760569> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000139196863> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000611760569> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000139196863> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100002450637384> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000139196863> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002450637384> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100002699638563> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000139196863> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002699638563> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100003265980072> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000139196863> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-1385161181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000139196863> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385161181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-577324396> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000139196863> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#577324396> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000165138108-100000611760569> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000165138108> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000611760569> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000165138108-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000165138108> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000165138108-100004484221675> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000165138108> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100004484221675> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000178194407-100000178194407> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000178194407> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000178194407> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000200976565-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000200976565> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000200976565-100001894088799> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000200976565> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001894088799> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000201552297-100001072510301> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000201552297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001072510301> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000415545312-100003265980072> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000415545312> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000435102985-100001502259602> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000435102985> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001502259602> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000491776358-100000067478391> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000491776358> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000067478391> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000491776358-100000611760569> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000491776358> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000611760569> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000491776358-100000847777938> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000491776358> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000847777938> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000491776358-100001564781259> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000491776358> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001564781259> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000491776358-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000491776358> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 15 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000491776358-100002545264436> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000491776358> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002545264436> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000491776358-100004484221675> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000491776358> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100004484221675> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000517975763-100001215383224> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000517975763> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001215383224> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000517975763-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000517975763> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000611760569-100000611760569> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000611760569> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000611760569> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000612866607-100000612866607> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000612866607> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000612866607> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000752716551-100000023447779> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000752716551> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000023447779> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000761608134-100001215383224> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000761608134> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001215383224> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000972049883-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000972049883> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001054787658-100002455528302> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001054787658> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002455528302> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001072510301-100002699638563> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001072510301> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002699638563> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001502259602-100000435102985> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001502259602> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000435102985> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001502259602-100001502259602> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001502259602> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001502259602> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001564781259-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001564781259> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001597392279-100004484221675> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001597392279> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100004484221675> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001840368814-100000178194407> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000178194407> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001840368814-100000491776358> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000491776358> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001840368814-100000611760569> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000611760569> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001840368814-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 28 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001840368814-100002545264436> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002545264436> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001840368814-1385161181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385161181> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001894088799-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001894088799> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002303868809-100003202026500> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002303868809> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003202026500> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002455528302-100000001330132> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002455528302> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000001330132> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002455528302-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002455528302> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002471683768-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002471683768> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602098389-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002602098389> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602245881-100000611760569> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002602245881> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000611760569> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602245881-100001105343770> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002602245881> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001105343770> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602245881-100001422530196> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002602245881> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001422530196> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602245881-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002602245881> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602245881-100001894088799> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002602245881> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001894088799> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602245881-100002545264436> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002602245881> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002545264436> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602245881-1400035362> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002602245881> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1400035362> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002699638563-100002699638563> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002699638563> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002699638563> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002699638563-100003265980072> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002699638563> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002951347222-100002951347222> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002951347222> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002951347222> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003202026500-100003202026500> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003202026500> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003202026500> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100000178194407> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003252259138> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000178194407> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100000491776358> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003252259138> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000491776358> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100000611760569> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003252259138> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000611760569> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100001564781259> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003252259138> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001564781259> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003252259138> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100001894088799> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003252259138> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001894088799> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100002335680833> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003252259138> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002335680833> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100004484221675> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003252259138> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100004484221675> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000001330132> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000001330132> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000023447779> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000023447779> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000067478391> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000067478391> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000139196863> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000139196863> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000178194407> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000178194407> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000435102985> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000435102985> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000438033584> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000438033584> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000491776358> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000491776358> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000611760569> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000611760569> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000612866607> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000612866607> ;
+    fb:weight 8 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000847777938> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000847777938> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001072510301> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001072510301> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001105343770> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001105343770> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001215383224> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001215383224> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001502259602> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001502259602> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001564781259> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001564781259> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001574534046> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001574534046> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001700432573> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001700432573> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 21 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001894088799> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001894088799> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100002335680833> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002335680833> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100002450637384> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002450637384> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100002530371938> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002530371938> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100002545264436> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002545264436> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100002699638563> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002699638563> ;
+    fb:weight 7 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100002951347222> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002951347222> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100003202026500> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003202026500> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100003359510759> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003359510759> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100004484221675> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100004484221675> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100004673222830> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100004673222830> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100005069190396> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100005069190396> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-1098825766> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1098825766> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-1314951704> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1314951704> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-1385161181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385161181> ;
+    fb:weight 8 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-1669313773> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1669313773> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-1739305394> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1739305394> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-577324396> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#577324396> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003343697776-100000612866607> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003343697776> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000612866607> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003343697776-100003343697776> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003343697776> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003343697776> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003359510759-100003359510759> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003359510759> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003359510759> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003643495677-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003643495677> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003939810189-100001072510301> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003939810189> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001072510301> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100004333183527-100000435102985> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100004333183527> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000435102985> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100004342684218-100003343697776> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100004342684218> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003343697776> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100004484221675-100004484221675> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100004484221675> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100004484221675> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100005069190396-100005069190396> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100005069190396> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100005069190396> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1069095194-100000067478391> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1069095194> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000067478391> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1069095194-100000139196863> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1069095194> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000139196863> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1069095194-100001422530196> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1069095194> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001422530196> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1069095194-100001502259602> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1069095194> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001502259602> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1069095194-100001574534046> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1069095194> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001574534046> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1410736429-100001072510301> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1410736429> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001072510301> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1412498916-100003202026500> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1412498916> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003202026500> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1669313773-100002699638563> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1669313773> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002699638563> ;
+    fb:weight 13 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1669313773-1669313773> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1669313773> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1669313773> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1739305394-100000178194407> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739305394> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000178194407> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1739305394-100003265980072> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739305394> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003265980072> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1739305394-100003343697776> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739305394> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003343697776> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1739305394-1739305394> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739305394> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1739305394> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1739305394-582645797> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739305394> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#582645797> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1819158439-100001840368814> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1819158439> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001840368814> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-577324396-100000611760569> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#577324396> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000611760569> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#100000031359851> a fb:Participant ;
+    fb:name "Juliane Botelho Ricaldes"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100000031359851"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000097321513> a fb:Participant ;
+    fb:name "Jose Vasconcelos Vasconcelos"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000097321513"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000102844865> a fb:Participant ;
+    fb:name "Danilo Anarquista Marginal"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000102844865"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000232579980> a fb:Participant ;
+    fb:name "Evangelo KAlemanis"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000232579980"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000308556769> a fb:Participant ;
+    fb:name "Manuel Alves"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000308556769"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000546186802> a fb:Participant ;
+    fb:name "Ana Lucia Cipriano"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100000546186802"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000577551611> a fb:Participant ;
+    fb:name "Paulo Kasmirski"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100000577551611"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001080616837> a fb:Participant ;
+    fb:name "Gílber Martins Duarte Duarte"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100001080616837"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001824363686> a fb:Participant ;
+    fb:name "Edsandro Monteiro"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100001824363686"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001876409191> a fb:Participant ;
+    fb:name "Fernando Araujo Konesuk"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100001876409191"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002186685641> a fb:Participant ;
+    fb:name "Revo Cultura Livre"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100002186685641"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002293478574> a fb:Participant ;
+    fb:name "Huma Tecnologia"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "100002293478574"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002618333183> a fb:Participant ;
+    fb:name "Núcleo De Consciência Negra"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100002618333183"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002656171083> a fb:Participant ;
+    fb:name "Ulisses Guimarães Sobrinho Neto"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100002656171083"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002688537407> a fb:Participant ;
+    fb:name "William Smith Kaku"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100002688537407"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002706681491> a fb:Participant ;
+    fb:name "Girap Corre Na Veia"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100002706681491"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100003150897966> a fb:Participant ;
+    fb:name "Marcha Xingu Vivo"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100003150897966"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100003178283806> a fb:Participant ;
+    fb:name "Mucuriense Mucuri"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100003178283806"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100004283113278> a fb:Participant ;
+    fb:name "Regina Luisa"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100004283113278"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100005150976848> a fb:Participant ;
+    fb:name "Dani Dani"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100005150976848"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1511473815> a fb:Participant ;
+    fb:name "Antonio Jacinto Indio"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1511473815"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1832422427> a fb:Participant ;
+    fb:name "Fatima Regina Lacerda"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1832422427"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#761802617> a fb:Participant ;
+    fb:name "Ivonete Jacob"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "761802617"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000082224300> a fb:Participant ;
+    fb:name "Pablo Müller"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000082224300"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000201552297> a fb:Participant ;
+    fb:name "Ivan Davi"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000201552297"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000415545312> a fb:Participant ;
+    fb:name "Jf Mark"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000415545312"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000752716551> a fb:Participant ;
+    fb:name "José F. Capela"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000752716551"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000761608134> a fb:Participant ;
+    fb:name "Vinicius Dias"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000761608134"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000972049883> a fb:Participant ;
+    fb:name "Joao Carlos Santos"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000972049883"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001054787658> a fb:Participant ;
+    fb:name "Fernanda Melky"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001054787658"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001597392279> a fb:Participant ;
+    fb:name "Victor Moretti"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001597392279"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001700432573> a fb:Participant ;
+    fb:name "Yuri Alexandre Fotógrafo"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100001700432573"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002303868809> a fb:Participant ;
+    fb:name "Henrique Peer"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100002303868809"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002471683768> a fb:Participant ;
+    fb:name "Ana Karla Moreira Silva"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100002471683768"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002530371938> a fb:Participant ;
+    fb:name "Jornal A Nova Democracia"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100002530371938"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002602098389> a fb:Participant ;
+    fb:name "Ana Carolina Bordonale Delefrate"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100002602098389"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100003643495677> a fb:Participant ;
+    fb:name "Fernando Mutti Rebello"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100003643495677"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100003939810189> a fb:Participant ;
+    fb:name "Jose Luiz Junior"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100003939810189"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100004333183527> a fb:Participant ;
+    fb:name "José Da Silva Guarani Kaiowá"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100004333183527"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100004342684218> a fb:Participant ;
+    fb:name "Nyckanon Voice"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100004342684218"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100004673222830> a fb:Participant ;
+    fb:name "Hefestos Wend"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100004673222830"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1098825766> a fb:Participant ;
+    fb:name "Paulo Maia"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "1098825766"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1314951704> a fb:Participant ;
+    fb:name "Marcos Celeiro"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "1314951704"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1400035362> a fb:Participant ;
+    fb:name "Gilberto De Breyne Guarani Kaiowá"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "1400035362"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1410736429> a fb:Participant ;
+    fb:name "Marduke Reese"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1410736429"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1412498916> a fb:Participant ;
+    fb:name "Vinicius Luandos"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1412498916"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1819158439> a fb:Participant ;
+    fb:name "Walther Antonio Diogo Walther Diogo"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "1819158439"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#582645797> a fb:Participant ;
+    fb:name "Leandro Peña-Salvatico"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "582645797"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000001330132> a fb:Participant ;
+    fb:name "Acauã Guarani Kaiowá"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000001330132"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000023447779> a fb:Participant ;
+    fb:name "Fernando Lopo"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000023447779"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000200976565> a fb:Participant ;
+    fb:name "Sabrina Oliveira"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000200976565"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000438033584> a fb:Participant ;
+    fb:name "União Por Moradia Paraná"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100000438033584"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000517975763> a fb:Participant ;
+    fb:name "Lis Rodrigues Rodrigues"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000517975763"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000847777938> a fb:Participant ;
+    fb:name "Graça Azeredo"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000847777938"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001105343770> a fb:Participant ;
+    fb:name "Fernando Nunes"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100001105343770"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001422530196> a fb:Participant ;
+    fb:name "André Caregnato"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "100001422530196"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001574534046> a fb:Participant ;
+    fb:name "Lucas Barbosa"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "100001574534046"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002335680833> a fb:Participant ;
+    fb:name "Daniel Mazola"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "100002335680833"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002450637384> a fb:Participant ;
+    fb:name "Maite Santamarta"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100002450637384"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000112249273> a fb:Participant ;
+    fb:name "Jeferson Pereira"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000112249273"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000165138108> a fb:Participant ;
+    fb:name "Edmilson Dos Santos Tiburcio"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000165138108"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001215383224> a fb:Participant ;
+    fb:name "Rafael Rossi"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100001215383224"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002455528302> a fb:Participant ;
+    fb:name "Marcelo Soares"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100002455528302"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002951347222> a fb:Participant ;
+    fb:name "Matheus Carvalho"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "100002951347222"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100003359510759> a fb:Participant ;
+    fb:name "Eunice de Queiroz"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100003359510759"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100005069190396> a fb:Participant ;
+    fb:name "João Silva"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "100005069190396"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1385161181> a fb:Participant ;
+    fb:name "Jose Antonio Moroni"^^xsd:string ;
+    fb:posts 5 ;
+    fb:uid "1385161181"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#577324396> a fb:Participant ;
+    fb:name "Lumarsol Matos"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "577324396"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000435102985> a fb:Participant ;
+    fb:name "Djanira Tostes de Barros"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100000435102985"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000612866607> a fb:Participant ;
+    fb:name "Caio Marcelo Lourenço"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000612866607"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001564781259> a fb:Participant ;
+    fb:name "Evilasio Almeida"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "100001564781259"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002545264436> a fb:Participant ;
+    fb:name "Murilo F. R. Murilo"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100002545264436"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1669313773> a fb:Participant ;
+    fb:name "Marcos Dias"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "1669313773"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001072510301> a fb:Participant ;
+    fb:name "Angelica Angel"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100001072510301"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001894088799> a fb:Participant ;
+    fb:name "Rodrigo Blazzio"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "100001894088799"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100003202026500> a fb:Participant ;
+    fb:name "Fhaby Cabral"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100003202026500"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100003343697776> a fb:Participant ;
+    fb:name "ByAnon Fawkes"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100003343697776"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1069095194> a fb:Participant ;
+    fb:name "Joao Santos"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1069095194"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000067478391> a fb:Participant ;
+    fb:name "Cleber Lourenço"^^xsd:string ;
+    fb:posts 4 ;
+    fb:uid "100000067478391"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000178194407> a fb:Participant ;
+    fb:name "Alexandre Alves Santiago"^^xsd:string ;
+    fb:posts 6 ;
+    fb:uid "100000178194407"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001502259602> a fb:Participant ;
+    fb:name "Edson F. Nascimento"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100001502259602"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002602245881> a fb:Participant ;
+    fb:name "Rita Santos"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100002602245881"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100004484221675> a fb:Participant ;
+    fb:name "Mayume Kioto Kamura"^^xsd:string ;
+    fb:posts 4 ;
+    fb:uid "100004484221675"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1739305394> a fb:Participant ;
+    fb:name "Mauricio Gonçalves Vieira"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1739305394"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002699638563> a fb:Participant ;
+    fb:name "Alfonso Perez"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100002699638563"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100003252259138> a fb:Participant ;
+    fb:name "Las Zee Yowl Us"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100003252259138"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000491776358> a fb:Participant ;
+    fb:name "Geraldo Carvalho"^^xsd:string ;
+    fb:posts 4 ;
+    fb:uid "100000491776358"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000611760569> a fb:Participant ;
+    fb:name "João Geraldo Morselli"^^xsd:string ;
+    fb:posts 7 ;
+    fb:uid "100000611760569"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000139196863> a fb:Participant ;
+    fb:name "Diego Valadão"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000139196863"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001840368814> a fb:Participant ;
+    fb:name "Luiz Fernando Pegorer"^^xsd:string ;
+    fb:posts 60 ;
+    fb:uid "100001840368814"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100003265980072> a fb:Participant ;
+    fb:name "Democracia Direta"^^xsd:string ;
+    fb:posts 4 ;
+    fb:uid "100003265980072"^^xsd:string .
+

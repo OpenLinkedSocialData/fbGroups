@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000435102985">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000435102985"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100005069190396-100005069190396">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100005069190396"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100005069190396"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003359510759-100003359510759">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003359510759"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003359510759"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602098389-100001840368814">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602098389"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000415545312-100003265980072">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000415545312"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000491776358-100002545264436">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002545264436"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000165138108-100004484221675">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000165138108"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-1098825766">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1098825766"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1739305394">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1739305394</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mauricio Gonçalves Vieira</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100002951347222">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002951347222"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000232579980">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000232579980</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Evangelo KAlemanis</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000517975763-100001840368814">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000517975763"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002471683768-100001840368814">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002471683768"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1669313773-100002699638563">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1669313773"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100004673222830">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004673222830"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000067478391">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000067478391</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cleber Lourenço</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000438033584">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000438033584"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001840368814-1385161181">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1385161181"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000102844865">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000102844865</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Danilo Anarquista Marginal</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003359510759">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003359510759</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eunice de Queiroz</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1412498916">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1412498916</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vinicius Luandos</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000112249273-100002699638563">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000112249273"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1098825766">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1098825766</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paulo Maia</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000415545312">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000415545312</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jf Mark</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000752716551-100000023447779">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000752716551"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000023447779"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000577551611">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paulo Kasmirski</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000577551611</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001876409191">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernando Araujo Konesuk</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001876409191</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1412498916-100003202026500">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1412498916"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003202026500"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100004484221675-100004484221675">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-577324396">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#577324396"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100001564781259">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001564781259"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001072510301">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001072510301</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Angelica Angel</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100002450637384">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002450637384"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100002530371938">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002530371938"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-1314951704">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1314951704"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003343697776-100003343697776">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003343697776"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003343697776"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1669313773">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marcos Dias</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1669313773</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000546186802">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000546186802</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Lucia Cipriano</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002706681491">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002706681491</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Girap Corre Na Veia</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#582645797">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">582645797</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leandro Peña-Salvatico</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001502259602">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001502259602</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Edson F. Nascimento</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001054787658">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001054787658</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernanda Melky</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002688537407">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002688537407</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">William Smith Kaku</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000165138108-100001840368814">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000165138108"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000972049883">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Joao Carlos Santos</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000972049883</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100003359510759">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003359510759"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000612866607">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000612866607"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001597392279-100004484221675">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001597392279"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1069095194-100001502259602">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001502259602"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1069095194"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000139196863">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100002335680833">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002335680833"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000612866607-100000612866607">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000612866607"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000612866607"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1669313773-1669313773">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1669313773"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1669313773"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000200976565-100001894088799">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001894088799"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000200976565"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100004333183527">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">José Da Silva Guarani Kaiowá</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100004333183527</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1410736429">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1410736429</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marduke Reese</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002699638563">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alfonso Perez</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002699638563</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100001840368814">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1511473815">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antonio Jacinto Indio</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1511473815</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602245881-100002545264436">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002545264436"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602245881"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000972049883-100001840368814">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000972049883"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1410736429-100001072510301">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1410736429"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001072510301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1739305394-100003265980072">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1739305394"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100000178194407">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000031359851">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000031359851</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Juliane Botelho Ricaldes</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100004484221675">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mayume Kioto Kamura</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100004484221675</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1739305394-100000178194407">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1739305394"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000517975763-100001215383224">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001215383224"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000517975763"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000112249273">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jeferson Pereira</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000112249273</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003202026500-100003202026500">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003202026500"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003202026500"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003343697776-100000612866607">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003343697776"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000612866607"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602245881-100001105343770">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001105343770"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602245881"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1739305394-1739305394">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1739305394"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1739305394"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100000139196863">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100002335680833">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002335680833"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1739305394-582645797">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1739305394"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#582645797"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000001330132">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000001330132"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100000611760569">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002951347222-100002951347222">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002951347222"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002951347222"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003939810189-100001072510301">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003939810189"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001072510301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000200976565-100001840368814">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000200976565"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001840368814-100000611760569">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001700432573">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yuri Alexandre Fotógrafo</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001700432573</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000517975763">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000517975763</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lis Rodrigues Rodrigues</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602245881-1400035362">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1400035362"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602245881"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000491776358">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Geraldo Carvalho</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000491776358</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602245881-100001840368814">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602245881"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100005150976848">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dani Dani</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100005150976848</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002335680833">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002335680833</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Daniel Mazola</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-577324396">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#577324396"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001072510301-100002699638563">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001072510301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001422530196">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">André Caregnato</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001422530196</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000001330132">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000001330132</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Acauã Guarani Kaiowá</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003252259138">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Las Zee Yowl Us</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003252259138</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100004484221675">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100005069190396">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">João Silva</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100005069190396</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100002699638563">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000435102985">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000435102985</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Djanira Tostes de Barros</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100003265980072">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001080616837">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gílber Martins Duarte Duarte</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001080616837</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000611760569">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">João Geraldo Morselli</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000611760569</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002471683768">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Karla Moreira Silva</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002471683768</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000611760569">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000761608134">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Vinicius Dias</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000761608134</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000201552297-100001072510301">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001072510301"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000201552297"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000491776358-100000611760569">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000201552297">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000201552297</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivan Davi</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000178194407">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alexandre Alves Santiago</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000178194407</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003202026500">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fhaby Cabral</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003202026500</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000611760569-100000611760569">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001502259602-100001502259602">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001502259602"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001502259602"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002293478574">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Huma Tecnologia</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002293478574</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002656171083">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002656171083</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ulisses Guimarães Sobrinho Neto</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000752716551">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000752716551</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">José F. Capela</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001502259602-100000435102985">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001502259602"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000435102985"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100005069190396">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100005069190396"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000165138108-100000611760569">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000165138108"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002303868809-100003202026500">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003202026500"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002303868809"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001564781259-100001840368814">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001564781259"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000847777938">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000847777938"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000491776358-100000847777938">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000847777938"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001840368814-100002545264436">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002545264436"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100004484221675">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100004333183527-100000435102985">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000435102985"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004333183527"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001072510301">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001072510301"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100004283113278">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regina Luisa</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100004283113278</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002303868809">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002303868809</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Henrique Peer</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000178194407">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000761608134-100001215383224">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000761608134"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001215383224"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000200976565">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sabrina Oliveira</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000200976565</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1069095194">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Joao Santos</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1069095194</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001840368814">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002455528302">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marcelo Soares</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002455528302</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100004342684218">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100004342684218</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nyckanon Voice</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000097321513">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jose Vasconcelos Vasconcelos</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000097321513</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000139196863">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000139196863</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diego Valadão</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001574534046">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lucas Barbosa</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001574534046</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1069095194-100000067478391">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1069095194"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000491776358">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001564781259">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001564781259"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001105343770">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001105343770"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003265980072">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Democracia Direta</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003265980072</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000308556769">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000308556769</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manuel Alves</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000067478391-100000067478391">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002699638563-100002699638563">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001840368814-100001840368814">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000067478391">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1832422427">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1832422427</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fatima Regina Lacerda</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100002545264436">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002545264436"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001502259602">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001502259602"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1400035362">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1400035362</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gilberto De Breyne Guarani Kaiowá</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001840368814-100000178194407">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#761802617">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivonete Jacob</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">761802617</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100002699638563">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002602098389">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002602098389</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana Carolina Bordonale Delefrate</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000491776358-100004484221675">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004484221675"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1069095194-100001574534046">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1069095194"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001574534046"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100004342684218-100003343697776">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003343697776"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100004342684218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000438033584">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000438033584</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">União Por Moradia Paraná</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003178283806">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mucuriense Mucuri</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003178283806</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000082224300">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000082224300</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pablo Müller</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003643495677-100001840368814">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003643495677"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-577324396-100000611760569">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#577324396"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001824363686">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Edsandro Monteiro</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001824363686</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001840368814">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001840368814</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luiz Fernando Pegorer</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1314951704">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1314951704</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marcos Celeiro</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003343697776">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003343697776</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ByAnon Fawkes</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002951347222">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matheus Carvalho</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002951347222</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000435102985-100001502259602">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000435102985"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001502259602"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100004673222830">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100004673222830</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hefestos Wend</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100000491776358">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000112249273-100000112249273">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000112249273"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000112249273"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-1739305394">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1739305394"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602245881-100001422530196">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602245881"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001422530196"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001840368814-100000491776358">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001215383224">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001215383224"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000165138108">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Edmilson Dos Santos Tiburcio</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000165138108</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001894088799-100001840368814">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001894088799"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000178194407-100000178194407">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000178194407"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002450637384">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maite Santamarta</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002450637384</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002455528302-100000001330132">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000001330132"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002455528302"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001215383224">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rafael Rossi</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001215383224</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000023447779">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernando Lopo</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000023447779</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001894088799">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001894088799"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100003202026500">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003202026500"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-1385161181">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1385161181"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000491776358-100001840368814">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002699638563-100003265980072">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002699638563"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-1385161181">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1385161181"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003252259138-100001894088799">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001894088799"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003252259138"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001105343770">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001105343770</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernando Nunes</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100001840368814">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001894088799">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rodrigo Blazzio</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001894088799</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100000438033584">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000438033584"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000847777938">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Graça Azeredo</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000847777938</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002602245881">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002602245881</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rita Santos</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002545264436">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002545264436</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Murilo F. R. Murilo</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000491776358-100001564781259">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001564781259"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001564781259">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001564781259</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Evilasio Almeida</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000082224300-100001840368814">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000082224300"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-1669313773">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1669313773"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#577324396">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lumarsol Matos</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">577324396</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1069095194-100001422530196">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001422530196"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1069095194"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001700432573">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001700432573"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602245881-100001894088799">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001894088799"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602245881"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1069095194-100000139196863">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1069095194"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100000067478391">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1819158439">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Walther Antonio Diogo Walther Diogo</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1819158439</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003150897966">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marcha Xingu Vivo</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003150897966</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003643495677">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003643495677</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fernando Mutti Rebello</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002455528302-100001840368814">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002455528302"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1819158439-100001840368814">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001840368814"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1819158439"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001597392279">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Victor Moretti</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001597392279</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1385161181">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jose Antonio Moroni</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1385161181</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100001574534046">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001574534046"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-1739305394-100003343697776">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1739305394"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003343697776"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100002450637384">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002450637384"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003939810189">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jose Luiz Junior</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003939810189</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000491776358-100000067478391">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000491776358"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000067478391"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100001054787658-100002455528302">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001054787658"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002455528302"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100003265980072-100000023447779">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000023447779"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003265980072"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000612866607">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caio Marcelo Lourenço</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000612866607</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002186685641">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Revo Cultura Livre</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002186685641</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002530371938">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002530371938</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jornal A Nova Democracia</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002618333183">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002618333183</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Núcleo De Consciência Negra</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100002602245881-100000611760569">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002602245881"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14032013.gdf-2013-03-14-100000139196863-100000611760569">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000139196863"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000611760569"/>
+  </rdf:Description>
+</rdf:RDF>
