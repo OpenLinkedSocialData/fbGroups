@@ -1,0 +1,3 @@
+digraph  {
+	graph [label="Facebook interaction network from DemocraciaPura06042013 . Ego: False"];
+}

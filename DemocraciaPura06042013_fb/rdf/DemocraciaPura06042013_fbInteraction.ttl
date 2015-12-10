@@ -1,0 +1,489 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_0-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 10 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_0-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_0-DemocraciaPura06042013_interactions-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_1-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 8 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_1-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_10> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_20> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_20> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> ;
+    fb:weight 8 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_10-DemocraciaPura06042013_interactions-user_9> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_11-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 13 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_11-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_11-DemocraciaPura06042013_interactions-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_11-DemocraciaPura06042013_interactions-user_7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_13-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_13> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_14-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_14> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_17-DemocraciaPura06042013_interactions-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_17> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_18-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_18> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_18-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_18> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_2-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_2-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_2-DemocraciaPura06042013_interactions-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_20-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_20> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_21-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_21> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_22-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_22> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_23-DemocraciaPura06042013_interactions-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_23> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_24-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_24-DemocraciaPura06042013_interactions-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_24-DemocraciaPura06042013_interactions-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_26-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_27-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_27> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_28-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_28> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_29-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_29> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_29-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_29> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_3-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 11 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_3-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_3-DemocraciaPura06042013_interactions-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_3-DemocraciaPura06042013_interactions-user_7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_30-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_30> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 13 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_10> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_33> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_33> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_31-DemocraciaPura06042013_interactions-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_32-DemocraciaPura06042013_interactions-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_32> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_33-DemocraciaPura06042013_interactions-user_33> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_33> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_33> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_33-DemocraciaPura06042013_interactions-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_33> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_34-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_34> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_35-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_35> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_36-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_36> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_37-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_37> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_38-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_38> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_39-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_39> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_4-DemocraciaPura06042013_interactions-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_4> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_0> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_4-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_4> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_40-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_40> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_41-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_41> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_5-DemocraciaPura06042013_interactions-user_11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_6-DemocraciaPura06042013_interactions-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_7-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_7-DemocraciaPura06042013_interactions-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_8-DemocraciaPura06042013_interactions-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_10> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_26> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaPura06042013_interactions-user_9-DemocraciaPura06042013_interactions-user_9> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_12> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_15> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_16> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_19> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_25> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_13> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_14> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_17> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_21> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_22> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_23> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_27> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_28> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_30> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_32> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_34> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_35> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_36> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_37> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_38> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_39> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_40> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_41> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_6> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_8> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_18> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_20> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_29> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_4> a fb:Participant ;
+    fb:posts 5 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_2> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_24> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_0> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_33> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_7> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_11> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_31> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_3> a fb:Participant ;
+    fb:posts 6 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_10> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_9> a fb:Participant ;
+    fb:posts 12 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_5> a fb:Participant ;
+    fb:posts 10 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_26> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaPura06042013_interactions-user_1> a fb:Participant ;
+    fb:posts 146 .
+

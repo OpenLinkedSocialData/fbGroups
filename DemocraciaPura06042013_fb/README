@@ -1,0 +1,22 @@
+This repo delivers RDF data from the facebook
+friendship network of DemocraciaPura06042013 collected around 2013-04-06.
+585 individuals with metadata ['uid', 'sex', 'name', 'locale']
+and 6659 friendships constitute the friendship network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaPura06042013_fb/rdf/DemocraciaPura06042013_fbFriendship.owl
+(anonymized: False).
+42 individuals with metadata ['posts']
+and 71 interactions with metadata ['node1', 'node2', 'weight'] constitute the interaction 
+network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaPura06042013_fb/rdf/DemocraciaPura06042013_fbInteraction.owl
+(anonymized: True).
+Metadata for discovery is in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaPura06042013_fb/rdf/DemocraciaPura06042013_fbMeta.owl.
+Original files:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaPura06042013_fb/base/DemocraciaPura06042013.gdf
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaPura06042013_fb/base/DemocraciaPura06042013_interactions.gdf
+Ego network: False
+Friendship network: True
+Interaction network: True
+All files should be available at the git repository:
+https://github.com/OpenLinkedSocialData/fbGroups/tree/master/DemocraciaPura06042013_fb
+

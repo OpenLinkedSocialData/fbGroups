@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#DemocraciaPura06042013_fb">
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaPura06042013_fb/rdf/DemocraciaPura06042013_fbMeta.owl</po:discorveryRDFFile>
+    <fb:groupID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">222540354541008</fb:groupID>
+    <fb:originalInteractionFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaPura06042013_fb/base/DemocraciaPura06042013_interactions.gdf</fb:originalInteractionFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facebook network from DemocraciaPura06042013 . Ego: False. Friendship: True. Interaction: True.</rdfs:comment>
+    <po:friendshipXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaPura06042013_fb/rdf/DemocraciaPura06042013_fbFriendship.owl</po:friendshipXMLFile>
+    <fb:fAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:fAnon>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/fbGroups/tree/master/DemocraciaPura06042013_fb</po:availableAt>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">name</fb:friendAttribute>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex</fb:friendAttribute>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight</fb:interactionAttribute>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:friendshipTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaPura06042013_fb/rdf/DemocraciaPura06042013_fbFriendship.ttl</po:friendshipTTLFile>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locale</fb:friendAttribute>
+    <fb:interaction rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:interaction>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uid</fb:friendAttribute>
+    <fb:interactionFriendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">posts</fb:interactionFriendAttribute>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot DemocraciaPura06042013_fb</rdfs:label>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-04-06</po:createdAt>
+    <fb:nFriends rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">585</fb:nFriends>
+    <po:socialProtocol rdf:resource="http://purl.org/socialparticipation/po/Platform#Facebook"/>
+    <fb:nFriendships rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6659</fb:nFriendships>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DemocraciaPura06042013</po:donatedBy>
+    <fb:friendship rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:friendship>
+    <fb:ego rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:ego>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaPura06042013_fb/rdf/DemocraciaPura06042013_fbMeta.ttl</po:discoveryTTLFile>
+    <fb:originalFriendshipFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaPura06042013_fb/base/DemocraciaPura06042013.gdf</fb:originalFriendshipFile>
+    <fb:fbLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/democraciapura/permalink/310907215704321/</fb:fbLink>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-10T00:18:21.641491</po:triplifiedIn>
+    <po:interactionTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaPura06042013_fb/rdf/DemocraciaPura06042013_fbInteraction.ttl</po:interactionTTLFile>
+    <fb:iAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:iAnon>
+    <po:interactionXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaPura06042013_fb/rdf/DemocraciaPura06042013_fbInteraction.owl</po:interactionXMLFile>
+    <fb:groupSID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">democraciapura</fb:groupSID>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">node1</fb:interactionAttribute>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">node2</fb:interactionAttribute>
+    <fb:nInteractions rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</fb:nInteractions>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <fb:nFriendsInteracted rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</fb:nFriendsInteracted>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Platform#Facebook">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Platform"/>
+  </rdf:Description>
+</rdf:RDF>
