@@ -1,0 +1,2243 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7-Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> ;
+    fb:weight 10 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8-Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8-Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8-Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8-Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8-Tecnoxamanismo15032014-user_cc0233cfefdcc2e61575a360e41ebfd426e3de1a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cc0233cfefdcc2e61575a360e41ebfd426e3de1a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8-Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 26 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_04a98306cce82222963d8d5f85964188b9ba32eb-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_04a98306cce82222963d8d5f85964188b9ba32eb> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_08339c7f30716e37970b90ce15acf0014b2a12bb-Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_08339c7f30716e37970b90ce15acf0014b2a12bb> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_08339c7f30716e37970b90ce15acf0014b2a12bb-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_08339c7f30716e37970b90ce15acf0014b2a12bb> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0af16b95297560a2b7fd6ef2de51735cf785cc9f-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0af16b95297560a2b7fd6ef2de51735cf785cc9f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0af16b95297560a2b7fd6ef2de51735cf785cc9f-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0af16b95297560a2b7fd6ef2de51735cf785cc9f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0daca4ddda21875f93c8ef5c247c2fcc2ca992db-Tecnoxamanismo15032014-user_23f66c4f293649b94ea441cbdd1424c9c96b97a1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0daca4ddda21875f93c8ef5c247c2fcc2ca992db> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_23f66c4f293649b94ea441cbdd1424c9c96b97a1> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_0daca4ddda21875f93c8ef5c247c2fcc2ca992db-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0daca4ddda21875f93c8ef5c247c2fcc2ca992db> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_1028824e02caa6664ac959680c1968995b2abcd0-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_1028824e02caa6664ac959680c1968995b2abcd0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_11bd4ccb7c00d128fcd3770cbd20b6fcad33d0f5-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_11bd4ccb7c00d128fcd3770cbd20b6fcad33d0f5> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_145236635c180ee8ed1e97faa7921c32d8fdfb38-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_145236635c180ee8ed1e97faa7921c32d8fdfb38> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_185c9ce5e25db35b57c0e4aabae034284bf642f0-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_185c9ce5e25db35b57c0e4aabae034284bf642f0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_1aa7e0cde129e837062995457cc49385c9dd49df-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_1aa7e0cde129e837062995457cc49385c9dd49df> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_1c41ba77de3e8f56a8a25cc5b8e633c0ce7a4874-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_1c41ba77de3e8f56a8a25cc5b8e633c0ce7a4874> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_20b3dff08200fe493cb96010bb6ddabba4c5e7ca-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_20b3dff08200fe493cb96010bb6ddabba4c5e7ca> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_238c08dd401e85f7a68de9a60afcc5e256fc8a00-Tecnoxamanismo15032014-user_20b3dff08200fe493cb96010bb6ddabba4c5e7ca> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_238c08dd401e85f7a68de9a60afcc5e256fc8a00> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_20b3dff08200fe493cb96010bb6ddabba4c5e7ca> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_238c08dd401e85f7a68de9a60afcc5e256fc8a00-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_238c08dd401e85f7a68de9a60afcc5e256fc8a00> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_238c08dd401e85f7a68de9a60afcc5e256fc8a00-Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_238c08dd401e85f7a68de9a60afcc5e256fc8a00> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_23f66c4f293649b94ea441cbdd1424c9c96b97a1-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_23f66c4f293649b94ea441cbdd1424c9c96b97a1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_23f66c4f293649b94ea441cbdd1424c9c96b97a1-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_23f66c4f293649b94ea441cbdd1424c9c96b97a1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_23f66c4f293649b94ea441cbdd1424c9c96b97a1-Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_23f66c4f293649b94ea441cbdd1424c9c96b97a1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_23f66c4f293649b94ea441cbdd1424c9c96b97a1-Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_23f66c4f293649b94ea441cbdd1424c9c96b97a1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_25ea710e2eeff851e9ee31a9f87c6d973b4c5752-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_25ea710e2eeff851e9ee31a9f87c6d973b4c5752> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_27b07ec17998d79f77d7750b1bb2a2fb192734be-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_27b07ec17998d79f77d7750b1bb2a2fb192734be> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_28b5b650aa6b187b9b759573e978bbe44b50e1e9-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_28b5b650aa6b187b9b759573e978bbe44b50e1e9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_2aac703daccd37c26176d61fa8325bafb68a0ba0-Tecnoxamanismo15032014-user_8475aa3007226d33faf0dcf7f2c9a404aa14ac89> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2aac703daccd37c26176d61fa8325bafb68a0ba0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_8475aa3007226d33faf0dcf7f2c9a404aa14ac89> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_2aac703daccd37c26176d61fa8325bafb68a0ba0-Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2aac703daccd37c26176d61fa8325bafb68a0ba0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_2aac703daccd37c26176d61fa8325bafb68a0ba0-Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2aac703daccd37c26176d61fa8325bafb68a0ba0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_2aac703daccd37c26176d61fa8325bafb68a0ba0-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2aac703daccd37c26176d61fa8325bafb68a0ba0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_2bd6c8287b70e04c9603c63ebf30b7f9487bb096-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2bd6c8287b70e04c9603c63ebf30b7f9487bb096> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_2d1ee91d2e870098fa769b9fa821da3becc9cdff-Tecnoxamanismo15032014-user_2d1ee91d2e870098fa769b9fa821da3becc9cdff> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2d1ee91d2e870098fa769b9fa821da3becc9cdff> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2d1ee91d2e870098fa769b9fa821da3becc9cdff> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_2d1ee91d2e870098fa769b9fa821da3becc9cdff-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2d1ee91d2e870098fa769b9fa821da3becc9cdff> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_2e78b9810032d53f85c3b17a303be9aff9ddab72-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2e78b9810032d53f85c3b17a303be9aff9ddab72> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_2e78b9810032d53f85c3b17a303be9aff9ddab72-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2e78b9810032d53f85c3b17a303be9aff9ddab72> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_2e9e5035aaf2b2d7f55ca105ff88852d2808a958-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2e9e5035aaf2b2d7f55ca105ff88852d2808a958> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_348cbf55a1014c34162e6b3ca772646962ec9c9a-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_348cbf55a1014c34162e6b3ca772646962ec9c9a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be-Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:weight 11 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be-Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 18 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 7 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_34fa81b9fdd77818d1b0ff23589fb7c7e3476cea-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34fa81b9fdd77818d1b0ff23589fb7c7e3476cea> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_34fa81b9fdd77818d1b0ff23589fb7c7e3476cea-Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34fa81b9fdd77818d1b0ff23589fb7c7e3476cea> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_3776cfef809a9f6ce496b05a17d00d72597629f1-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3776cfef809a9f6ce496b05a17d00d72597629f1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2-Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 20 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2-Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_449b04dd2f32a70293c3f73140cf720e750738af-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_449b04dd2f32a70293c3f73140cf720e750738af> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c-Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 10 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 10 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7-Tecnoxamanismo15032014-user_2e9e5035aaf2b2d7f55ca105ff88852d2808a958> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2e9e5035aaf2b2d7f55ca105ff88852d2808a958> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7-Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7-Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7-Tecnoxamanismo15032014-user_cc0233cfefdcc2e61575a360e41ebfd426e3de1a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cc0233cfefdcc2e61575a360e41ebfd426e3de1a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7-Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 19 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7-Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7-Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_4f57420e0996fd9da2f5d256cdc6b47a5a6ff3a8-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_4f57420e0996fd9da2f5d256cdc6b47a5a6ff3a8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_52b7792e03282643cff922a5618b29532eba7fec-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_52b7792e03282643cff922a5618b29532eba7fec> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_53eb40488ee5ebdd3bc1a2d90f53dfb9969c6ac5-Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_53eb40488ee5ebdd3bc1a2d90f53dfb9969c6ac5> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_56aadfc47cdf0bc2e234631919e1f441b9eef1d7-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_56aadfc47cdf0bc2e234631919e1f441b9eef1d7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_56aadfc47cdf0bc2e234631919e1f441b9eef1d7-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_56aadfc47cdf0bc2e234631919e1f441b9eef1d7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_5917e2a6a16e63d8b4566086ff36994ff82981bf-Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_5917e2a6a16e63d8b4566086ff36994ff82981bf> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_5917e2a6a16e63d8b4566086ff36994ff82981bf-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_5917e2a6a16e63d8b4566086ff36994ff82981bf> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_59e9e9ad5790082b4348a6c4fb34fa1182a3e49e-Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_59e9e9ad5790082b4348a6c4fb34fa1182a3e49e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_5f62e82dd61c6ca79b5a5251e1969628315e1e4b-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_5f62e82dd61c6ca79b5a5251e1969628315e1e4b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_61138aa344957695f7e058cd9407656da1984356-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_61138aa344957695f7e058cd9407656da1984356> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6148b9a40f8ac59496a557103a6d5660ab8b9582-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6148b9a40f8ac59496a557103a6d5660ab8b9582> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6175017a9d1ab29e054fc51f38e74468089e0fb0-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6175017a9d1ab29e054fc51f38e74468089e0fb0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_674b765cfea83d7de8eb622658594d76fecd50e8-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_674b765cfea83d7de8eb622658594d76fecd50e8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6769ea95c8f4e63ae1c2af8e88b699ee986ebe4d-Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6769ea95c8f4e63ae1c2af8e88b699ee986ebe4d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6769ea95c8f4e63ae1c2af8e88b699ee986ebe4d-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6769ea95c8f4e63ae1c2af8e88b699ee986ebe4d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6769ea95c8f4e63ae1c2af8e88b699ee986ebe4d-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6769ea95c8f4e63ae1c2af8e88b699ee986ebe4d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6769ea95c8f4e63ae1c2af8e88b699ee986ebe4d-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6769ea95c8f4e63ae1c2af8e88b699ee986ebe4d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6769ea95c8f4e63ae1c2af8e88b699ee986ebe4d-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6769ea95c8f4e63ae1c2af8e88b699ee986ebe4d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6769ea95c8f4e63ae1c2af8e88b699ee986ebe4d-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6769ea95c8f4e63ae1c2af8e88b699ee986ebe4d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6769ea95c8f4e63ae1c2af8e88b699ee986ebe4d-Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6769ea95c8f4e63ae1c2af8e88b699ee986ebe4d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_67ec26b1cf2792c154b4a34a65562ffa32673f49-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_67ec26b1cf2792c154b4a34a65562ffa32673f49> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6910b542177c4d2b2b6562f5ac2b8f1c2b9fda52-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6910b542177c4d2b2b6562f5ac2b8f1c2b9fda52> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_69dfa9ce0291f689e5bfeed325fdbf8c43501324-Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_69dfa9ce0291f689e5bfeed325fdbf8c43501324> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6b8ff2739f54066a813aa07c98bf179f00c5c675-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6b8ff2739f54066a813aa07c98bf179f00c5c675> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6b8ff2739f54066a813aa07c98bf179f00c5c675-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6b8ff2739f54066a813aa07c98bf179f00c5c675> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6ecd8df111518ae0ec600ba91b5a715eeb5c54bb-Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6ecd8df111518ae0ec600ba91b5a715eeb5c54bb> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> ;
+    fb:weight 11 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6ecd8df111518ae0ec600ba91b5a715eeb5c54bb-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6ecd8df111518ae0ec600ba91b5a715eeb5c54bb> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6ecd8df111518ae0ec600ba91b5a715eeb5c54bb-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6ecd8df111518ae0ec600ba91b5a715eeb5c54bb> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_6ecd8df111518ae0ec600ba91b5a715eeb5c54bb-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6ecd8df111518ae0ec600ba91b5a715eeb5c54bb> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_74407f9b05d8cb8d155121912dc668cbcaf28067-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_74407f9b05d8cb8d155121912dc668cbcaf28067> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_74407f9b05d8cb8d155121912dc668cbcaf28067-Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_74407f9b05d8cb8d155121912dc668cbcaf28067> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_7504a5c81c84eee67104e5b7384e5c1d0da334ca-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_7504a5c81c84eee67104e5b7384e5c1d0da334ca> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_7504a5c81c84eee67104e5b7384e5c1d0da334ca-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_7504a5c81c84eee67104e5b7384e5c1d0da334ca> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_8475aa3007226d33faf0dcf7f2c9a404aa14ac89-Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_8475aa3007226d33faf0dcf7f2c9a404aa14ac89> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_8475aa3007226d33faf0dcf7f2c9a404aa14ac89-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_8475aa3007226d33faf0dcf7f2c9a404aa14ac89> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_89a206278136cec07f9c9400991949f112551560-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_89a206278136cec07f9c9400991949f112551560> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_89a206278136cec07f9c9400991949f112551560-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_89a206278136cec07f9c9400991949f112551560> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_89a206278136cec07f9c9400991949f112551560-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_89a206278136cec07f9c9400991949f112551560> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_89a206278136cec07f9c9400991949f112551560-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_89a206278136cec07f9c9400991949f112551560> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_8a8b9c98d2d7bbd3b0ffd54a050d3a932094be9b-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_8a8b9c98d2d7bbd3b0ffd54a050d3a932094be9b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_8a8b9c98d2d7bbd3b0ffd54a050d3a932094be9b-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_8a8b9c98d2d7bbd3b0ffd54a050d3a932094be9b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_8a8b9c98d2d7bbd3b0ffd54a050d3a932094be9b-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_8a8b9c98d2d7bbd3b0ffd54a050d3a932094be9b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_8dbc1cad70bdbdffa930aafbb84cfec0bc6e07f2-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_8dbc1cad70bdbdffa930aafbb84cfec0bc6e07f2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_941ac5c30fc0ede5735de41039edd9aa3bcf26bb-Tecnoxamanismo15032014-user_20b3dff08200fe493cb96010bb6ddabba4c5e7ca> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_941ac5c30fc0ede5735de41039edd9aa3bcf26bb> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_20b3dff08200fe493cb96010bb6ddabba4c5e7ca> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_941ac5c30fc0ede5735de41039edd9aa3bcf26bb-Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_941ac5c30fc0ede5735de41039edd9aa3bcf26bb> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_941ac5c30fc0ede5735de41039edd9aa3bcf26bb-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_941ac5c30fc0ede5735de41039edd9aa3bcf26bb> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 9 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_9814bdde76ae9c50f79952d839ff2cb8fa4ffddf-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_9814bdde76ae9c50f79952d839ff2cb8fa4ffddf> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_9a9d89502aadd35c62f70cc909cca26228e9b698-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_9a9d89502aadd35c62f70cc909cca26228e9b698> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_9a9d89502aadd35c62f70cc909cca26228e9b698-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_9a9d89502aadd35c62f70cc909cca26228e9b698> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_9be70b42d57596553f5108b2f351e4d99c8c969c-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_9be70b42d57596553f5108b2f351e4d99c8c969c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_9f9c45c08146d53a84897b271ccf2ee873f0cf6e-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_9f9c45c08146d53a84897b271ccf2ee873f0cf6e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a4c3df78f4160933810568bae3252889d72a8749-Tecnoxamanismo15032014-user_2ae1b0d04c65c31aab3952d571c89d60a5265b97> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a4c3df78f4160933810568bae3252889d72a8749> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2ae1b0d04c65c31aab3952d571c89d60a5265b97> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a4c3df78f4160933810568bae3252889d72a8749-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a4c3df78f4160933810568bae3252889d72a8749> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883-Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883-Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 22 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883-Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93-Tecnoxamanismo15032014-user_0daca4ddda21875f93c8ef5c247c2fcc2ca992db> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0daca4ddda21875f93c8ef5c247c2fcc2ca992db> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93-Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93-Tecnoxamanismo15032014-user_d3696620f4b4b76ff34649e9c251de55c3115ff8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d3696620f4b4b76ff34649e9c251de55c3115ff8> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93-Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 10 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93-Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a94767c2373552d39eef1e069192f3265d31e6b1-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a94767c2373552d39eef1e069192f3265d31e6b1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_a985ed6dc778c91d883a28bb98a909b437b3a6a7-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a985ed6dc778c91d883a28bb98a909b437b3a6a7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ab34d619229eeada70d4a0a3ef1eecde64d8fe6f-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ab34d619229eeada70d4a0a3ef1eecde64d8fe6f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 7 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_afe9161f72e6566cc7ba44ef308998dc69f38fb0-Tecnoxamanismo15032014-user_2d1ee91d2e870098fa769b9fa821da3becc9cdff> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_afe9161f72e6566cc7ba44ef308998dc69f38fb0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2d1ee91d2e870098fa769b9fa821da3becc9cdff> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_afe9161f72e6566cc7ba44ef308998dc69f38fb0-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_afe9161f72e6566cc7ba44ef308998dc69f38fb0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_b75879acca2f06225c116e8ac67a4b9b6d59231a-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_b75879acca2f06225c116e8ac67a4b9b6d59231a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_b75879acca2f06225c116e8ac67a4b9b6d59231a-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_b75879acca2f06225c116e8ac67a4b9b6d59231a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 9 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_b75879acca2f06225c116e8ac67a4b9b6d59231a-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_b75879acca2f06225c116e8ac67a4b9b6d59231a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_b75879acca2f06225c116e8ac67a4b9b6d59231a-Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_b75879acca2f06225c116e8ac67a4b9b6d59231a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_b806df248979eb21073cef3601fda3db141903aa-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_b806df248979eb21073cef3601fda3db141903aa> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_b8709396544f3843fb684cee379074011a1e0542-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_b8709396544f3843fb684cee379074011a1e0542> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_bb20ce46f592f726d10f777a2c2f23eb24d93e32-Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_bb20ce46f592f726d10f777a2c2f23eb24d93e32> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_bee953d83421ad5e589a8116ab57b68ee317df12-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_bee953d83421ad5e589a8116ab57b68ee317df12> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_bee953d83421ad5e589a8116ab57b68ee317df12-Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_bee953d83421ad5e589a8116ab57b68ee317df12> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_c04c3d000ebb1f9053482118d0fe3cea32e91c94-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_c04c3d000ebb1f9053482118d0fe3cea32e91c94> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_c2fc96285775470762b181330cf50f5f62191189-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_c2fc96285775470762b181330cf50f5f62191189> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_c8cdb574cb7351b3c678d552d5f88f7a31186a18-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_c8cdb574cb7351b3c678d552d5f88f7a31186a18> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_c90681ef80b2822f138d13af04ef585948092e54-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_c90681ef80b2822f138d13af04ef585948092e54> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_cb90a62b1c597acfab5eec5786210cef9e67247b-Tecnoxamanismo15032014-user_25ea710e2eeff851e9ee31a9f87c6d973b4c5752> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cb90a62b1c597acfab5eec5786210cef9e67247b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_25ea710e2eeff851e9ee31a9f87c6d973b4c5752> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_cb90a62b1c597acfab5eec5786210cef9e67247b-Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cb90a62b1c597acfab5eec5786210cef9e67247b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_cc0233cfefdcc2e61575a360e41ebfd426e3de1a-Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cc0233cfefdcc2e61575a360e41ebfd426e3de1a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_cc0233cfefdcc2e61575a360e41ebfd426e3de1a-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cc0233cfefdcc2e61575a360e41ebfd426e3de1a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_cc0233cfefdcc2e61575a360e41ebfd426e3de1a-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cc0233cfefdcc2e61575a360e41ebfd426e3de1a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_cc6eb8d669c9e6926c50a8fd300d91c338ce4654-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cc6eb8d669c9e6926c50a8fd300d91c338ce4654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_cc6eb8d669c9e6926c50a8fd300d91c338ce4654-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cc6eb8d669c9e6926c50a8fd300d91c338ce4654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_cd100ab7d56ae72a56907d6b3db39fb807662455-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cd100ab7d56ae72a56907d6b3db39fb807662455> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d-Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d-Tecnoxamanismo15032014-user_2e9e5035aaf2b2d7f55ca105ff88852d2808a958> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2e9e5035aaf2b2d7f55ca105ff88852d2808a958> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d-Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d-Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 9 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d-Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 46 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d2f6701d72506120d81b8613569d9245b194b15f-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d2f6701d72506120d81b8613569d9245b194b15f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d2f6701d72506120d81b8613569d9245b194b15f-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d2f6701d72506120d81b8613569d9245b194b15f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d2f6701d72506120d81b8613569d9245b194b15f-Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d2f6701d72506120d81b8613569d9245b194b15f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d3696620f4b4b76ff34649e9c251de55c3115ff8-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d3696620f4b4b76ff34649e9c251de55c3115ff8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d3696620f4b4b76ff34649e9c251de55c3115ff8-Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d3696620f4b4b76ff34649e9c251de55c3115ff8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d3696620f4b4b76ff34649e9c251de55c3115ff8-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d3696620f4b4b76ff34649e9c251de55c3115ff8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d4d275b9368ae6f07c19d48b839986ee2f7a6fbd-Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d4d275b9368ae6f07c19d48b839986ee2f7a6fbd> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d4d275b9368ae6f07c19d48b839986ee2f7a6fbd-Tecnoxamanismo15032014-user_d4d275b9368ae6f07c19d48b839986ee2f7a6fbd> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d4d275b9368ae6f07c19d48b839986ee2f7a6fbd> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d4d275b9368ae6f07c19d48b839986ee2f7a6fbd> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d4d275b9368ae6f07c19d48b839986ee2f7a6fbd-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d4d275b9368ae6f07c19d48b839986ee2f7a6fbd> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 13 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d4d275b9368ae6f07c19d48b839986ee2f7a6fbd-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d4d275b9368ae6f07c19d48b839986ee2f7a6fbd> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d551c0d22a062e4981a599bd4db3d9246659995a-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d551c0d22a062e4981a599bd4db3d9246659995a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d63b6ceaf58750b8bd73ec08cd8dd79da28971aa-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d63b6ceaf58750b8bd73ec08cd8dd79da28971aa> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243-Tecnoxamanismo15032014-user_2d1ee91d2e870098fa769b9fa821da3becc9cdff> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2d1ee91d2e870098fa769b9fa821da3becc9cdff> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243-Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 15 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86-Tecnoxamanismo15032014-user_2ae1b0d04c65c31aab3952d571c89d60a5265b97> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2ae1b0d04c65c31aab3952d571c89d60a5265b97> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86-Tecnoxamanismo15032014-user_2e9e5035aaf2b2d7f55ca105ff88852d2808a958> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2e9e5035aaf2b2d7f55ca105ff88852d2808a958> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86-Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86-Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86-Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86-Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86-Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 19 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86-Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86-Tecnoxamanismo15032014-user_f4ed8e85aac294b15ba806b02422147dd967c203> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f4ed8e85aac294b15ba806b02422147dd967c203> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86-Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_dc5c764f85220a2d40477a64790257d38df9d825-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_dc5c764f85220a2d40477a64790257d38df9d825> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e05be016d8415f2ad641025805dec262a0612418-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e05be016d8415f2ad641025805dec262a0612418> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e1490713c6667cda89570eecccbc08631fc92b79-Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e1490713c6667cda89570eecccbc08631fc92b79> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e1490713c6667cda89570eecccbc08631fc92b79-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e1490713c6667cda89570eecccbc08631fc92b79> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58-Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 13 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e301f30c050db8c753f9916ccb13cc518a8b0a4d-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e301f30c050db8c753f9916ccb13cc518a8b0a4d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 25 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e301f30c050db8c753f9916ccb13cc518a8b0a4d-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e301f30c050db8c753f9916ccb13cc518a8b0a4d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e3fe4d10e3150078f473e8aae62f168fff09653d-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e3fe4d10e3150078f473e8aae62f168fff09653d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e3fe4d10e3150078f473e8aae62f168fff09653d-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e3fe4d10e3150078f473e8aae62f168fff09653d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 13 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e3fe4d10e3150078f473e8aae62f168fff09653d-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e3fe4d10e3150078f473e8aae62f168fff09653d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e41c3d9d984d0c947e30d80002855d757c0b683d-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e41c3d9d984d0c947e30d80002855d757c0b683d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e41c3d9d984d0c947e30d80002855d757c0b683d-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e41c3d9d984d0c947e30d80002855d757c0b683d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 11 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e41c3d9d984d0c947e30d80002855d757c0b683d-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e41c3d9d984d0c947e30d80002855d757c0b683d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e41c3d9d984d0c947e30d80002855d757c0b683d-Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e41c3d9d984d0c947e30d80002855d757c0b683d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> ;
+    fb:weight 22 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_0daca4ddda21875f93c8ef5c247c2fcc2ca992db> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0daca4ddda21875f93c8ef5c247c2fcc2ca992db> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_20b3dff08200fe493cb96010bb6ddabba4c5e7ca> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_20b3dff08200fe493cb96010bb6ddabba4c5e7ca> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_23f66c4f293649b94ea441cbdd1424c9c96b97a1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_23f66c4f293649b94ea441cbdd1424c9c96b97a1> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_25ea710e2eeff851e9ee31a9f87c6d973b4c5752> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_25ea710e2eeff851e9ee31a9f87c6d973b4c5752> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_2d1ee91d2e870098fa769b9fa821da3becc9cdff> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2d1ee91d2e870098fa769b9fa821da3becc9cdff> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_2e9e5035aaf2b2d7f55ca105ff88852d2808a958> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2e9e5035aaf2b2d7f55ca105ff88852d2808a958> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:weight 54 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 13 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_6175017a9d1ab29e054fc51f38e74468089e0fb0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6175017a9d1ab29e054fc51f38e74468089e0fb0> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_99b9d7ee46526be665dfbd2175f699ad1eb82179> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_99b9d7ee46526be665dfbd2175f699ad1eb82179> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_cc0233cfefdcc2e61575a360e41ebfd426e3de1a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cc0233cfefdcc2e61575a360e41ebfd426e3de1a> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 157 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 10 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> ;
+    fb:weight 9 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 46 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b-Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e66b8d34b9dbbc370b20978ded9f8f59e792912a-Tecnoxamanismo15032014-user_2e9e5035aaf2b2d7f55ca105ff88852d2808a958> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e66b8d34b9dbbc370b20978ded9f8f59e792912a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2e9e5035aaf2b2d7f55ca105ff88852d2808a958> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e66b8d34b9dbbc370b20978ded9f8f59e792912a-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e66b8d34b9dbbc370b20978ded9f8f59e792912a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e66b8d34b9dbbc370b20978ded9f8f59e792912a-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e66b8d34b9dbbc370b20978ded9f8f59e792912a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f-Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ea9df1b9df18f87901fb672a96e9642fc6914e35-Tecnoxamanismo15032014-user_0daca4ddda21875f93c8ef5c247c2fcc2ca992db> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ea9df1b9df18f87901fb672a96e9642fc6914e35> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0daca4ddda21875f93c8ef5c247c2fcc2ca992db> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ea9df1b9df18f87901fb672a96e9642fc6914e35-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ea9df1b9df18f87901fb672a96e9642fc6914e35> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ee055be428dfdf04f42ec1ac9a27bbf5c83ccb5d-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ee055be428dfdf04f42ec1ac9a27bbf5c83ccb5d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ee179dda78710d4e812f645c4311ca9bff8ea1c7-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ee179dda78710d4e812f645c4311ca9bff8ea1c7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ee179dda78710d4e812f645c4311ca9bff8ea1c7-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ee179dda78710d4e812f645c4311ca9bff8ea1c7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6-Tecnoxamanismo15032014-user_20b3dff08200fe493cb96010bb6ddabba4c5e7ca> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_20b3dff08200fe493cb96010bb6ddabba4c5e7ca> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6-Tecnoxamanismo15032014-user_6175017a9d1ab29e054fc51f38e74468089e0fb0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6175017a9d1ab29e054fc51f38e74468089e0fb0> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 7 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6-Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 55 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 12 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6-Tecnoxamanismo15032014-user_f4ed8e85aac294b15ba806b02422147dd967c203> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f4ed8e85aac294b15ba806b02422147dd967c203> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6-Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f1509cba821d52fcb74326872870c4fdbe25a7f6-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f1509cba821d52fcb74326872870c4fdbe25a7f6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f1b1fcd0afde9c5fa1601999b0df5ed1e6e9709c-Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f1b1fcd0afde9c5fa1601999b0df5ed1e6e9709c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f1b1fcd0afde9c5fa1601999b0df5ed1e6e9709c-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f1b1fcd0afde9c5fa1601999b0df5ed1e6e9709c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 11 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 22 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f-Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f-Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152-Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f5ce415dcb3e524c7764160d10b9d5bac910bd8c-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f5ce415dcb3e524c7764160d10b9d5bac910bd8c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84-Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> ;
+    fb:weight 28 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84-Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 39 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84-Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 48 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_fa4258a1bb882831fcfaaeac4738f1913f0c10be-Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_fa4258a1bb882831fcfaaeac4738f1913f0c10be> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_fa4258a1bb882831fcfaaeac4738f1913f0c10be-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_fa4258a1bb882831fcfaaeac4738f1913f0c10be> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_fa4258a1bb882831fcfaaeac4738f1913f0c10be-Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_fa4258a1bb882831fcfaaeac4738f1913f0c10be> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_fa4258a1bb882831fcfaaeac4738f1913f0c10be-Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_fa4258a1bb882831fcfaaeac4738f1913f0c10be> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_faac6e861a994f2d884c692057c30db244feba5d-Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_faac6e861a994f2d884c692057c30db244feba5d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_fb1a069d211b9d006db0e7d7e673bd7e96fa2822-Tecnoxamanismo15032014-user_2e9e5035aaf2b2d7f55ca105ff88852d2808a958> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_fb1a069d211b9d006db0e7d7e673bd7e96fa2822> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2e9e5035aaf2b2d7f55ca105ff88852d2808a958> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_fe8c6a75b45329bafc1bccab88832853a1e73efe-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_fe8c6a75b45329bafc1bccab88832853a1e73efe> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ff0669401c5def22e968ac6c389f1d1e98ebd627-Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ff0669401c5def22e968ac6c389f1d1e98ebd627> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ff0669401c5def22e968ac6c389f1d1e98ebd627-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ff0669401c5def22e968ac6c389f1d1e98ebd627> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 14 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014-user_ff0669401c5def22e968ac6c389f1d1e98ebd627-Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ff0669401c5def22e968ac6c389f1d1e98ebd627> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014_interactions-user_2eaffadd63a96098a73fef35ad7181a12c00422d-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_2eaffadd63a96098a73fef35ad7181a12c00422d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014_interactions-user_7321baba504bc9391273f1d4ce6e1cff8e4cafcc-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_7321baba504bc9391273f1d4ce6e1cff8e4cafcc> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014_interactions-user_7321baba504bc9391273f1d4ce6e1cff8e4cafcc-Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_7321baba504bc9391273f1d4ce6e1cff8e4cafcc> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11-Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11-Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_13f7839e6fbfcd823643479a80888a339786f2e7> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 1 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_04a98306cce82222963d8d5f85964188b9ba32eb> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_1028824e02caa6664ac959680c1968995b2abcd0> a fb:Participant ;
+    fb:locale "en_GB"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_11bd4ccb7c00d128fcd3770cbd20b6fcad33d0f5> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_145236635c180ee8ed1e97faa7921c32d8fdfb38> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_185c9ce5e25db35b57c0e4aabae034284bf642f0> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_1aa7e0cde129e837062995457cc49385c9dd49df> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_1c41ba77de3e8f56a8a25cc5b8e633c0ce7a4874> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_27b07ec17998d79f77d7750b1bb2a2fb192734be> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_28b5b650aa6b187b9b759573e978bbe44b50e1e9> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2bd6c8287b70e04c9603c63ebf30b7f9487bb096> a fb:Participant ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_348cbf55a1014c34162e6b3ca772646962ec9c9a> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3776cfef809a9f6ce496b05a17d00d72597629f1> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_449b04dd2f32a70293c3f73140cf720e750738af> a fb:Participant ;
+    fb:locale "en_GB"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_4f57420e0996fd9da2f5d256cdc6b47a5a6ff3a8> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_52b7792e03282643cff922a5618b29532eba7fec> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_53eb40488ee5ebdd3bc1a2d90f53dfb9969c6ac5> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_59e9e9ad5790082b4348a6c4fb34fa1182a3e49e> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_5f62e82dd61c6ca79b5a5251e1969628315e1e4b> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_61138aa344957695f7e058cd9407656da1984356> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6148b9a40f8ac59496a557103a6d5660ab8b9582> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_674b765cfea83d7de8eb622658594d76fecd50e8> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_67ec26b1cf2792c154b4a34a65562ffa32673f49> a fb:Participant ;
+    fb:locale "en_GB"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6910b542177c4d2b2b6562f5ac2b8f1c2b9fda52> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_69dfa9ce0291f689e5bfeed325fdbf8c43501324> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_8dbc1cad70bdbdffa930aafbb84cfec0bc6e07f2> a fb:Participant ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_9814bdde76ae9c50f79952d839ff2cb8fa4ffddf> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_99b9d7ee46526be665dfbd2175f699ad1eb82179> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 1 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_9be70b42d57596553f5108b2f351e4d99c8c969c> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_9f9c45c08146d53a84897b271ccf2ee873f0cf6e> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a94767c2373552d39eef1e069192f3265d31e6b1> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a985ed6dc778c91d883a28bb98a909b437b3a6a7> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ab34d619229eeada70d4a0a3ef1eecde64d8fe6f> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_b806df248979eb21073cef3601fda3db141903aa> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_b8709396544f3843fb684cee379074011a1e0542> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_bb20ce46f592f726d10f777a2c2f23eb24d93e32> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_c04c3d000ebb1f9053482118d0fe3cea32e91c94> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_c2fc96285775470762b181330cf50f5f62191189> a fb:Participant ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_c8cdb574cb7351b3c678d552d5f88f7a31186a18> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_c90681ef80b2822f138d13af04ef585948092e54> a fb:Participant ;
+    fb:locale "de_DE"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cd100ab7d56ae72a56907d6b3db39fb807662455> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d551c0d22a062e4981a599bd4db3d9246659995a> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d63b6ceaf58750b8bd73ec08cd8dd79da28971aa> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_dc5c764f85220a2d40477a64790257d38df9d825> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e05be016d8415f2ad641025805dec262a0612418> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ee055be428dfdf04f42ec1ac9a27bbf5c83ccb5d> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f1509cba821d52fcb74326872870c4fdbe25a7f6> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f5ce415dcb3e524c7764160d10b9d5bac910bd8c> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_faac6e861a994f2d884c692057c30db244feba5d> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_fb1a069d211b9d006db0e7d7e673bd7e96fa2822> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_fe8c6a75b45329bafc1bccab88832853a1e73efe> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_2eaffadd63a96098a73fef35ad7181a12c00422d> a fb:Participant ;
+    fb:locale ""^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex ""^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_08339c7f30716e37970b90ce15acf0014b2a12bb> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 1 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0af16b95297560a2b7fd6ef2de51735cf785cc9f> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2ae1b0d04c65c31aab3952d571c89d60a5265b97> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 1 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2e78b9810032d53f85c3b17a303be9aff9ddab72> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34fa81b9fdd77818d1b0ff23589fb7c7e3476cea> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_56aadfc47cdf0bc2e234631919e1f441b9eef1d7> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_5917e2a6a16e63d8b4566086ff36994ff82981bf> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6b8ff2739f54066a813aa07c98bf179f00c5c675> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_74407f9b05d8cb8d155121912dc668cbcaf28067> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_7504a5c81c84eee67104e5b7384e5c1d0da334ca> a fb:Participant ;
+    fb:locale "da_DK"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_9a9d89502aadd35c62f70cc909cca26228e9b698> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a4c3df78f4160933810568bae3252889d72a8749> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_afe9161f72e6566cc7ba44ef308998dc69f38fb0> a fb:Participant ;
+    fb:locale "fr_CA"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_bee953d83421ad5e589a8116ab57b68ee317df12> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cb90a62b1c597acfab5eec5786210cef9e67247b> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cc6eb8d669c9e6926c50a8fd300d91c338ce4654> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e1490713c6667cda89570eecccbc08631fc92b79> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 1 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e301f30c050db8c753f9916ccb13cc518a8b0a4d> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 3 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ea9df1b9df18f87901fb672a96e9642fc6914e35> a fb:Participant ;
+    fb:locale "es_ES"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ee179dda78710d4e812f645c4311ca9bff8ea1c7> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f1b1fcd0afde9c5fa1601999b0df5ed1e6e9709c> a fb:Participant ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f4ed8e85aac294b15ba806b02422147dd967c203> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 2 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_7321baba504bc9391273f1d4ce6e1cff8e4cafcc> a fb:Participant ;
+    fb:locale ""^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex ""^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_238c08dd401e85f7a68de9a60afcc5e256fc8a00> a fb:Participant ;
+    fb:locale "en_GB"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_25ea710e2eeff851e9ee31a9f87c6d973b4c5752> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 1 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6175017a9d1ab29e054fc51f38e74468089e0fb0> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 1 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_8475aa3007226d33faf0dcf7f2c9a404aa14ac89> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 1 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_8a8b9c98d2d7bbd3b0ffd54a050d3a932094be9b> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_941ac5c30fc0ede5735de41039edd9aa3bcf26bb> a fb:Participant ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex ""^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d2f6701d72506120d81b8613569d9245b194b15f> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e3fe4d10e3150078f473e8aae62f168fff09653d> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e66b8d34b9dbbc370b20978ded9f8f59e792912a> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ff0669401c5def22e968ac6c389f1d1e98ebd627> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2aac703daccd37c26176d61fa8325bafb68a0ba0> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6ecd8df111518ae0ec600ba91b5a715eeb5c54bb> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_89a206278136cec07f9c9400991949f112551560> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_b75879acca2f06225c116e8ac67a4b9b6d59231a> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d3696620f4b4b76ff34649e9c251de55c3115ff8> a fb:Participant ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:posts 1 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e41c3d9d984d0c947e30d80002855d757c0b683d> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_fa4258a1bb882831fcfaaeac4738f1913f0c10be> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0daca4ddda21875f93c8ef5c247c2fcc2ca992db> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 2 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_20b3dff08200fe493cb96010bb6ddabba4c5e7ca> a fb:Participant ;
+    fb:locale "es_LA"^^xsd:string ;
+    fb:posts 1 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d4d275b9368ae6f07c19d48b839986ee2f7a6fbd> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 2 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_23f66c4f293649b94ea441cbdd1424c9c96b97a1> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 2 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2d1ee91d2e870098fa769b9fa821da3becc9cdff> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 2 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_cc0233cfefdcc2e61575a360e41ebfd426e3de1a> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 1 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_2e9e5035aaf2b2d7f55ca105ff88852d2808a958> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 2 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_6769ea95c8f4e63ae1c2af8e88b699ee986ebe4d> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 0 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_dd2805394bf504745a46feb610ae23d2be73379e> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 3 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_46c5733ce9bb3f107e7c1468c096eb6805f1571c> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 1 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_02ea86516cf851e2f52436273b6a5e35df3ee0c7> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 1 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a73086dc38bbf5f011ce856e1e7a6cfda8a08e93> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 2 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e1ab4ee2d1da43388d7b6b7649416915520ccc58> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 10 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f57079634bb42a53a862f388a8c88939203bb152> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 2 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d73162495ce33b30c42854dee2c52f9b09de7243> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 2 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_34f4e78ef6e88681514323429fcb167b291b29be> a fb:Participant ;
+    fb:locale "pt_PT"^^xsd:string ;
+    fb:posts 2 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014_interactions-user_9e45dcb5dfa8c30bca966c056317e09dcfc85a11> a fb:Participant ;
+    fb:locale ""^^xsd:string ;
+    fb:posts 2 ;
+    fb:sex ""^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_0418234718b19733c83b1c927e3178555506d2d8> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 2 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f2b5952aad685989147b62a34632c7cb64f7239f> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 3 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_d8bc6d2a7464ddb2b442c97be8264e2ab4d6aa86> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 1 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_470cdce5272a1d30eaa93983811943bb9895a9b7> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 7 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_a589ef62eca76c48aee8a3542e0b2c2c2826b883> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 2 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e9e7f085744f5e2242a2d8166d7087c80693fa2f> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 3 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_3b8bc8fcaa62df31efddc10f55aa58c43033dad2> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 9 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f11cd2cc3741864e241e038dbe9f72586498a5a6> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 15 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Participant ;
+    fb:locale "en_US"^^xsd:string ;
+    fb:posts 7 ;
+    fb:sex "male"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_f69feae227bf71c28df89e0b256bd0caa470ae84> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 36 ;
+    fb:sex "female"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#Tecnoxamanismo15032014-user_e491ccb0c19144d79ebede67251ab3700c58816b> a fb:Participant ;
+    fb:locale "pt_BR"^^xsd:string ;
+    fb:posts 57 ;
+    fb:sex "female"^^xsd:string .
+
