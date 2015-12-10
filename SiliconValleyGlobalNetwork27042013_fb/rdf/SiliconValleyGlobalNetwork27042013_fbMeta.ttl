@@ -1,0 +1,47 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#SiliconValleyGlobalNetwork27042013_fb> a po:Snapshot ;
+    rdfs:label "Snapshot SiliconValleyGlobalNetwork27042013_fb"^^xsd:string ;
+    fb:ego false ;
+    fb:fAnon false ;
+    fb:fbLink "https://www.facebook.com/groups/109971182359978/permalink/589326757757749/"^^xsd:string ;
+    fb:friendAttribute "locale"^^xsd:string,
+        "name"^^xsd:string,
+        "sex"^^xsd:string,
+        "uid"^^xsd:string ;
+    fb:friendship true ;
+    fb:groupID "109971182359978"^^xsd:string ;
+    fb:iAnon true ;
+    fb:interaction true ;
+    fb:interactionAttribute "node1"^^xsd:string,
+        "node2"^^xsd:string,
+        "weight"^^xsd:string ;
+    fb:interactionFriendAttribute "posts"^^xsd:string ;
+    fb:nFriends 2026 ;
+    fb:nFriendsInteracted 104 ;
+    fb:nFriendships 15586 ;
+    fb:nInteractions 154 ;
+    fb:originalFriendshipFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/base/SiliconValleyGlobalNetwork27042013.gdf"^^xsd:string ;
+    fb:originalInteractionFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/base/SiliconValleyGlobalNetwork27042013_interactions.gdf"^^xsd:string ;
+    po:acquiredThrough "Netvizz"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/fbGroups/tree/master/SiliconValleyGlobalNetwork27042013_fb"^^xsd:string ;
+    po:createdAt "2013-04-27"^^xsd:date ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/rdf/SiliconValleyGlobalNetwork27042013_fbMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/rdf/SiliconValleyGlobalNetwork27042013_fbMeta.ttl"^^xsd:string ;
+    po:donatedBy "SiliconValleyGlobalNetwork27042013"^^xsd:string ;
+    po:friendshipTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/rdf/SiliconValleyGlobalNetwork27042013_fbFriendship.ttl"^^xsd:string ;
+    po:friendshipXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/rdf/SiliconValleyGlobalNetwork27042013_fbFriendship.owl"^^xsd:string ;
+    po:interactionTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/rdf/SiliconValleyGlobalNetwork27042013_fbInteraction.ttl"^^xsd:string ;
+    po:interactionXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/rdf/SiliconValleyGlobalNetwork27042013_fbInteraction.owl"^^xsd:string ;
+    po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
+    po:triplifiedIn "2015-12-10T04:23:29.760154"^^xsd:datetime ;
+    rdfs:comment "facebook network from SiliconValleyGlobalNetwork27042013 . Ego: False. Friendship: True. Interaction: True."^^xsd:string .
+
+<http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#SiliconValleyGlobalNetwork27042013_fb">
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">node2</fb:interactionAttribute>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">SiliconValleyGlobalNetwork27042013</po:donatedBy>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/rdf/SiliconValleyGlobalNetwork27042013_fbMeta.ttl</po:discoveryTTLFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-10T04:23:29.760154</po:triplifiedIn>
+    <fb:interactionFriendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">posts</fb:interactionFriendAttribute>
+    <po:friendshipTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/rdf/SiliconValleyGlobalNetwork27042013_fbFriendship.ttl</po:friendshipTTLFile>
+    <fb:interaction rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:interaction>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot SiliconValleyGlobalNetwork27042013_fb</rdfs:label>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight</fb:interactionAttribute>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-04-27</po:createdAt>
+    <fb:originalInteractionFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/base/SiliconValleyGlobalNetwork27042013_interactions.gdf</fb:originalInteractionFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex</fb:friendAttribute>
+    <fb:groupID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">109971182359978</fb:groupID>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">name</fb:friendAttribute>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/rdf/SiliconValleyGlobalNetwork27042013_fbMeta.owl</po:discorveryRDFFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:interactionXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/rdf/SiliconValleyGlobalNetwork27042013_fbInteraction.owl</po:interactionXMLFile>
+    <po:interactionTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/rdf/SiliconValleyGlobalNetwork27042013_fbInteraction.ttl</po:interactionTTLFile>
+    <fb:nFriendships rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15586</fb:nFriendships>
+    <fb:nInteractions rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">154</fb:nInteractions>
+    <fb:ego rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:ego>
+    <fb:fbLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/109971182359978/permalink/589326757757749/</fb:fbLink>
+    <po:socialProtocol rdf:resource="http://purl.org/socialparticipation/po/Platform#Facebook"/>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facebook network from SiliconValleyGlobalNetwork27042013 . Ego: False. Friendship: True. Interaction: True.</rdfs:comment>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">uid</fb:friendAttribute>
+    <fb:fAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:fAnon>
+    <fb:nFriendsInteracted rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104</fb:nFriendsInteracted>
+    <fb:iAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:iAnon>
+    <fb:originalFriendshipFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/base/SiliconValleyGlobalNetwork27042013.gdf</fb:originalFriendshipFile>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/fbGroups/tree/master/SiliconValleyGlobalNetwork27042013_fb</po:availableAt>
+    <po:friendshipXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/SiliconValleyGlobalNetwork27042013_fb/rdf/SiliconValleyGlobalNetwork27042013_fbFriendship.owl</po:friendshipXMLFile>
+    <fb:nFriends rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2026</fb:nFriends>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locale</fb:friendAttribute>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">node1</fb:interactionAttribute>
+    <fb:friendship rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:friendship>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Platform#Facebook">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Platform"/>
+  </rdf:Description>
+</rdf:RDF>

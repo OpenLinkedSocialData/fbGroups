@@ -1,0 +1,2200 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_02cb4c3940f805e0d54ec5043ef93020ef9d69a9-DemocraciaDiretaJa14072013-user_11ba001fa87ce44e845b12201d273baddd27a46f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_02cb4c3940f805e0d54ec5043ef93020ef9d69a9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_11ba001fa87ce44e845b12201d273baddd27a46f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_033e202e6ac7316cc1debfe6d2919b0a45a28854-DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_033e202e6ac7316cc1debfe6d2919b0a45a28854> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:weight 11 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_033e202e6ac7316cc1debfe6d2919b0a45a28854-DemocraciaDiretaJa14072013-user_ac972ddabcfbe66e2e75bb1391dc4c321305b6a8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_033e202e6ac7316cc1debfe6d2919b0a45a28854> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ac972ddabcfbe66e2e75bb1391dc4c321305b6a8> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_0411cde225e4cb808b3d3e76151a237fb5327ff7-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0411cde225e4cb808b3d3e76151a237fb5327ff7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_05d760b8df50570a215a28b11e308a420bb0610c-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_05d760b8df50570a215a28b11e308a420bb0610c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a-DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 15 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_0771b4818ac4599830c8e449cfa3092f1b431849-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0771b4818ac4599830c8e449cfa3092f1b431849> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_0d1b8a6fa4f0996d515a812e653355c1615d1596-DemocraciaDiretaJa14072013-user_0d1b8a6fa4f0996d515a812e653355c1615d1596> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0d1b8a6fa4f0996d515a812e653355c1615d1596> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0d1b8a6fa4f0996d515a812e653355c1615d1596> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_0d275b6ae7e58f064a454c55e3ad6dceb25e61f2-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0d275b6ae7e58f064a454c55e3ad6dceb25e61f2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_0d275b6ae7e58f064a454c55e3ad6dceb25e61f2-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0d275b6ae7e58f064a454c55e3ad6dceb25e61f2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_0d275b6ae7e58f064a454c55e3ad6dceb25e61f2-DemocraciaDiretaJa14072013_interacoes-user_29f7caaf12a119202bd3252644b9fd84467a2be2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0d275b6ae7e58f064a454c55e3ad6dceb25e61f2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_29f7caaf12a119202bd3252644b9fd84467a2be2> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_0e2d8dfca0ea58712529fc1a441a81f80808724c-DemocraciaDiretaJa14072013-user_7f0a577c0c2443e0e993f0f0bf4ae3af62c10c8d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0e2d8dfca0ea58712529fc1a441a81f80808724c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7f0a577c0c2443e0e993f0f0bf4ae3af62c10c8d> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_0e2d8dfca0ea58712529fc1a441a81f80808724c-DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0e2d8dfca0ea58712529fc1a441a81f80808724c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_10ca3638e24e2d095819b4f53a20bb13e210d6f5-DemocraciaDiretaJa14072013-user_5cd3795429ffdbe90d9f96022493ee9895e548bf> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_10ca3638e24e2d095819b4f53a20bb13e210d6f5> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5cd3795429ffdbe90d9f96022493ee9895e548bf> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_10e04480d272d576bbe8f263456bf4522a719db3-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_10e04480d272d576bbe8f263456bf4522a719db3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_10e04480d272d576bbe8f263456bf4522a719db3-DemocraciaDiretaJa14072013-user_ac972ddabcfbe66e2e75bb1391dc4c321305b6a8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_10e04480d272d576bbe8f263456bf4522a719db3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ac972ddabcfbe66e2e75bb1391dc4c321305b6a8> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_10f11805d3521f7a15a33b450dbeb41ad00e1e71-DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_10f11805d3521f7a15a33b450dbeb41ad00e1e71> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_10f11805d3521f7a15a33b450dbeb41ad00e1e71-DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_10f11805d3521f7a15a33b450dbeb41ad00e1e71> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_114ce562e1a6a4a5eae84e9cd901081fa22b5888-DemocraciaDiretaJa14072013-user_fe7d68c56e7931205d3c78267e59d8fb98b97fc5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_114ce562e1a6a4a5eae84e9cd901081fa22b5888> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_fe7d68c56e7931205d3c78267e59d8fb98b97fc5> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_12c0630131f735f779de4725ec8b212915f2bd80-DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_12c0630131f735f779de4725ec8b212915f2bd80> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_1338af3af7ed78935b4cb030a0e43ea7461e47d4-DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_1338af3af7ed78935b4cb030a0e43ea7461e47d4> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_13638c4ee2251eb4a3b41320bd18b2412fbe6f9c-DemocraciaDiretaJa14072013-user_ec718be2c7971a91ae2c5668fe25d3db796d59bb> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_13638c4ee2251eb4a3b41320bd18b2412fbe6f9c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ec718be2c7971a91ae2c5668fe25d3db796d59bb> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_14104503ea3d458c2704ea39717de298772ee25d-DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_14104503ea3d458c2704ea39717de298772ee25d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_165ab65abb21636256fd23820062a2c2fa59b4a9-DemocraciaDiretaJa14072013-user_b4bcd9298414dfe229a5e3bdf89f10990a601a0c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_165ab65abb21636256fd23820062a2c2fa59b4a9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b4bcd9298414dfe229a5e3bdf89f10990a601a0c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_17504a95353ecbdb22cd32c574a1b35e4d373f73-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_17504a95353ecbdb22cd32c574a1b35e4d373f73> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_18ff51801e80d8255d87a86dc148be4cbd997b99-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_18ff51801e80d8255d87a86dc148be4cbd997b99> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_18ff51801e80d8255d87a86dc148be4cbd997b99-DemocraciaDiretaJa14072013-user_8bd39a4ebdfc62ee2479beef589620507ecfe5d6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_18ff51801e80d8255d87a86dc148be4cbd997b99> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8bd39a4ebdfc62ee2479beef589620507ecfe5d6> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_19964c1d0ad5e1ba00b104a66d8e4361f3ac1f05-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_19964c1d0ad5e1ba00b104a66d8e4361f3ac1f05> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_19964c1d0ad5e1ba00b104a66d8e4361f3ac1f05-DemocraciaDiretaJa14072013-user_9482893429f9d11caa20d30474f767a53e51620a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_19964c1d0ad5e1ba00b104a66d8e4361f3ac1f05> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9482893429f9d11caa20d30474f767a53e51620a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_19f9df578e21b342b27b1ef508025ebee1560c60-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_19f9df578e21b342b27b1ef508025ebee1560c60> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_1a0f13d3923f6d4884f4b473e07d071541fe5528-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_1a0f13d3923f6d4884f4b473e07d071541fe5528> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_1cba1ef9bd5879491e81366dae97158729e0c8a3-DemocraciaDiretaJa14072013-user_af093a7b16670585c9ef74b8614c5384c66c3b42> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_1cba1ef9bd5879491e81366dae97158729e0c8a3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_af093a7b16670585c9ef74b8614c5384c66c3b42> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_1dbaeedc9ae2d454786e033cad42c9fd2f6fcff7-DemocraciaDiretaJa14072013-user_9168c0047ee8fb633e6d3d9db17cd60e26363ce4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_1dbaeedc9ae2d454786e033cad42c9fd2f6fcff7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9168c0047ee8fb633e6d3d9db17cd60e26363ce4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_20f3c369169f33cbc101ccd7b86a32a8ff2e2327-DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_20f3c369169f33cbc101ccd7b86a32a8ff2e2327> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075-DemocraciaDiretaJa14072013-user_3708159f74621f10b0819a531855ed6114a12044> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3708159f74621f10b0819a531855ed6114a12044> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075-DemocraciaDiretaJa14072013-user_68af113dcc1f93ee0ffc92f4b7c4c24a7af278fb> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_68af113dcc1f93ee0ffc92f4b7c4c24a7af278fb> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075-DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075-DemocraciaDiretaJa14072013-user_b38ce523a19e95f376c07899756a8ecdaa310b5a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b38ce523a19e95f376c07899756a8ecdaa310b5a> ;
+    fb:weight 8 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075-DemocraciaDiretaJa14072013-user_ec718be2c7971a91ae2c5668fe25d3db796d59bb> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ec718be2c7971a91ae2c5668fe25d3db796d59bb> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_2443184e39f6a3e6d859e522705a2b95bd88124e-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2443184e39f6a3e6d859e522705a2b95bd88124e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_2443184e39f6a3e6d859e522705a2b95bd88124e-DemocraciaDiretaJa14072013-user_9b8297452df40eb12d9c83eb2b43edecbb4c61e2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2443184e39f6a3e6d859e522705a2b95bd88124e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9b8297452df40eb12d9c83eb2b43edecbb4c61e2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_25d8b0c824b6070d651f70b87377b16df4e045fb-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_25d8b0c824b6070d651f70b87377b16df4e045fb> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_25f36dad87be94cb1fd702f25af0ff85d65c0a40-DemocraciaDiretaJa14072013-user_b4bcd9298414dfe229a5e3bdf89f10990a601a0c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_25f36dad87be94cb1fd702f25af0ff85d65c0a40> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b4bcd9298414dfe229a5e3bdf89f10990a601a0c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_2a47064a6e0ed2328bcd6e66905d2230e17aacd8-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2a47064a6e0ed2328bcd6e66905d2230e17aacd8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_2b2ef20e60e4e8d61d99f0c6fc84a3cb82419951-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2b2ef20e60e4e8d61d99f0c6fc84a3cb82419951> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_2c019b4d7f34a75c609229286c506966ada141a6-DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2c019b4d7f34a75c609229286c506966ada141a6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_2c0cdaf5d80b52f0fb91c50646c95cf43e3ca5a2-DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2c0cdaf5d80b52f0fb91c50646c95cf43e3ca5a2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_2c0cdaf5d80b52f0fb91c50646c95cf43e3ca5a2-DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2c0cdaf5d80b52f0fb91c50646c95cf43e3ca5a2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_2e680a4eb319e7c13359893df99b69942c4bf318-DemocraciaDiretaJa14072013-user_3475397f30fd2949324206148f0c31a63effcd2d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2e680a4eb319e7c13359893df99b69942c4bf318> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3475397f30fd2949324206148f0c31a63effcd2d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_2e680a4eb319e7c13359893df99b69942c4bf318-DemocraciaDiretaJa14072013-user_3fb77d387594f90415cb145044ef91dce585aef9> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2e680a4eb319e7c13359893df99b69942c4bf318> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3fb77d387594f90415cb145044ef91dce585aef9> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_2e680a4eb319e7c13359893df99b69942c4bf318-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2e680a4eb319e7c13359893df99b69942c4bf318> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_2e680a4eb319e7c13359893df99b69942c4bf318-DemocraciaDiretaJa14072013-user_fe7d68c56e7931205d3c78267e59d8fb98b97fc5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2e680a4eb319e7c13359893df99b69942c4bf318> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_fe7d68c56e7931205d3c78267e59d8fb98b97fc5> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_316729216b494d270b3be22e0063314a4be77933-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_316729216b494d270b3be22e0063314a4be77933> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_3424f49cc047df4661c25219352d454d70116698-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3424f49cc047df4661c25219352d454d70116698> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_3475397f30fd2949324206148f0c31a63effcd2d-DemocraciaDiretaJa14072013-user_3475397f30fd2949324206148f0c31a63effcd2d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3475397f30fd2949324206148f0c31a63effcd2d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3475397f30fd2949324206148f0c31a63effcd2d> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_3569782e8b4382c4cb196709d6dedb0e821768cd-DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3569782e8b4382c4cb196709d6dedb0e821768cd> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_3569782e8b4382c4cb196709d6dedb0e821768cd-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3569782e8b4382c4cb196709d6dedb0e821768cd> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_35db67fb9507a9f1a0bf51477f6170f1de4a317f-DemocraciaDiretaJa14072013-user_35db67fb9507a9f1a0bf51477f6170f1de4a317f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_35db67fb9507a9f1a0bf51477f6170f1de4a317f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_35db67fb9507a9f1a0bf51477f6170f1de4a317f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_36f8044388b746c8b34856deae17c59ed5e09291-DemocraciaDiretaJa14072013-user_11ba001fa87ce44e845b12201d273baddd27a46f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_36f8044388b746c8b34856deae17c59ed5e09291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_11ba001fa87ce44e845b12201d273baddd27a46f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_37b3f28b0710e9f14cdfcb4b87021f71752a651c-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_37b3f28b0710e9f14cdfcb4b87021f71752a651c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_3ed4f121f50cc80ccb8634f4342947662d0bf52f-DemocraciaDiretaJa14072013-user_0d1b8a6fa4f0996d515a812e653355c1615d1596> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3ed4f121f50cc80ccb8634f4342947662d0bf52f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0d1b8a6fa4f0996d515a812e653355c1615d1596> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_3ed4f121f50cc80ccb8634f4342947662d0bf52f-DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3ed4f121f50cc80ccb8634f4342947662d0bf52f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_3ed4f121f50cc80ccb8634f4342947662d0bf52f-DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3ed4f121f50cc80ccb8634f4342947662d0bf52f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_3ed4f121f50cc80ccb8634f4342947662d0bf52f-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3ed4f121f50cc80ccb8634f4342947662d0bf52f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4233fc1068df93bc5421e18d43379b8c59794dbf-DemocraciaDiretaJa14072013-user_3569782e8b4382c4cb196709d6dedb0e821768cd> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4233fc1068df93bc5421e18d43379b8c59794dbf> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3569782e8b4382c4cb196709d6dedb0e821768cd> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4435ec47e5ae1f5f74b29b39bbd015062da65e85-DemocraciaDiretaJa14072013-user_3fb77d387594f90415cb145044ef91dce585aef9> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4435ec47e5ae1f5f74b29b39bbd015062da65e85> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3fb77d387594f90415cb145044ef91dce585aef9> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4435ec47e5ae1f5f74b29b39bbd015062da65e85-DemocraciaDiretaJa14072013-user_90b33bac102bd9de681c557bcb73e52d68f6e6c7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4435ec47e5ae1f5f74b29b39bbd015062da65e85> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_90b33bac102bd9de681c557bcb73e52d68f6e6c7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_46e0b9d73667aa2fd121db9147a445823ecdb7be-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_46e0b9d73667aa2fd121db9147a445823ecdb7be> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_48736dd09c4c14db62c713d224ea35fbd2a18c9e-DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_48736dd09c4c14db62c713d224ea35fbd2a18c9e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_48d757b6e9fd4a664bd717734a1bb09b27af0a4b-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_48d757b6e9fd4a664bd717734a1bb09b27af0a4b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4ab8644700b878a96ea1e9d111dda30becbef034-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4ab8644700b878a96ea1e9d111dda30becbef034> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4c238911d3ace2d8b7fef3f5f4b73eaa04578d7c-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4c238911d3ace2d8b7fef3f5f4b73eaa04578d7c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4c238911d3ace2d8b7fef3f5f4b73eaa04578d7c-DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4c238911d3ace2d8b7fef3f5f4b73eaa04578d7c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4c238911d3ace2d8b7fef3f5f4b73eaa04578d7c-DemocraciaDiretaJa14072013-user_9482893429f9d11caa20d30474f767a53e51620a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4c238911d3ace2d8b7fef3f5f4b73eaa04578d7c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9482893429f9d11caa20d30474f767a53e51620a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4c2ebf12eee15a039ba9f6fed564c030740ef291-DemocraciaDiretaJa14072013-user_2c0cdaf5d80b52f0fb91c50646c95cf43e3ca5a2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4c2ebf12eee15a039ba9f6fed564c030740ef291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2c0cdaf5d80b52f0fb91c50646c95cf43e3ca5a2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4c2ebf12eee15a039ba9f6fed564c030740ef291-DemocraciaDiretaJa14072013-user_35db67fb9507a9f1a0bf51477f6170f1de4a317f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4c2ebf12eee15a039ba9f6fed564c030740ef291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_35db67fb9507a9f1a0bf51477f6170f1de4a317f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4c2ebf12eee15a039ba9f6fed564c030740ef291-DemocraciaDiretaJa14072013-user_b38ce523a19e95f376c07899756a8ecdaa310b5a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4c2ebf12eee15a039ba9f6fed564c030740ef291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b38ce523a19e95f376c07899756a8ecdaa310b5a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4c2ebf12eee15a039ba9f6fed564c030740ef291-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4c2ebf12eee15a039ba9f6fed564c030740ef291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4c2ebf12eee15a039ba9f6fed564c030740ef291-DemocraciaDiretaJa14072013-user_e52cde3d7dbd09bfce15b94c4f78fbcc69b1449c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4c2ebf12eee15a039ba9f6fed564c030740ef291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e52cde3d7dbd09bfce15b94c4f78fbcc69b1449c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4c2ebf12eee15a039ba9f6fed564c030740ef291-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4c2ebf12eee15a039ba9f6fed564c030740ef291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4d6b0398905121bbb61dd95457da79ed121f01ab-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4d6b0398905121bbb61dd95457da79ed121f01ab> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4f8b8859d45bc1d2ff6db933770160c540f258d9-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4f8b8859d45bc1d2ff6db933770160c540f258d9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4f8b8859d45bc1d2ff6db933770160c540f258d9-DemocraciaDiretaJa14072013-user_52c917872690423e927885bb4b44e7f9f280c881> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4f8b8859d45bc1d2ff6db933770160c540f258d9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_52c917872690423e927885bb4b44e7f9f280c881> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_4f8b8859d45bc1d2ff6db933770160c540f258d9-DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4f8b8859d45bc1d2ff6db933770160c540f258d9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_535f7024aff185a5fcaea9680186db3b49332c1b-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_535f7024aff185a5fcaea9680186db3b49332c1b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_535f7024aff185a5fcaea9680186db3b49332c1b-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_535f7024aff185a5fcaea9680186db3b49332c1b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_5520e1144940f6988b5645d76ebdbf093ff3ff1d-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5520e1144940f6988b5645d76ebdbf093ff3ff1d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_56f9a32023b10f760c6ed9b945310af5456cd95d-DemocraciaDiretaJa14072013-user_b4bcd9298414dfe229a5e3bdf89f10990a601a0c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_56f9a32023b10f760c6ed9b945310af5456cd95d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b4bcd9298414dfe229a5e3bdf89f10990a601a0c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_590b326621d229326beb31fae877fac24f7e80ee-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_590b326621d229326beb31fae877fac24f7e80ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_590b326621d229326beb31fae877fac24f7e80ee-DemocraciaDiretaJa14072013-user_82f201f9d42dd39ccab5fbff6660f50b95ec158a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_590b326621d229326beb31fae877fac24f7e80ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82f201f9d42dd39ccab5fbff6660f50b95ec158a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_590b326621d229326beb31fae877fac24f7e80ee-DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_590b326621d229326beb31fae877fac24f7e80ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_590b326621d229326beb31fae877fac24f7e80ee-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_590b326621d229326beb31fae877fac24f7e80ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_590b326621d229326beb31fae877fac24f7e80ee-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_590b326621d229326beb31fae877fac24f7e80ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_595694a0ba667c95c4917f7714d163224cc20ad3-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_595694a0ba667c95c4917f7714d163224cc20ad3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_5c7d3ab8964f018e94ffba72256fb48b5508b0af-DemocraciaDiretaJa14072013-user_ac972ddabcfbe66e2e75bb1391dc4c321305b6a8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5c7d3ab8964f018e94ffba72256fb48b5508b0af> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ac972ddabcfbe66e2e75bb1391dc4c321305b6a8> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_5c7d3ab8964f018e94ffba72256fb48b5508b0af-DemocraciaDiretaJa14072013-user_af093a7b16670585c9ef74b8614c5384c66c3b42> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5c7d3ab8964f018e94ffba72256fb48b5508b0af> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_af093a7b16670585c9ef74b8614c5384c66c3b42> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_5cb86cc42d503d5e002d454b151e29e959b6762d-DemocraciaDiretaJa14072013-user_b4bcd9298414dfe229a5e3bdf89f10990a601a0c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5cb86cc42d503d5e002d454b151e29e959b6762d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b4bcd9298414dfe229a5e3bdf89f10990a601a0c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_5cec93a770d5091d02fa65750c5391e5a12911d0-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5cec93a770d5091d02fa65750c5391e5a12911d0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_5d2367090a0b7099e72601230ee265f8dc10f752-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5d2367090a0b7099e72601230ee265f8dc10f752> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_5e33de82b874c230eb18d01433e52e78cdb06d64-DemocraciaDiretaJa14072013-user_af093a7b16670585c9ef74b8614c5384c66c3b42> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5e33de82b874c230eb18d01433e52e78cdb06d64> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_af093a7b16670585c9ef74b8614c5384c66c3b42> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_62dfbfcf779c63b61364fc3875b90224140a1cb0-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_62dfbfcf779c63b61364fc3875b90224140a1cb0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 7 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_62dfbfcf779c63b61364fc3875b90224140a1cb0-DemocraciaDiretaJa14072013-user_af093a7b16670585c9ef74b8614c5384c66c3b42> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_62dfbfcf779c63b61364fc3875b90224140a1cb0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_af093a7b16670585c9ef74b8614c5384c66c3b42> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_62e52089105ef67f8185e8ea798865d9d92a0f7f-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_62e52089105ef67f8185e8ea798865d9d92a0f7f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_674063e9bc4c0c0efaad7ffe2c1f4cacdda1642a-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_674063e9bc4c0c0efaad7ffe2c1f4cacdda1642a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_68af113dcc1f93ee0ffc92f4b7c4c24a7af278fb-DemocraciaDiretaJa14072013-user_68af113dcc1f93ee0ffc92f4b7c4c24a7af278fb> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_68af113dcc1f93ee0ffc92f4b7c4c24a7af278fb> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_68af113dcc1f93ee0ffc92f4b7c4c24a7af278fb> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_68c861c346aa6a7b6a18407a58fa1e53007b2fce-DemocraciaDiretaJa14072013-user_0e0724fc3dc2eb38a1bf291b8772ac70881d551b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_68c861c346aa6a7b6a18407a58fa1e53007b2fce> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0e0724fc3dc2eb38a1bf291b8772ac70881d551b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_6ae9e5e907668e5395eb59871963b9789303d213-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6ae9e5e907668e5395eb59871963b9789303d213> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_6d9f53fd6d145abd066393b5411b41f14fe0ddb3-DemocraciaDiretaJa14072013-user_6d9f53fd6d145abd066393b5411b41f14fe0ddb3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d9f53fd6d145abd066393b5411b41f14fe0ddb3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d9f53fd6d145abd066393b5411b41f14fe0ddb3> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_6dbcd17b63cde8b006844b90385d3c472063a4e4-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6dbcd17b63cde8b006844b90385d3c472063a4e4> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_6e25188079b1e5e1c000fd0001c6346ab70b184f-DemocraciaDiretaJa14072013-user_0e0724fc3dc2eb38a1bf291b8772ac70881d551b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6e25188079b1e5e1c000fd0001c6346ab70b184f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0e0724fc3dc2eb38a1bf291b8772ac70881d551b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_6ea26fad20d1825de5c980825c848b4fd339083d-DemocraciaDiretaJa14072013-user_3475397f30fd2949324206148f0c31a63effcd2d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6ea26fad20d1825de5c980825c848b4fd339083d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3475397f30fd2949324206148f0c31a63effcd2d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_6ea26fad20d1825de5c980825c848b4fd339083d-DemocraciaDiretaJa14072013-user_6ea26fad20d1825de5c980825c848b4fd339083d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6ea26fad20d1825de5c980825c848b4fd339083d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6ea26fad20d1825de5c980825c848b4fd339083d> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c-DemocraciaDiretaJa14072013-user_b38ce523a19e95f376c07899756a8ecdaa310b5a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b38ce523a19e95f376c07899756a8ecdaa310b5a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_71cea241bdd5e474ef706fe795251f52c502cba9-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_71cea241bdd5e474ef706fe795251f52c502cba9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_72ab7a1c4e2b2e8a1b5c3ec7ab91327a4478f56a-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_72ab7a1c4e2b2e8a1b5c3ec7ab91327a4478f56a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_7313c1d009543f1c5f167820cabcec030979dcfd-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7313c1d009543f1c5f167820cabcec030979dcfd> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_7313c1d009543f1c5f167820cabcec030979dcfd-DemocraciaDiretaJa14072013-user_9482893429f9d11caa20d30474f767a53e51620a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7313c1d009543f1c5f167820cabcec030979dcfd> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9482893429f9d11caa20d30474f767a53e51620a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_795430e62710554b645157a6d32ba1def57c894c-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_795430e62710554b645157a6d32ba1def57c894c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_7b8b525166ec60cce9d85e0994b00b914ddbe22f-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7b8b525166ec60cce9d85e0994b00b914ddbe22f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_7bfc26335bcda5f6179db1a12ae13be85a41461e-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7bfc26335bcda5f6179db1a12ae13be85a41461e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_7c0547db85817a246fda6c5682f06a0b658172da-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7c0547db85817a246fda6c5682f06a0b658172da> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_7c0547db85817a246fda6c5682f06a0b658172da-DemocraciaDiretaJa14072013-user_ac972ddabcfbe66e2e75bb1391dc4c321305b6a8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7c0547db85817a246fda6c5682f06a0b658172da> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ac972ddabcfbe66e2e75bb1391dc4c321305b6a8> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_7cf63e56b5b380e7e9f150e6c6ac8ba0951732e9-DemocraciaDiretaJa14072013-user_3fb77d387594f90415cb145044ef91dce585aef9> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7cf63e56b5b380e7e9f150e6c6ac8ba0951732e9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3fb77d387594f90415cb145044ef91dce585aef9> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_7cf63e56b5b380e7e9f150e6c6ac8ba0951732e9-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7cf63e56b5b380e7e9f150e6c6ac8ba0951732e9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_7dd30c27ee8ef354528940642536fbf5342808ba-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7dd30c27ee8ef354528940642536fbf5342808ba> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_7e8b9473393166c8b38b44a86762e73ccacb35a4-DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7e8b9473393166c8b38b44a86762e73ccacb35a4> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_7f0a577c0c2443e0e993f0f0bf4ae3af62c10c8d-DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7f0a577c0c2443e0e993f0f0bf4ae3af62c10c8d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_821b7c17ed01c8c7038dd65796eec4132b985339-DemocraciaDiretaJa14072013-user_3708159f74621f10b0819a531855ed6114a12044> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_821b7c17ed01c8c7038dd65796eec4132b985339> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3708159f74621f10b0819a531855ed6114a12044> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_827ec265d5321fc05e9671fcac2631f1b7381ed1-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_827ec265d5321fc05e9671fcac2631f1b7381ed1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_827ec265d5321fc05e9671fcac2631f1b7381ed1-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_827ec265d5321fc05e9671fcac2631f1b7381ed1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_0d1b8a6fa4f0996d515a812e653355c1615d1596> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0d1b8a6fa4f0996d515a812e653355c1615d1596> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_0e0724fc3dc2eb38a1bf291b8772ac70881d551b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0e0724fc3dc2eb38a1bf291b8772ac70881d551b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_13638c4ee2251eb4a3b41320bd18b2412fbe6f9c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_13638c4ee2251eb4a3b41320bd18b2412fbe6f9c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_238e88b232568197aedb916093e161a4daeab674> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_238e88b232568197aedb916093e161a4daeab674> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_315b884caddc6651261e8eae295a3f4cecb00d61> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_315b884caddc6651261e8eae295a3f4cecb00d61> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_3569782e8b4382c4cb196709d6dedb0e821768cd> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3569782e8b4382c4cb196709d6dedb0e821768cd> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_3fb77d387594f90415cb145044ef91dce585aef9> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3fb77d387594f90415cb145044ef91dce585aef9> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_46bcfb2f107435c1b86a3c2840d6c59030dfc12a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_46bcfb2f107435c1b86a3c2840d6c59030dfc12a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_5cd3795429ffdbe90d9f96022493ee9895e548bf> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5cd3795429ffdbe90d9f96022493ee9895e548bf> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_6d9f53fd6d145abd066393b5411b41f14fe0ddb3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d9f53fd6d145abd066393b5411b41f14fe0ddb3> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_6ea26fad20d1825de5c980825c848b4fd339083d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6ea26fad20d1825de5c980825c848b4fd339083d> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 13 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_7f0a577c0c2443e0e993f0f0bf4ae3af62c10c8d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7f0a577c0c2443e0e993f0f0bf4ae3af62c10c8d> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:weight 16 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_82f201f9d42dd39ccab5fbff6660f50b95ec158a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82f201f9d42dd39ccab5fbff6660f50b95ec158a> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_9168c0047ee8fb633e6d3d9db17cd60e26363ce4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9168c0047ee8fb633e6d3d9db17cd60e26363ce4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_9482893429f9d11caa20d30474f767a53e51620a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9482893429f9d11caa20d30474f767a53e51620a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_ac972ddabcfbe66e2e75bb1391dc4c321305b6a8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ac972ddabcfbe66e2e75bb1391dc4c321305b6a8> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_b38ce523a19e95f376c07899756a8ecdaa310b5a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b38ce523a19e95f376c07899756a8ecdaa310b5a> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_d546546753db854cdc1348b18c96123ae3c87d74> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d546546753db854cdc1348b18c96123ae3c87d74> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_de5c9eb0742c30b16b76f287016baf5486593206> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_de5c9eb0742c30b16b76f287016baf5486593206> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_ec718be2c7971a91ae2c5668fe25d3db796d59bb> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ec718be2c7971a91ae2c5668fe25d3db796d59bb> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee-DemocraciaDiretaJa14072013-user_eca6b10f1ca222273d056f0d29a9e1523b046ae9> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_eca6b10f1ca222273d056f0d29a9e1523b046ae9> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_82f201f9d42dd39ccab5fbff6660f50b95ec158a-DemocraciaDiretaJa14072013-user_82f201f9d42dd39ccab5fbff6660f50b95ec158a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82f201f9d42dd39ccab5fbff6660f50b95ec158a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82f201f9d42dd39ccab5fbff6660f50b95ec158a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43-DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43-DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43-DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43-DemocraciaDiretaJa14072013-user_de5c9eb0742c30b16b76f287016baf5486593206> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_de5c9eb0742c30b16b76f287016baf5486593206> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_85ad5b43cfb7220282ba3d733d4d2a940afc76ee-DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_85ad5b43cfb7220282ba3d733d4d2a940afc76ee> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_864881d0c823cc08f9c2b260878f9962204ce777-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_864881d0c823cc08f9c2b260878f9962204ce777> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_864881d0c823cc08f9c2b260878f9962204ce777-DemocraciaDiretaJa14072013-user_b38ce523a19e95f376c07899756a8ecdaa310b5a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_864881d0c823cc08f9c2b260878f9962204ce777> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b38ce523a19e95f376c07899756a8ecdaa310b5a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_864881d0c823cc08f9c2b260878f9962204ce777-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_864881d0c823cc08f9c2b260878f9962204ce777> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_87bba5d385b57834ece3b8106acaf111c93de811-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_87bba5d385b57834ece3b8106acaf111c93de811> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_889a0d15b3b72f6c8cabeb89e52fa00a017c9397-DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_889a0d15b3b72f6c8cabeb89e52fa00a017c9397> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_889a0d15b3b72f6c8cabeb89e52fa00a017c9397-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_889a0d15b3b72f6c8cabeb89e52fa00a017c9397> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_899b192a752983b45c4d318058af60e9c3eaf0dd-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_899b192a752983b45c4d318058af60e9c3eaf0dd> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_8b37a09e659254959dd69cbd049c2720014fee17-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8b37a09e659254959dd69cbd049c2720014fee17> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_8b5ff7b688f1471b9771e68273722c83845444f2-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8b5ff7b688f1471b9771e68273722c83845444f2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_90297b567ecbba661e710b7871cc0f066acf978f-DemocraciaDiretaJa14072013-user_238e88b232568197aedb916093e161a4daeab674> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_90297b567ecbba661e710b7871cc0f066acf978f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_238e88b232568197aedb916093e161a4daeab674> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_90297b567ecbba661e710b7871cc0f066acf978f-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_90297b567ecbba661e710b7871cc0f066acf978f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_9168c0047ee8fb633e6d3d9db17cd60e26363ce4-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9168c0047ee8fb633e6d3d9db17cd60e26363ce4> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_9399fb357773cedebe4357c497b4bd4b10ac3320-DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9399fb357773cedebe4357c497b4bd4b10ac3320> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_9399fb357773cedebe4357c497b4bd4b10ac3320-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9399fb357773cedebe4357c497b4bd4b10ac3320> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_93b64e963b3471e8795648aafed6aba4461b236e-DemocraciaDiretaJa14072013-user_65b3acac61071ad0df78d1fa1e84c85db16549a5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_93b64e963b3471e8795648aafed6aba4461b236e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_65b3acac61071ad0df78d1fa1e84c85db16549a5> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_93b64e963b3471e8795648aafed6aba4461b236e-DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_93b64e963b3471e8795648aafed6aba4461b236e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_9482893429f9d11caa20d30474f767a53e51620a-DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9482893429f9d11caa20d30474f767a53e51620a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_9482893429f9d11caa20d30474f767a53e51620a-DemocraciaDiretaJa14072013-user_ec718be2c7971a91ae2c5668fe25d3db796d59bb> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9482893429f9d11caa20d30474f767a53e51620a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ec718be2c7971a91ae2c5668fe25d3db796d59bb> ;
+    fb:weight 9 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_95f0056693d3dee1d0c0c1484b7d3a04b7c65c05-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_95f0056693d3dee1d0c0c1484b7d3a04b7c65c05> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_968125eef57c31f48167ed81424f922c1f9b1269-DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_968125eef57c31f48167ed81424f922c1f9b1269> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_968125eef57c31f48167ed81424f922c1f9b1269-DemocraciaDiretaJa14072013_interacoes-user_29f7caaf12a119202bd3252644b9fd84467a2be2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_968125eef57c31f48167ed81424f922c1f9b1269> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_29f7caaf12a119202bd3252644b9fd84467a2be2> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_97f582cbe8cdeb6599bd8ad88d927ef9e3f88a08-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_97f582cbe8cdeb6599bd8ad88d927ef9e3f88a08> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e-DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_a3ee5364b2d6d121220058395871c3e611b756e8-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a3ee5364b2d6d121220058395871c3e611b756e8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_a4982cbf880241bad8881f5256d892ec23f88376-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a4982cbf880241bad8881f5256d892ec23f88376> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_a83475c0ddcd77d26a5f6c636348a7227e80ed3e-DemocraciaDiretaJa14072013-user_3569782e8b4382c4cb196709d6dedb0e821768cd> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a83475c0ddcd77d26a5f6c636348a7227e80ed3e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3569782e8b4382c4cb196709d6dedb0e821768cd> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_a83475c0ddcd77d26a5f6c636348a7227e80ed3e-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a83475c0ddcd77d26a5f6c636348a7227e80ed3e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_a83475c0ddcd77d26a5f6c636348a7227e80ed3e-DemocraciaDiretaJa14072013-user_7f0a577c0c2443e0e993f0f0bf4ae3af62c10c8d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a83475c0ddcd77d26a5f6c636348a7227e80ed3e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7f0a577c0c2443e0e993f0f0bf4ae3af62c10c8d> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_a83475c0ddcd77d26a5f6c636348a7227e80ed3e-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a83475c0ddcd77d26a5f6c636348a7227e80ed3e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_a83475c0ddcd77d26a5f6c636348a7227e80ed3e-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a83475c0ddcd77d26a5f6c636348a7227e80ed3e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_a83475c0ddcd77d26a5f6c636348a7227e80ed3e-DemocraciaDiretaJa14072013-user_fe7d68c56e7931205d3c78267e59d8fb98b97fc5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a83475c0ddcd77d26a5f6c636348a7227e80ed3e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_fe7d68c56e7931205d3c78267e59d8fb98b97fc5> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_a83f6a5d26f7d22bfbead389c41eef0e680259f5-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a83f6a5d26f7d22bfbead389c41eef0e680259f5> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_aa1de7755a2f6d61f1bb0ceef41eb4969caccbf9-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_aa1de7755a2f6d61f1bb0ceef41eb4969caccbf9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_ac09f72a670bee1e51733925bb1857aa1f4da4d3-DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ac09f72a670bee1e51733925bb1857aa1f4da4d3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_ac09f72a670bee1e51733925bb1857aa1f4da4d3-DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ac09f72a670bee1e51733925bb1857aa1f4da4d3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_ac09f72a670bee1e51733925bb1857aa1f4da4d3-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ac09f72a670bee1e51733925bb1857aa1f4da4d3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 7 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_aee6968594ac71936e40ea6866e899aeab58937a-DemocraciaDiretaJa14072013-user_0d1b8a6fa4f0996d515a812e653355c1615d1596> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_aee6968594ac71936e40ea6866e899aeab58937a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0d1b8a6fa4f0996d515a812e653355c1615d1596> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_aee6968594ac71936e40ea6866e899aeab58937a-DemocraciaDiretaJa14072013-user_65b3acac61071ad0df78d1fa1e84c85db16549a5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_aee6968594ac71936e40ea6866e899aeab58937a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_65b3acac61071ad0df78d1fa1e84c85db16549a5> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_aee6968594ac71936e40ea6866e899aeab58937a-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_aee6968594ac71936e40ea6866e899aeab58937a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_aee6968594ac71936e40ea6866e899aeab58937a-DemocraciaDiretaJa14072013-user_ac972ddabcfbe66e2e75bb1391dc4c321305b6a8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_aee6968594ac71936e40ea6866e899aeab58937a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ac972ddabcfbe66e2e75bb1391dc4c321305b6a8> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_aee6968594ac71936e40ea6866e899aeab58937a-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_aee6968594ac71936e40ea6866e899aeab58937a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_aee6968594ac71936e40ea6866e899aeab58937a-DemocraciaDiretaJa14072013-user_ec718be2c7971a91ae2c5668fe25d3db796d59bb> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_aee6968594ac71936e40ea6866e899aeab58937a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ec718be2c7971a91ae2c5668fe25d3db796d59bb> ;
+    fb:weight 17 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_aee6968594ac71936e40ea6866e899aeab58937a-DemocraciaDiretaJa14072013-user_eca6b10f1ca222273d056f0d29a9e1523b046ae9> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_aee6968594ac71936e40ea6866e899aeab58937a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_eca6b10f1ca222273d056f0d29a9e1523b046ae9> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_b38ce523a19e95f376c07899756a8ecdaa310b5a-DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b38ce523a19e95f376c07899756a8ecdaa310b5a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_b38ce523a19e95f376c07899756a8ecdaa310b5a-DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b38ce523a19e95f376c07899756a8ecdaa310b5a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_b967ca9e4c9bde362771abadef8c02ca29f9175b-DemocraciaDiretaJa14072013-user_13c878e0c6f4f6bcbcc7d377a1e6fbbbfc249479> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b967ca9e4c9bde362771abadef8c02ca29f9175b> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_13c878e0c6f4f6bcbcc7d377a1e6fbbbfc249479> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_b9a1ebd69bbe3871475994db4154fb0c7934bda5-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b9a1ebd69bbe3871475994db4154fb0c7934bda5> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_ba9afd97f3c6c4f56777d410c13585e31d8aa9c8-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ba9afd97f3c6c4f56777d410c13585e31d8aa9c8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_bac5e13e38cf455e91a2247f26f8d18abacd2e6c-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bac5e13e38cf455e91a2247f26f8d18abacd2e6c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_baf68c778cf2344ef8acab407441654470e6737f-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_baf68c778cf2344ef8acab407441654470e6737f> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_bdff12d2db428cd44574cd365cd7bb98fa316d68-DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bdff12d2db428cd44574cd365cd7bb98fa316d68> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_bea78509702a3f15fb5c2b28aa0a77a22ff983c0-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bea78509702a3f15fb5c2b28aa0a77a22ff983c0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_bfa04904931def93010adcd7f0b789ea85bac28c-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfa04904931def93010adcd7f0b789ea85bac28c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_c0471ddc58650c9a831d89e7da5028f9e30efa24-DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c0471ddc58650c9a831d89e7da5028f9e30efa24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_c0471ddc58650c9a831d89e7da5028f9e30efa24-DemocraciaDiretaJa14072013-user_9168c0047ee8fb633e6d3d9db17cd60e26363ce4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c0471ddc58650c9a831d89e7da5028f9e30efa24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9168c0047ee8fb633e6d3d9db17cd60e26363ce4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_c0471ddc58650c9a831d89e7da5028f9e30efa24-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c0471ddc58650c9a831d89e7da5028f9e30efa24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_c116d074ad72477f35b6f5030610f238eec4e2b6-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c116d074ad72477f35b6f5030610f238eec4e2b6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_c1355341d7991b3128037abf78621ae05b8e8b3a-DemocraciaDiretaJa14072013-user_3569782e8b4382c4cb196709d6dedb0e821768cd> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c1355341d7991b3128037abf78621ae05b8e8b3a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3569782e8b4382c4cb196709d6dedb0e821768cd> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_c1aa695f7fe0e85835bf2033e29c4269c812a9e2-DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c1aa695f7fe0e85835bf2033e29c4269c812a9e2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68-DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_c5260bacbbcfc00bd8734b51400f38b6f46a1f35-DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c5260bacbbcfc00bd8734b51400f38b6f46a1f35> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_c58d9437c2f076e5dd3b6037e9805ea70cb57cae-DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c58d9437c2f076e5dd3b6037e9805ea70cb57cae> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_c864d3e769b5814acb5b0ac4c94816929784d436-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c864d3e769b5814acb5b0ac4c94816929784d436> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_c864d3e769b5814acb5b0ac4c94816929784d436-DemocraciaDiretaJa14072013-user_68af113dcc1f93ee0ffc92f4b7c4c24a7af278fb> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c864d3e769b5814acb5b0ac4c94816929784d436> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_68af113dcc1f93ee0ffc92f4b7c4c24a7af278fb> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_c864d3e769b5814acb5b0ac4c94816929784d436-DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c864d3e769b5814acb5b0ac4c94816929784d436> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_c864d3e769b5814acb5b0ac4c94816929784d436-DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c864d3e769b5814acb5b0ac4c94816929784d436> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_c9bbe836d98a0e9953c9915b3f0a88522ccf7567-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c9bbe836d98a0e9953c9915b3f0a88522ccf7567> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_ca0e46532ac342a0c43462a0cf6b549b0e14a2d3-DemocraciaDiretaJa14072013-user_6d9f53fd6d145abd066393b5411b41f14fe0ddb3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ca0e46532ac342a0c43462a0cf6b549b0e14a2d3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d9f53fd6d145abd066393b5411b41f14fe0ddb3> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_ca0e46532ac342a0c43462a0cf6b549b0e14a2d3-DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ca0e46532ac342a0c43462a0cf6b549b0e14a2d3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_ca521860f75d32fe7907e91c7476bd16a8c4f0fd-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ca521860f75d32fe7907e91c7476bd16a8c4f0fd> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_cb144e40378688a26f532503ce0ca107d2b0794e-DemocraciaDiretaJa14072013-user_6d9f53fd6d145abd066393b5411b41f14fe0ddb3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_cb144e40378688a26f532503ce0ca107d2b0794e> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d9f53fd6d145abd066393b5411b41f14fe0ddb3> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_cc609d76430142480f7733af2f5212b87f86eaea-DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_cc609d76430142480f7733af2f5212b87f86eaea> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_d0cd08b2e17a22023a8ec9f94f2abb5ceb107595-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d0cd08b2e17a22023a8ec9f94f2abb5ceb107595> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_d1ae768fae381d65d600802d93a84e8b976e7137-DemocraciaDiretaJa14072013-user_68af113dcc1f93ee0ffc92f4b7c4c24a7af278fb> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d1ae768fae381d65d600802d93a84e8b976e7137> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_68af113dcc1f93ee0ffc92f4b7c4c24a7af278fb> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_d465395b4199743cda3a243e67cb235eac1dbf45-DemocraciaDiretaJa14072013-user_d465395b4199743cda3a243e67cb235eac1dbf45> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d465395b4199743cda3a243e67cb235eac1dbf45> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d465395b4199743cda3a243e67cb235eac1dbf45> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_d4f9c5f2f71358c1685251965cf05de39de39098-DemocraciaDiretaJa14072013-user_2c0cdaf5d80b52f0fb91c50646c95cf43e3ca5a2> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d4f9c5f2f71358c1685251965cf05de39de39098> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2c0cdaf5d80b52f0fb91c50646c95cf43e3ca5a2> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_d4f9c5f2f71358c1685251965cf05de39de39098-DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d4f9c5f2f71358c1685251965cf05de39de39098> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_d4f9c5f2f71358c1685251965cf05de39de39098-DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d4f9c5f2f71358c1685251965cf05de39de39098> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_d4f9c5f2f71358c1685251965cf05de39de39098-DemocraciaDiretaJa14072013-user_af093a7b16670585c9ef74b8614c5384c66c3b42> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d4f9c5f2f71358c1685251965cf05de39de39098> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_af093a7b16670585c9ef74b8614c5384c66c3b42> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_d4f9c5f2f71358c1685251965cf05de39de39098-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d4f9c5f2f71358c1685251965cf05de39de39098> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_d4f9c5f2f71358c1685251965cf05de39de39098-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d4f9c5f2f71358c1685251965cf05de39de39098> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_d8ebffad82ee9296b910425477f282ba9a34417a-DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d8ebffad82ee9296b910425477f282ba9a34417a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_d8ebffad82ee9296b910425477f282ba9a34417a-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d8ebffad82ee9296b910425477f282ba9a34417a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_db95c72cbe06c0f6bd36956a3e3881b4daae6b40-DemocraciaDiretaJa14072013-user_65b3acac61071ad0df78d1fa1e84c85db16549a5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_db95c72cbe06c0f6bd36956a3e3881b4daae6b40> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_65b3acac61071ad0df78d1fa1e84c85db16549a5> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_db95c72cbe06c0f6bd36956a3e3881b4daae6b40-DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_db95c72cbe06c0f6bd36956a3e3881b4daae6b40> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_dbf0908b35fc0f61fe3048bd785505246f49f4c2-DemocraciaDiretaJa14072013-user_46bcfb2f107435c1b86a3c2840d6c59030dfc12a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_dbf0908b35fc0f61fe3048bd785505246f49f4c2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_46bcfb2f107435c1b86a3c2840d6c59030dfc12a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_dbf0908b35fc0f61fe3048bd785505246f49f4c2-DemocraciaDiretaJa14072013-user_52c917872690423e927885bb4b44e7f9f280c881> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_dbf0908b35fc0f61fe3048bd785505246f49f4c2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_52c917872690423e927885bb4b44e7f9f280c881> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_dbf0908b35fc0f61fe3048bd785505246f49f4c2-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_dbf0908b35fc0f61fe3048bd785505246f49f4c2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_dbf0908b35fc0f61fe3048bd785505246f49f4c2-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_dbf0908b35fc0f61fe3048bd785505246f49f4c2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_dbf0908b35fc0f61fe3048bd785505246f49f4c2-DemocraciaDiretaJa14072013-user_fe7d68c56e7931205d3c78267e59d8fb98b97fc5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_dbf0908b35fc0f61fe3048bd785505246f49f4c2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_fe7d68c56e7931205d3c78267e59d8fb98b97fc5> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_de5c9eb0742c30b16b76f287016baf5486593206-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_de5c9eb0742c30b16b76f287016baf5486593206> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_de5c9eb0742c30b16b76f287016baf5486593206-DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_de5c9eb0742c30b16b76f287016baf5486593206> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_de5c9eb0742c30b16b76f287016baf5486593206-DemocraciaDiretaJa14072013-user_de5c9eb0742c30b16b76f287016baf5486593206> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_de5c9eb0742c30b16b76f287016baf5486593206> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_de5c9eb0742c30b16b76f287016baf5486593206> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e0004d728bc4626143d340999ec31e884757a7d6-DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e0004d728bc4626143d340999ec31e884757a7d6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e1169e4f6ab7234736d05313bb4214f95d52a180-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e1169e4f6ab7234736d05313bb4214f95d52a180> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e17cd4e419f7dd2d87ded26fcd60ce227ed82e40-DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e17cd4e419f7dd2d87ded26fcd60ce227ed82e40> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e17cd4e419f7dd2d87ded26fcd60ce227ed82e40-DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e17cd4e419f7dd2d87ded26fcd60ce227ed82e40> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e17cd4e419f7dd2d87ded26fcd60ce227ed82e40-DemocraciaDiretaJa14072013-user_6d9f53fd6d145abd066393b5411b41f14fe0ddb3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e17cd4e419f7dd2d87ded26fcd60ce227ed82e40> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d9f53fd6d145abd066393b5411b41f14fe0ddb3> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e17cd4e419f7dd2d87ded26fcd60ce227ed82e40-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e17cd4e419f7dd2d87ded26fcd60ce227ed82e40> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e17cd4e419f7dd2d87ded26fcd60ce227ed82e40-DemocraciaDiretaJa14072013-user_9168c0047ee8fb633e6d3d9db17cd60e26363ce4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e17cd4e419f7dd2d87ded26fcd60ce227ed82e40> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9168c0047ee8fb633e6d3d9db17cd60e26363ce4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e17cd4e419f7dd2d87ded26fcd60ce227ed82e40-DemocraciaDiretaJa14072013-user_eca6b10f1ca222273d056f0d29a9e1523b046ae9> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e17cd4e419f7dd2d87ded26fcd60ce227ed82e40> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_eca6b10f1ca222273d056f0d29a9e1523b046ae9> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e3b8de4b89bba341da1260b4f38dea2f2d7840dd-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e3b8de4b89bba341da1260b4f38dea2f2d7840dd> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e3b8de4b89bba341da1260b4f38dea2f2d7840dd-DemocraciaDiretaJa14072013-user_9168c0047ee8fb633e6d3d9db17cd60e26363ce4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e3b8de4b89bba341da1260b4f38dea2f2d7840dd> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9168c0047ee8fb633e6d3d9db17cd60e26363ce4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e59bb9e1c92c213a32adfa876ba9a7c224374255-DemocraciaDiretaJa14072013-user_0e0724fc3dc2eb38a1bf291b8772ac70881d551b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e59bb9e1c92c213a32adfa876ba9a7c224374255> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0e0724fc3dc2eb38a1bf291b8772ac70881d551b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e6b7302b2186fe871508a6b418eacb3327dd16d8-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e6b7302b2186fe871508a6b418eacb3327dd16d8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e6be221d268a7311cd6b151ec6d3185b359a5196-DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e6be221d268a7311cd6b151ec6d3185b359a5196> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e6be221d268a7311cd6b151ec6d3185b359a5196-DemocraciaDiretaJa14072013-user_0e0724fc3dc2eb38a1bf291b8772ac70881d551b> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e6be221d268a7311cd6b151ec6d3185b359a5196> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0e0724fc3dc2eb38a1bf291b8772ac70881d551b> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e6be221d268a7311cd6b151ec6d3185b359a5196-DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e6be221d268a7311cd6b151ec6d3185b359a5196> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_ec718be2c7971a91ae2c5668fe25d3db796d59bb-DemocraciaDiretaJa14072013-user_ec718be2c7971a91ae2c5668fe25d3db796d59bb> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ec718be2c7971a91ae2c5668fe25d3db796d59bb> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ec718be2c7971a91ae2c5668fe25d3db796d59bb> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_eca6b10f1ca222273d056f0d29a9e1523b046ae9-DemocraciaDiretaJa14072013-user_eca6b10f1ca222273d056f0d29a9e1523b046ae9> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_eca6b10f1ca222273d056f0d29a9e1523b046ae9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_eca6b10f1ca222273d056f0d29a9e1523b046ae9> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_0d1b8a6fa4f0996d515a812e653355c1615d1596> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0d1b8a6fa4f0996d515a812e653355c1615d1596> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_1cf17d4d40dfcbbf7b366ae8cacede605703c9d7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_1cf17d4d40dfcbbf7b366ae8cacede605703c9d7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_6d9f53fd6d145abd066393b5411b41f14fe0ddb3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d9f53fd6d145abd066393b5411b41f14fe0ddb3> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_90b33bac102bd9de681c557bcb73e52d68f6e6c7> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_90b33bac102bd9de681c557bcb73e52d68f6e6c7> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_9482893429f9d11caa20d30474f767a53e51620a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9482893429f9d11caa20d30474f767a53e51620a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_d465395b4199743cda3a243e67cb235eac1dbf45> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d465395b4199743cda3a243e67cb235eac1dbf45> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46-DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f1ee1257c0dc0e190da947c8088180780ad0fe1c-DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f1ee1257c0dc0e190da947c8088180780ad0fe1c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f1ee1257c0dc0e190da947c8088180780ad0fe1c-DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f1ee1257c0dc0e190da947c8088180780ad0fe1c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f1fec62a2a72da73f175e13935ee64ae94d56d29-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f1fec62a2a72da73f175e13935ee64ae94d56d29> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_f214cb57b124100a146bff278ea12f1035835472-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f214cb57b124100a146bff278ea12f1035835472> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_fa7f8b079e93effc8e98b20bf9e73fdd99703c1a-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_fa7f8b079e93effc8e98b20bf9e73fdd99703c1a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_fc254e4c20f00b350ff72578084252dc1b7314af-DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_fc254e4c20f00b350ff72578084252dc1b7314af> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_fe7d68c56e7931205d3c78267e59d8fb98b97fc5-DemocraciaDiretaJa14072013-user_65b3acac61071ad0df78d1fa1e84c85db16549a5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_fe7d68c56e7931205d3c78267e59d8fb98b97fc5> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_65b3acac61071ad0df78d1fa1e84c85db16549a5> ;
+    fb:weight 8 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_fe7d68c56e7931205d3c78267e59d8fb98b97fc5-DemocraciaDiretaJa14072013-user_6ea26fad20d1825de5c980825c848b4fd339083d> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_fe7d68c56e7931205d3c78267e59d8fb98b97fc5> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6ea26fad20d1825de5c980825c848b4fd339083d> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013-user_fe7d68c56e7931205d3c78267e59d8fb98b97fc5-DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_fe7d68c56e7931205d3c78267e59d8fb98b97fc5> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013_interacoes-user_1e5a2473f6092261d0768b667814953262dd8924-DemocraciaDiretaJa14072013-user_3708159f74621f10b0819a531855ed6114a12044> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_1e5a2473f6092261d0768b667814953262dd8924> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3708159f74621f10b0819a531855ed6114a12044> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013_interacoes-user_2e351e05671f8e9d92bcf2350aa1b206d3da240a-DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_2e351e05671f8e9d92bcf2350aa1b206d3da240a> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013_interacoes-user_a130f57ba7158e812b4e4637002736e024268774-DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_a130f57ba7158e812b4e4637002736e024268774> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013_interacoes-user_c228ea0e007589e0c8d3dab3d3aec059b1574ed8-DemocraciaDiretaJa14072013-user_65b3acac61071ad0df78d1fa1e84c85db16549a5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_c228ea0e007589e0c8d3dab3d3aec059b1574ed8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_65b3acac61071ad0df78d1fa1e84c85db16549a5> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013_interacoes-user_c228ea0e007589e0c8d3dab3d3aec059b1574ed8-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_c228ea0e007589e0c8d3dab3d3aec059b1574ed8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013_interacoes-user_df9d03a6a8e6dae25eef638be5a1ae0e0e51177c-DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_df9d03a6a8e6dae25eef638be5a1ae0e0e51177c> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#DemocraciaDiretaJa14072013_interacoes-user_f7e6d5a517ef7a6f93c1b9ada294a54a2b950c40-DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_f7e6d5a517ef7a6f93c1b9ada294a54a2b950c40> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_01fc75ab2d24217c82be504d820792f653d5fc59> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_038311edd189caee9e82ba714ac0604e1697818c> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0fe8e30b0aee36546868afb2fa3ab846b7ece97e> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_16978b46afb745e74aff9c40bcd5b8de1eb72006> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_273cb58489592a3e7b1c43a6fee4b734ce77541d> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3ab2050f7008c911f453426a7356699a062637bb> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4832ef04b2cfa80584f12e02c16202d5b52edaa4> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4bd57ad7ecede14041a78750575ad2de76125534> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_633e2e8225084384f4b5387fa36e9a84bc9be7a9> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6a0fd1bc3a9391c801f6cb466841df7e64a49113> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8d4374c57a66b9e635b06744fe25f0a38bd1550c> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_adab7d20b9aadef24e00560a929eea7bbe840036> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b7819a0cd8036194f6e82ffb9dab36377aa8c8c9> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b995820689824e3bde845aacae9bf9e7976699ee> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c001f007f3968f0436685dfad8764ec804d1e319> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_cf2be6f2a705260d233947bd68a1d7ac3ac09756> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d0295b7daf7ddf3f544884934d5ac68c8d604097> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e510aa795205546acd3fd4fd0b3dc7835931b014> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e52ce3cfd30b23b37b388aaf7cbe0c519fa08f53> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ea2010a01e04c296158a29b1941284b5b0984071> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_fc971fcf88fa0ac8605e494c7515fa29737c2e89> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_4485183f7fe0fe2e77e7493057ebcd6791e82347> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_02cb4c3940f805e0d54ec5043ef93020ef9d69a9> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0411cde225e4cb808b3d3e76151a237fb5327ff7> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_05d760b8df50570a215a28b11e308a420bb0610c> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0771b4818ac4599830c8e449cfa3092f1b431849> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_10ca3638e24e2d095819b4f53a20bb13e210d6f5> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_114ce562e1a6a4a5eae84e9cd901081fa22b5888> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_12c0630131f735f779de4725ec8b212915f2bd80> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_1338af3af7ed78935b4cb030a0e43ea7461e47d4> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_13c878e0c6f4f6bcbcc7d377a1e6fbbbfc249479> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_14104503ea3d458c2704ea39717de298772ee25d> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_165ab65abb21636256fd23820062a2c2fa59b4a9> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_17504a95353ecbdb22cd32c574a1b35e4d373f73> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_19f9df578e21b342b27b1ef508025ebee1560c60> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_1a0f13d3923f6d4884f4b473e07d071541fe5528> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_1cba1ef9bd5879491e81366dae97158729e0c8a3> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_1cf17d4d40dfcbbf7b366ae8cacede605703c9d7> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_1dbaeedc9ae2d454786e033cad42c9fd2f6fcff7> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_20f3c369169f33cbc101ccd7b86a32a8ff2e2327> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_25d8b0c824b6070d651f70b87377b16df4e045fb> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_25f36dad87be94cb1fd702f25af0ff85d65c0a40> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2a47064a6e0ed2328bcd6e66905d2230e17aacd8> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2b2ef20e60e4e8d61d99f0c6fc84a3cb82419951> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2c019b4d7f34a75c609229286c506966ada141a6> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_315b884caddc6651261e8eae295a3f4cecb00d61> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_316729216b494d270b3be22e0063314a4be77933> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3424f49cc047df4661c25219352d454d70116698> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_36f8044388b746c8b34856deae17c59ed5e09291> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_37b3f28b0710e9f14cdfcb4b87021f71752a651c> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4233fc1068df93bc5421e18d43379b8c59794dbf> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_46e0b9d73667aa2fd121db9147a445823ecdb7be> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_48736dd09c4c14db62c713d224ea35fbd2a18c9e> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_48d757b6e9fd4a664bd717734a1bb09b27af0a4b> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4ab8644700b878a96ea1e9d111dda30becbef034> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4d6b0398905121bbb61dd95457da79ed121f01ab> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5520e1144940f6988b5645d76ebdbf093ff3ff1d> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_56f9a32023b10f760c6ed9b945310af5456cd95d> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_595694a0ba667c95c4917f7714d163224cc20ad3> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5cb86cc42d503d5e002d454b151e29e959b6762d> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5cec93a770d5091d02fa65750c5391e5a12911d0> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5d2367090a0b7099e72601230ee265f8dc10f752> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5e33de82b874c230eb18d01433e52e78cdb06d64> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_62e52089105ef67f8185e8ea798865d9d92a0f7f> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_674063e9bc4c0c0efaad7ffe2c1f4cacdda1642a> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_68c861c346aa6a7b6a18407a58fa1e53007b2fce> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6ae9e5e907668e5395eb59871963b9789303d213> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6dbcd17b63cde8b006844b90385d3c472063a4e4> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6e25188079b1e5e1c000fd0001c6346ab70b184f> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_71cea241bdd5e474ef706fe795251f52c502cba9> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_72ab7a1c4e2b2e8a1b5c3ec7ab91327a4478f56a> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_795430e62710554b645157a6d32ba1def57c894c> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7b8b525166ec60cce9d85e0994b00b914ddbe22f> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7bfc26335bcda5f6179db1a12ae13be85a41461e> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7dd30c27ee8ef354528940642536fbf5342808ba> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7e8b9473393166c8b38b44a86762e73ccacb35a4> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_821b7c17ed01c8c7038dd65796eec4132b985339> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_85ad5b43cfb7220282ba3d733d4d2a940afc76ee> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_87bba5d385b57834ece3b8106acaf111c93de811> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_899b192a752983b45c4d318058af60e9c3eaf0dd> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8b37a09e659254959dd69cbd049c2720014fee17> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8b5ff7b688f1471b9771e68273722c83845444f2> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8bd39a4ebdfc62ee2479beef589620507ecfe5d6> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_95f0056693d3dee1d0c0c1484b7d3a04b7c65c05> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_97f582cbe8cdeb6599bd8ad88d927ef9e3f88a08> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9b8297452df40eb12d9c83eb2b43edecbb4c61e2> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a3ee5364b2d6d121220058395871c3e611b756e8> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a4982cbf880241bad8881f5256d892ec23f88376> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a83f6a5d26f7d22bfbead389c41eef0e680259f5> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_aa1de7755a2f6d61f1bb0ceef41eb4969caccbf9> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b967ca9e4c9bde362771abadef8c02ca29f9175b> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b9a1ebd69bbe3871475994db4154fb0c7934bda5> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ba9afd97f3c6c4f56777d410c13585e31d8aa9c8> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bac5e13e38cf455e91a2247f26f8d18abacd2e6c> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_baf68c778cf2344ef8acab407441654470e6737f> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bdff12d2db428cd44574cd365cd7bb98fa316d68> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bea78509702a3f15fb5c2b28aa0a77a22ff983c0> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfa04904931def93010adcd7f0b789ea85bac28c> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c116d074ad72477f35b6f5030610f238eec4e2b6> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c1355341d7991b3128037abf78621ae05b8e8b3a> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c1aa695f7fe0e85835bf2033e29c4269c812a9e2> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c5260bacbbcfc00bd8734b51400f38b6f46a1f35> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c58d9437c2f076e5dd3b6037e9805ea70cb57cae> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c9bbe836d98a0e9953c9915b3f0a88522ccf7567> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ca521860f75d32fe7907e91c7476bd16a8c4f0fd> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_cb144e40378688a26f532503ce0ca107d2b0794e> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_cc609d76430142480f7733af2f5212b87f86eaea> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ce12a9bf67365f7b3b4e96d45cb4c0273816c40d> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d0cd08b2e17a22023a8ec9f94f2abb5ceb107595> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d1ae768fae381d65d600802d93a84e8b976e7137> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d546546753db854cdc1348b18c96123ae3c87d74> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e0004d728bc4626143d340999ec31e884757a7d6> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e1169e4f6ab7234736d05313bb4214f95d52a180> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e52cde3d7dbd09bfce15b94c4f78fbcc69b1449c> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e59bb9e1c92c213a32adfa876ba9a7c224374255> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e6b7302b2186fe871508a6b418eacb3327dd16d8> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f1fec62a2a72da73f175e13935ee64ae94d56d29> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f214cb57b124100a146bff278ea12f1035835472> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_fa7f8b079e93effc8e98b20bf9e73fdd99703c1a> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_fc254e4c20f00b350ff72578084252dc1b7314af> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_1e5a2473f6092261d0768b667814953262dd8924> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_2e351e05671f8e9d92bcf2350aa1b206d3da240a> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_a130f57ba7158e812b4e4637002736e024268774> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_df9d03a6a8e6dae25eef638be5a1ae0e0e51177c> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_f7e6d5a517ef7a6f93c1b9ada294a54a2b950c40> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_033e202e6ac7316cc1debfe6d2919b0a45a28854> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0e2d8dfca0ea58712529fc1a441a81f80808724c> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_10e04480d272d576bbe8f263456bf4522a719db3> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_10f11805d3521f7a15a33b450dbeb41ad00e1e71> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_11ba001fa87ce44e845b12201d273baddd27a46f> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_13638c4ee2251eb4a3b41320bd18b2412fbe6f9c> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_18ff51801e80d8255d87a86dc148be4cbd997b99> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_19964c1d0ad5e1ba00b104a66d8e4361f3ac1f05> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_238e88b232568197aedb916093e161a4daeab674> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2443184e39f6a3e6d859e522705a2b95bd88124e> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4435ec47e5ae1f5f74b29b39bbd015062da65e85> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_46bcfb2f107435c1b86a3c2840d6c59030dfc12a> a fb:Participant ;
+    fb:posts 8 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_52c917872690423e927885bb4b44e7f9f280c881> a fb:Participant ;
+    fb:posts 3 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_535f7024aff185a5fcaea9680186db3b49332c1b> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5c7d3ab8964f018e94ffba72256fb48b5508b0af> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_5cd3795429ffdbe90d9f96022493ee9895e548bf> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_62dfbfcf779c63b61364fc3875b90224140a1cb0> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7313c1d009543f1c5f167820cabcec030979dcfd> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7c0547db85817a246fda6c5682f06a0b658172da> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7cf63e56b5b380e7e9f150e6c6ac8ba0951732e9> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_827ec265d5321fc05e9671fcac2631f1b7381ed1> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_889a0d15b3b72f6c8cabeb89e52fa00a017c9397> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_90297b567ecbba661e710b7871cc0f066acf978f> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_90b33bac102bd9de681c557bcb73e52d68f6e6c7> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9399fb357773cedebe4357c497b4bd4b10ac3320> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_93b64e963b3471e8795648aafed6aba4461b236e> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_968125eef57c31f48167ed81424f922c1f9b1269> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ca0e46532ac342a0c43462a0cf6b549b0e14a2d3> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d8ebffad82ee9296b910425477f282ba9a34417a> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_db95c72cbe06c0f6bd36956a3e3881b4daae6b40> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e3b8de4b89bba341da1260b4f38dea2f2d7840dd> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f1ee1257c0dc0e190da947c8088180780ad0fe1c> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_29f7caaf12a119202bd3252644b9fd84467a2be2> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013_interacoes-user_c228ea0e007589e0c8d3dab3d3aec059b1574ed8> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0d275b6ae7e58f064a454c55e3ad6dceb25e61f2> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_35db67fb9507a9f1a0bf51477f6170f1de4a317f> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3708159f74621f10b0819a531855ed6114a12044> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4c238911d3ace2d8b7fef3f5f4b73eaa04578d7c> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4f8b8859d45bc1d2ff6db933770160c540f258d9> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_864881d0c823cc08f9c2b260878f9962204ce777> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ac09f72a670bee1e51733925bb1857aa1f4da4d3> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c0471ddc58650c9a831d89e7da5028f9e30efa24> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d465395b4199743cda3a243e67cb235eac1dbf45> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e6be221d268a7311cd6b151ec6d3185b359a5196> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2c0cdaf5d80b52f0fb91c50646c95cf43e3ca5a2> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_2e680a4eb319e7c13359893df99b69942c4bf318> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3475397f30fd2949324206148f0c31a63effcd2d> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3ed4f121f50cc80ccb8634f4342947662d0bf52f> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3fb77d387594f90415cb145044ef91dce585aef9> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_7f0a577c0c2443e0e993f0f0bf4ae3af62c10c8d> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82f201f9d42dd39ccab5fbff6660f50b95ec158a> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b4bcd9298414dfe229a5e3bdf89f10990a601a0c> a fb:Participant ;
+    fb:posts 3 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c864d3e769b5814acb5b0ac4c94816929784d436> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0e0724fc3dc2eb38a1bf291b8772ac70881d551b> a fb:Participant ;
+    fb:posts 5 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_590b326621d229326beb31fae877fac24f7e80ee> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_65b3acac61071ad0df78d1fa1e84c85db16549a5> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_68af113dcc1f93ee0ffc92f4b7c4c24a7af278fb> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6ea26fad20d1825de5c980825c848b4fd339083d> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_af093a7b16670585c9ef74b8614c5384c66c3b42> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_dbf0908b35fc0f61fe3048bd785505246f49f4c2> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_eca6b10f1ca222273d056f0d29a9e1523b046ae9> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_0d1b8a6fa4f0996d515a812e653355c1615d1596> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3569782e8b4382c4cb196709d6dedb0e821768cd> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_4c2ebf12eee15a039ba9f6fed564c030740ef291> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9168c0047ee8fb633e6d3d9db17cd60e26363ce4> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a83475c0ddcd77d26a5f6c636348a7227e80ed3e> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ac972ddabcfbe66e2e75bb1391dc4c321305b6a8> a fb:Participant ;
+    fb:posts 3 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_d4f9c5f2f71358c1685251965cf05de39de39098> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_de5c9eb0742c30b16b76f287016baf5486593206> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e17cd4e419f7dd2d87ded26fcd60ce227ed82e40> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d9f53fd6d145abd066393b5411b41f14fe0ddb3> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_9482893429f9d11caa20d30474f767a53e51620a> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_aee6968594ac71936e40ea6866e899aeab58937a> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_b38ce523a19e95f376c07899756a8ecdaa310b5a> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_ec718be2c7971a91ae2c5668fe25d3db796d59bb> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_fe7d68c56e7931205d3c78267e59d8fb98b97fc5> a fb:Participant ;
+    fb:posts 5 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a975532578aaee646b0940670a2972e27b99515f> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_c2c263b135b534e41ffb30578a5a58402d261e68> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_3feae25397e37b779edae39654676e5a582444d7> a fb:Participant ;
+    fb:posts 7 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_07093eb74370be61afc876c7d07e5c816425ed1a> a fb:Participant ;
+    fb:posts 5 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6d789ce2f2e3693d2b4aeb8552b7217fcb752954> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_a022dd68202917cc2e939e4c99309d50be98a34e> a fb:Participant ;
+    fb:posts 24 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_f100333342c7c32ec54079f2f73ae3c7ed388e46> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_e8b19224f83bdeb9059a7febf3eade705800edc4> a fb:Participant ;
+    fb:posts 9 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_bfb7fced44ec1c19fe2fad1c2dd29c5ef201370e> a fb:Participant ;
+    fb:posts 5 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_8334536625bd0b27e00cb3e16bef74437d355e43> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_6f3b5ba1f5779ea82fedbbc93a0d58bd78b4f82c> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_24073016ddc1c647db37282884813e83f0d7f075> a fb:Participant ;
+    fb:posts 3 .
+
+<http://purl.org/socialparticipation/fb/Participant#DemocraciaDiretaJa14072013-user_82bb32559e99d5a918de7b7a368f6e8393d759ee> a fb:Participant ;
+    fb:posts 13 .
+

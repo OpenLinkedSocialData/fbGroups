@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#DemocraciaDiretaJa14072013_fb">
+    <fb:nFriendsInteracted rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">214</fb:nFriendsInteracted>
+    <fb:groupID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">300422056724092</fb:groupID>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaDiretaJa14072013_fb/rdf/DemocraciaDiretaJa14072013_fbMeta.owl</po:discorveryRDFFile>
+    <fb:nFriends rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3599</fb:nFriends>
+    <fb:iAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:iAnon>
+    <po:socialProtocol rdf:resource="http://purl.org/socialparticipation/po/Platform#Facebook"/>
+    <fb:originalFriendshipFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaDiretaJa14072013_fb/base/DemocraciaDiretaJa14072013.gdf</fb:originalFriendshipFile>
+    <fb:nFriendships rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59471</fb:nFriendships>
+    <po:interactionTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaDiretaJa14072013_fb/rdf/DemocraciaDiretaJa14072013_fbInteraction.ttl</po:interactionTTLFile>
+    <fb:originalInteractionFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaDiretaJa14072013_fb/base/DemocraciaDiretaJa14072013_interacoes.gdf</fb:originalInteractionFile>
+    <po:friendshipXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaDiretaJa14072013_fb/rdf/DemocraciaDiretaJa14072013_fbFriendship.owl</po:friendshipXMLFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-10T04:29:28.056995</po:triplifiedIn>
+    <fb:friendship rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:friendship>
+    <fb:groupSID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ddjbrasil</fb:groupSID>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/fbGroups/tree/master/DemocraciaDiretaJa14072013_fb</po:availableAt>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">node1</fb:interactionAttribute>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight</fb:interactionAttribute>
+    <fb:ego rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:ego>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaDiretaJa14072013_fb/rdf/DemocraciaDiretaJa14072013_fbMeta.ttl</po:discoveryTTLFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facebook network from DemocraciaDiretaJa14072013 . Ego: False. Friendship: True. Interaction: True.</rdfs:comment>
+    <fb:fAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:fAnon>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex</fb:friendAttribute>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DemocraciaDiretaJa14072013</po:donatedBy>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">node2</fb:interactionAttribute>
+    <fb:interaction rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:interaction>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locale</fb:friendAttribute>
+    <fb:interactionFriendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">posts</fb:interactionFriendAttribute>
+    <po:interactionXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaDiretaJa14072013_fb/rdf/DemocraciaDiretaJa14072013_fbInteraction.owl</po:interactionXMLFile>
+    <fb:nInteractions rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">310</fb:nInteractions>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot DemocraciaDiretaJa14072013_fb</rdfs:label>
+    <fb:fbLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/ddjbrasil/permalink/347023325397298/</fb:fbLink>
+    <po:friendshipTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/DemocraciaDiretaJa14072013_fb/rdf/DemocraciaDiretaJa14072013_fbFriendship.ttl</po:friendshipTTLFile>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-07-14</po:createdAt>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Platform#Facebook">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Platform"/>
+  </rdf:Description>
+</rdf:RDF>
