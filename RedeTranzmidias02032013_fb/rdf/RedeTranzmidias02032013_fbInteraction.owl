@@ -1,0 +1,2112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000701386543">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000701386543</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ivana Bentes</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-531027161-100001093201474">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001093201474"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000977824537">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000977824537</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Natale Cuciniello</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-520322516-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#520322516"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001723812483-1420435978">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1258425996">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1258425996</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Glenn Young</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1577376186">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1577376186</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Juliana Jonson</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1420435978-1651494887">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1651494887"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1327838394-1622857036">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1327838394"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1622857036"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001258630833-100000909923227">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001258630833"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1734961933-1302820132">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1302820132"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000977824537-836944624">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1071851267-100000812625301">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1071851267"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-781909429">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#781909429"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1420435978-100002438908141">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002438908141"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001723812483-100000812625301">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000977824537-100000073364339">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000073364339"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000422300080">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000422300080</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jorge Gonzalez Arocha</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1302820132-100000990318320">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1302820132"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000990318320"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1534973182-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1007887310">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bernardo Gutiérrez</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1007887310</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000053660626-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000053660626"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000053660626-100000977824537">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000053660626"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001313838748-100000909923227">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001313838748"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000909923227-100000977824537">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1400184166">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Allan Herison Ferreira</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1400184166</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001313838748">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001313838748</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nicolás Guzmán Grez</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001723812483-100001093201474">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001093201474"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1258425996-598339469">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1258425996"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-607199957-836944624">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#607199957"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Attraktor Zeros</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">836944624</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-100000812625301">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1072703205">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1072703205</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Malu Andrade</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-100001748885187">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001748885187"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1258425996-1222058729">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1258425996"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1222058729"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1071851267-781909429">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1071851267"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#781909429"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-531027161-100000812625301">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000006387418-100000812625301">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000006387418"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1420435978-1099113362">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1099113362"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#581727150">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">581727150</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ava Rocha</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1071851267-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1071851267"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-100000977824537">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000990318320-531027161">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000990318320"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1302820132-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1302820132"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#781909429">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">781909429</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renato Fabbri</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100002438908141-100002438908141">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002438908141"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002438908141"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000701386543-100000731847342">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000731847342"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000701386543"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-844379719-598339469">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#844379719"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000909923227-1039731794">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1039731794"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1332592513">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1332592513</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dobrica Kamperelic</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000663811325-1222058729">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000663811325"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1222058729"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-781909429">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#781909429"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#520322516">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">520322516</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Juliana de Souza</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000977824537-100000909923227">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-531027161-100000990318320">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000990318320"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000731847342">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000731847342</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moreno Baeta</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000990318320-598339469">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000990318320"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001093201474-100000909923227">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001093201474"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#520568650">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">520568650</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carola Beresi González</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#679358282">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">679358282</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nina Just Nina</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1110739967-781909429">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1110739967"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#781909429"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-100000909923227">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100002438908141-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002438908141"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1420435978-836944624">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-581727150-1734961933">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#581727150"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-679358282-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#679358282"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-531027161-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-598339469">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-1734961933">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1222058729">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1222058729</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Joaquim Castro</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1099113362-598339469">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1099113362"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-100000977824537">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#633068638">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">633068638</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">GatOx Atacx</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-1099113362">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1099113362"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000909923227-1420435978">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-100000990318320">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000990318320"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000701386543-598339469">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000701386543"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1577376186-100000812625301">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1577376186"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-100001723812483">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-520322516-1071851267">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1071851267"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#520322516"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-1025268459">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1025268459"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-581727150-100002438908141">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002438908141"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#581727150"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1400184166-555669933">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1400184166"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#555669933"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-598339469-598339469">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000006387418-598339469">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000006387418"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1110305437-836944624">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1110305437"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-1099113362">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1099113362"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1420435978-1622857036">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1622857036"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000990318320-100001093201474">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001093201474"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000990318320"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1032710055-1420435978">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1032710055"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001748885187-100000812625301">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001748885187"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001093201474">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001093201474</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Simone Alauk</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1734961933-520322516">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#520322516"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1592707985-836944624">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1592707985"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1420435978-1534973182">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1302820132">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1302820132</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Danilo Barros</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000909923227-100001723812483">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000957371182">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eli Street</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000957371182</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000053660626-1099113362">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000053660626"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1099113362"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1534973182">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1534973182</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renato Vallone</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000053660626-100000812625301">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000053660626"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-531027161-1222058729">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1222058729"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001723812483-100000990318320">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000990318320"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1110305437-100000812625301">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1110305437"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100003533141655-100000909923227">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003533141655"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1420435978-100000731847342">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000731847342"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1258425996-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1258425996"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003357278369">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003357278369</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jorge Vasconcellos</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-1420435978">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-1651494887">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1651494887"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1110739967">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paloma Oliveira</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1110739967</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001093201474-836944624">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001093201474"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-598339469-1420435978">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1327838394-555669933">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1327838394"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#555669933"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1534973182-1577376186">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1577376186"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1340154876-100000812625301">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1340154876"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-1340154876">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1340154876"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1110305437">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caleb Luporini</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1110305437</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000977824537-598339469">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000990318320">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000990318320</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sandra Goldstein</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1222058729-1534973182">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1222058729"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-555669933">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#555669933"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1222058729-836944624">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1222058729"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000990318320-1534973182">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000990318320"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-1302820132">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1302820132"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000812625301">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marilia Pisani</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000812625301</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1420435978-100000909923227">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000990318320-1025268459">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000990318320"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1025268459"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-531027161-598339469">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1340154876-100002438908141">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002438908141"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1340154876"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000446124736">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000446124736</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Glerm Soares</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-1734961933">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1099113362-1099113362">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1099113362"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1099113362"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000095627852-836944624">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000095627852"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-1577376186">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1577376186"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000446124736-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000446124736"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001723812483-100001748885187">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001748885187"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000909923227-100000990318320">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000990318320"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1138997724-598339469">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1138997724"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000977824537-1420435978">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000528366804">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Julia Daniella Zumbano</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000528366804</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1420435978-1071851267">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1071851267"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1222058729-531027161">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1222058729"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1736937166-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1736937166"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001258630833-1622857036">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001258630833"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1622857036"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001723812483-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1734961933-1622857036">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1622857036"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1734961933">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1734961933</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Paloma Guarani-Kaiowá Kliss</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001258630833">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Loop B Lourenço</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001258630833</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1736937166">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renato Neiva Moreira</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1736937166</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001748885187-598339469">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001748885187"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-531027161">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000006387418">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000006387418</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Luís Augusto</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000663811325-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000663811325"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1577376186-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1577376186"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1807083662-1534973182">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1807083662"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#531027161">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">531027161</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dafna Ganani</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-100000073364339">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000073364339"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001723812483-1099113362">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1099113362"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1622857036-555669933">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1622857036"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#555669933"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1734961933-100002438908141">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002438908141"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-520322516-100000812625301">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#520322516"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#781874002">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">781874002</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Juliana Naltchadjian</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1072703205-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1072703205"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1734961933-598339469">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-781263833-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#781263833"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-661937842-100000812625301">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#661937842"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1302820132-531027161">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1302820132"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1258425996-100000909923227">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1258425996"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1039731794">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1039731794</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rogério Borovik</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1400184166-1622857036">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1400184166"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1622857036"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1032710055">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1032710055</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Afonso Luz</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000909923227-598339469">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-781263833-598339469">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#781263833"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-531027161-531027161">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000701386543-836944624">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000701386543"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-612686673-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#612686673"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000528366804-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000528366804"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000990318320-100000909923227">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000990318320"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100003533141655">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003533141655</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Urban Existenz</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1213390324-1622857036">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1622857036"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1213390324"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100002438908141-100000812625301">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002438908141"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001748885187">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001748885187</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robespierre de Oliveira</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1340154876-531027161">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1340154876"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1734961933-100000812625301">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1099113362-1302820132">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1099113362"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1302820132"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-520322516-100002438908141">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002438908141"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#520322516"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000073364339">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P Glez Diaz</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000073364339</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100002098519694-836944624">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002098519694"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-1340154876">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1340154876"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1099113362">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Finnigans Riverrun</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1099113362</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-1039731794">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1039731794"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-745105228-836944624">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#745105228"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-1420435978">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000704073133-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000704073133"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1400184166-1099113362">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1400184166"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1099113362"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1400184166-520322516">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1400184166"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#520322516"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-520322516">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#520322516"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-1534973182">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1534973182-100001723812483">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1222058729-100000909923227">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1222058729"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000909923227-100000909923227">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1420435978-555669933">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#555669933"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1534973182-1534973182">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1340154876-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1340154876"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-1071851267">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1071851267"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#781263833">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">781263833</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Edu Zal</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-781263833-1071851267">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#781263833"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1071851267"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-520322516-781909429">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#781909429"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#520322516"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#668361081">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">668361081</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tatiana Melani Tosi</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001723812483-100000909923227">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000909923227">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000909923227</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ruck Zuck</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001723812483-531027161">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000909923227-100000812625301">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1378842558-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1378842558"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-100001723812483">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-1039731794">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1039731794"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001723812483-100001723812483">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1025268459-1025268459">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1025268459"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1025268459"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-520322516">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#520322516"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-555669933-100000812625301">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#555669933"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1420435978-1420435978">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001258630833-100001723812483">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001258630833"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-581727150-836944624">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#581727150"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-100000812625301">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1400184166-598339469">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1400184166"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-100002438908141">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002438908141"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1420435978-1734961933">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1071851267-555669933">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#555669933"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1071851267"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#844379719">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">844379719</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marcelo Ariel</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1420435978">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Felipe Brait</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1420435978</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001258630833-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001258630833"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-581727150-1534973182">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#581727150"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000977824537-100000812625301">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001169827514">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001169827514</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Solano Ribeiro</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1222058729-1340154876">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1222058729"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1340154876"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100003357278369-100000812625301">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003357278369"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-1025268459">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1025268459"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1099113362-555669933">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1099113362"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#555669933"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000977824537-531027161">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#661937842">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ludmila Pimentel</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">661937842</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100001723812483">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100001723812483</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renato B Franco</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000909923227-1577376186">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1577376186"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1138997724">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1138997724</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rodrigo Gidra</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-1222058729">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1222058729"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1332592513-100000909923227">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1332592513"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1340154876-100000909923227">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1340154876"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-100002438908141">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002438908141"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-668361081-100000909923227">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#668361081"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000006387418-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000006387418"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-1622857036">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1622857036"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1420435978-598339469">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100003533141655-598339469">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003533141655"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#598339469">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Antenna Rush</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">598339469</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1007887310-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1007887310"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-531027161-100000909923227">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001093201474-1534973182">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001093201474"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100003533141655-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003533141655"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1734961933-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1534973182-100000909923227">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-781874002">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#781874002"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1138997724-100000812625301">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1138997724"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1534973182-100000977824537">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000977824537-1340154876">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1340154876"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-531027161">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1622857036">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1622857036</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jorge L Campos</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-633068638-1734961933">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#633068638"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000095627852">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Daniel Scandurra</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000095627852</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#612686673">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gregorio Gananian</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">612686673</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-531027161-100000977824537">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1400184166-100000812625301">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1400184166"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1592707985">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carlos Emílio C. Lima</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1592707985</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1734961933-1734961933">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1340154876">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1340154876</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aley García</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1651494887">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1651494887</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lays Laine</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1400184166-1420435978">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1400184166"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1110739967-836944624">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1110739967"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000422300080-100002438908141">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002438908141"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000422300080"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001723812483-555669933">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#555669933"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001723812483-100000977824537">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-555669933-836944624">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#555669933"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-781909429-781909429">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#781909429"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#781909429"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-581727150-100000909923227">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#581727150"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1378842558">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1378842558</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marcio Black</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1534973182-598339469">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001723812483-598339469">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1025268459">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hidra Colere</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1025268459</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-679358282-1420435978">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#679358282"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-531027161-1025268459">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1025268459"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1534973182-100000812625301">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-100001169827514">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001169827514"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1222058729-100000977824537">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1222058729"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-598339469">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002438908141">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Desislaciones Desisla</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002438908141</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1651494887-836944624">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1651494887"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1327838394">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Massimo Canevacci</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1327838394</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1071851267">
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1071851267</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rita Wu</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000909923227-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-679358282-1734961933">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#679358282"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1032710055-555669933">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1032710055"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#555669933"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000053660626-1534973182">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000053660626"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000990318320-781874002">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000990318320"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#781874002"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000704073133">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000704073133</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silke Zil Kuhar</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000957371182-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000957371182"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-100001748885187">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001748885187"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000909923227-100002438908141">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002438908141"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1400184166-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1400184166"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1440159185">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1440159185</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gabriel Rath Kolyniak</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1734961933-555669933">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#555669933"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1138997724-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1138997724"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-598339469-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-1622857036">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1622857036"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1807083662">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1807083662</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mariana Bley</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1534973182-1734961933">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#555669933">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mauricio Coronado Jr.</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">555669933</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-668361081-1622857036">
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#668361081"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1622857036"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-100001093201474">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001093201474"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1440159185-836944624">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1440159185"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-781263833-1734961933">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#781263833"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100003533141655-531027161">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100003533141655"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-100000909923227">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000977824537-100000977824537">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000977824537"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1110305437-598339469">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1110305437"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1025268459-100001723812483">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1025268459"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000909923227-1734961933">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#607199957">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">607199957</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moana Mayall Vargens Continentino</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1400184166-1302820132">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1302820132"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1400184166"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-520568650-836944624">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#520568650"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#1213390324">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1213390324</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bruna Nicodemos</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001723812483-100002438908141">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100002438908141"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1577376186-100000909923227">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1577376186"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000909923227"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000053660626">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tazio Zambi</fb:name>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000053660626</fb:uid>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1622857036-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1622857036"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-555669933">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#555669933"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1099113362-836944624">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1099113362"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-520322516-1420435978">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1420435978"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#520322516"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-836944624-100000731847342">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000731847342"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#836944624"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1534973182-1039731794">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1039731794"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-531027161-1340154876">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1340154876"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-598339469-1734961933">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1734961933"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#598339469"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000446124736-781909429">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#781909429"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000446124736"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-1534973182-100001093201474">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001093201474"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100000812625301-1534973182">
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100000812625301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000083927461">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000083927461</fb:uid>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gabriel Basha Isn't Here</fb:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-531027161-1534973182">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#531027161"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1534973182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100002098519694">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diogo Mizael</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100002098519694</fb:uid>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#745105228">
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carolina Sudati</fb:name>
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">745105228</fb:uid>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Interaction#RedeTranzmidias02032013.gdf-2013-03-02-100001723812483-1025268459">
+    <fb:weight rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</fb:weight>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Interaction"/>
+    <fb:iFrom rdf:resource="http://purl.org/socialparticipation/fb/Participant#100001723812483"/>
+    <fb:iTo rdf:resource="http://purl.org/socialparticipation/fb/Participant#1025268459"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/fb/Participant#100000663811325">
+    <fb:posts rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</fb:posts>
+    <fb:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leonardo Campelo Gonçalves</fb:name>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/fb/Participant"/>
+    <fb:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100000663811325</fb:uid>
+  </rdf:Description>
+</rdf:RDF>
