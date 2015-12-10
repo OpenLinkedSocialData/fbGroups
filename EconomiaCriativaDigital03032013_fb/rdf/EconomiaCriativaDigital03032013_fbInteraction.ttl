@@ -1,0 +1,2878 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000006811474-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000006811474> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000017581888-100000699546181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000017581888> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000699546181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000017581888-100001186233521> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000017581888> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001186233521> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000017581888-100002210876741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000017581888> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002210876741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000017581888-100002230098447> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000017581888> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002230098447> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000017581888-100002437301741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000017581888> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002437301741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000017581888-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000017581888> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000017581888-1371966738> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000017581888> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1371966738> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000017581888-1457501009> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000017581888> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1457501009> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000106047008-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000106047008> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000112494539-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000112494539> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000127522291-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000127522291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000127522291-100001816781181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000127522291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000127522291-100001942917462> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000127522291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001942917462> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000127522291-100002676570427> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000127522291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002676570427> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000127522291-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000127522291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000182506333-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000182506333> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000191305451-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000191305451> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000218207623-1385523446> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000218207623> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000239202343-100000304186891> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000239202343> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000304186891> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000343601513-100001729743644> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000343601513> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001729743644> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000366402948-100002210876741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000366402948> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002210876741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000375388798-100002548018401> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000375388798> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002548018401> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000375388798-100003167729136> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000375388798> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003167729136> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000375388798-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000375388798> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000375388798-1198094112> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000375388798> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000380860930-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000380860930> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000380860930-1317197075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000380860930> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000380860930-1789418663> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000380860930> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1789418663> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000380860930-582803802> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000380860930> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000380921624-100000651568500> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000380921624> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000651568500> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000380921624-100001729743644> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000380921624> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001729743644> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000380921624-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000380921624> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000380921624-100002210876741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000380921624> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002210876741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000380921624-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000380921624> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 7 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000380921624-1282877790> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000380921624> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1282877790> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000380921624-1524034403> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000380921624> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1524034403> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000380921624-1610656552> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000380921624> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1610656552> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000380921624-1683784035> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000380921624> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000418043138-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000418043138> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000516307972-100000195970885> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000516307972> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000195970885> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000542756772-100000195970885> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000542756772> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000195970885> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000542756772-1049789948> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000542756772> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1049789948> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000620894845-100000651568500> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000620894845> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000651568500> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000643166305-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000643166305> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000644401180-100001816781181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000644401180> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000646257118-1683784035> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000646257118> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000651568500-100000127522291> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000651568500> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000127522291> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000651568500-100000651568500> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000651568500> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000651568500> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000651568500-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000651568500> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000651568500-100002230098447> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000651568500> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002230098447> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000651568500-100002326614854> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000651568500> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002326614854> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000651568500-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000651568500> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000669150069-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000669150069> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000669150069-1683784035> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000669150069> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000681134014-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000681134014> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000682021341-100000195970885> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000682021341> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000195970885> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000701386543-832259597> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000701386543> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#832259597> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000708390124-100001729743644> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000708390124> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001729743644> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000708390124-100002532735716> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000708390124> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002532735716> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000708390124-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000708390124> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000708390124-1838521664> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000708390124> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1838521664> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000805004346-100000805004346> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000805004346> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000805004346> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000835483710-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000835483710> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000860745665-100000195970885> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000860745665> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000195970885> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000860745665-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000860745665> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100000860745665-582803802> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100000860745665> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001020928340-100002676570427> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001020928340> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002676570427> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001020928340-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001020928340> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001021086081-100000195970885> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001021086081> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000195970885> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001021086081-100002392833540> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001021086081> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002392833540> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001021086081-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001021086081> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001071675302-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001071675302> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001090962235-100000699546181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001090962235> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000699546181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001090962235-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001090962235> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001092344884-1457501009> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001092344884> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1457501009> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001095521331-100000699546181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001095521331> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000699546181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001104617736-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001104617736> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001186233521-100004965936784> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001186233521> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100004965936784> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001186233521-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001186233521> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 7 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001186983383-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001186983383> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001186983383-582803802> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001186983383> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001188057667-100000380921624> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001188057667> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000380921624> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001253438641-100001186233521> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001253438641> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001186233521> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001253438641-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001253438641> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001253438641-100001816781181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001253438641> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001253438641-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001253438641> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001253438641-1683784035> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001253438641> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001299080042-100002676570427> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001299080042> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002676570427> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001319373091-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001319373091> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001326678931-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001326678931> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001365571908-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001365571908> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001365571908-1385523446> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001365571908> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001400560637-100000195970885> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001400560637> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000195970885> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001400560637-100002210876741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001400560637> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002210876741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001400560637-1042215192> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001400560637> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1042215192> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001400560637-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001400560637> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001400560637-1282877790> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001400560637> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1282877790> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001400560637-1371966738> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001400560637> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1371966738> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001400560637-832259597> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001400560637> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#832259597> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001447681239-100001729743644> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001447681239> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001729743644> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001447681239-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001447681239> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001447681239-1282877790> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001447681239> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1282877790> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001508965859-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001508965859> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001517685512-100001186233521> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001517685512> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001186233521> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001547743082-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001547743082> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001548679199-100000542756772> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001548679199> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000542756772> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001614760066-100000542756772> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001614760066> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000542756772> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001614760066-100002064247926> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001614760066> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002064247926> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001626667471-100001626667471> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001626667471> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001626667471> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001645361900-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001645361900> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001688572146-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001688572146> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001772438614-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001772438614-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001816781181-100000542756772> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000542756772> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001816781181-100001626667471> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001626667471> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001816781181-100001816781181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001816781181-100001942917462> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001942917462> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001816781181-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001816781181-1457501009> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1457501009> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001816781181-683091566> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#683091566> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001942917462-100001816781181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001942917462> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001942917462-100002392833540> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001942917462> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002392833540> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001942917462-100002676570427> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001942917462> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002676570427> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001956054193-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001956054193> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001956054193-1385523446> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001956054193> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001956054193-781874002> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001956054193> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#781874002> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100001982133534-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100001982133534> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002053233286-100000304186891> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002053233286> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000304186891> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002053233286-100002392833540> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002053233286> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002392833540> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002053233286-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002053233286> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002054098220-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002054098220> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002054098220-1227812955> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002054098220> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1227812955> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002054098220-1457501009> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002054098220> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1457501009> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002193124791-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002193124791> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002210876741-100002210876741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002210876741> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002210876741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002230098447-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002230098447> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002230098447-100002326614854> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002230098447> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002326614854> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002254419605-793612563> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002254419605> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#793612563> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002255649844-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002255649844> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002255649844-1227812955> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002255649844> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1227812955> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002269291161-100001816781181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002269291161> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002379949527-100000651568500> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002379949527> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000651568500> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002392833540-100002210876741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002392833540> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002210876741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002392833540-100002392833540> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002392833540> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002392833540> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002437301741-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002437301741> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002501649692-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002501649692> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002548018401-100002548018401> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002548018401> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002548018401> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002583214531-100002392833540> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002583214531> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002392833540> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002583214531-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002583214531> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100002822180255-100002437301741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100002822180255> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002437301741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100003112287430-1096810827> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003112287430> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1096810827> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100003112287430-1385523446> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003112287430> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100003112287430-1775854546> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003112287430> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1775854546> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100003167729136-100000669150069> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003167729136> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000669150069> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100003167729136-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003167729136> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100003167729136-1096810827> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003167729136> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1096810827> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100003167729136-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003167729136> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100003167729136-1198094112> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003167729136> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100003167729136-1775854546> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003167729136> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1775854546> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100003319999954-100000195970885> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003319999954> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000195970885> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100003319999954-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003319999954> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 8 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100003319999954-1317197075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003319999954> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100003319999954-1385523446> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003319999954> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100003319999954-582803802> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100003319999954> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100004533480964-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100004533480964> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100005100963605-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100005100963605> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-100005100963605-522412502> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#100005100963605> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#522412502> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1049789948-100000195970885> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1049789948> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000195970885> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1049789948-1049789948> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1049789948> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1049789948> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1053199408-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1053199408> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1053199408-1317197075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1053199408> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1053199408-582803802> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1053199408> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1088402872-582803802> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1088402872> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1103352263-582803802> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1103352263> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100000127522291> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000127522291> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100000195970885> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000195970885> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100000343601513> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000343601513> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100000380921624> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000380921624> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100000651568500> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000651568500> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100000669150069> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000669150069> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100000699546181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000699546181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100001103335090> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001103335090> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100001186233521> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001186233521> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100001319373091> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001319373091> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100001626667471> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001626667471> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100001729743644> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001729743644> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100001744910182> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001744910182> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100001816781181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100001942917462> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001942917462> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100002193124791> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002193124791> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100002203725069> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002203725069> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100002210876741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002210876741> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100002230098447> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002230098447> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100002326614854> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002326614854> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100002392833540> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002392833540> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100002437301741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002437301741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100002532735716> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002532735716> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100002548018401> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002548018401> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-100003167729136> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003167729136> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1029834388> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1029834388> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1042215192> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1042215192> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1088402872> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1088402872> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1096810827> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1096810827> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 21 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1198094112> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1227812955> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1227812955> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1282877790> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1282877790> ;
+    fb:weight 7 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1317197075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1371966738> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1371966738> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1385523446> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1457501009> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1457501009> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1524034403> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1524034403> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1610656552> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1610656552> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1683784035> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1775854546> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1775854546> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1816568263> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1816568263> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-1838521664> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1838521664> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-582803802> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-648074517> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#648074517> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-683091566> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#683091566> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-752307355> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#752307355> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-781874002> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#781874002> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-793612563> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#793612563> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1111060123-815438329> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#815438329> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1127709963-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1127709963> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1131656096-100001816781181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1131656096> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1131656096-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1131656096> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1132036856-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1132036856> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1146995946-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1146995946> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1146995946-582803802> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1146995946> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1176092522-100000699546181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1176092522> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000699546181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1176092522-100002392833540> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1176092522> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002392833540> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1198094112-100002210876741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002210876741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1198094112-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1198094112-1198094112> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1198094112-1317197075> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1198094112-582803802> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1205206338-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1205206338> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1210872044-1198094112> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1210872044> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1224671916-100000699546181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1224671916> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000699546181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1236636464-683091566> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1236636464> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#683091566> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1254960404-1775854546> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1254960404> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1775854546> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1281429765-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1281429765> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1282877790-1282877790> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1282877790> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1282877790> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1312695016-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1312695016> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1317197075-100000669150069> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000669150069> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1317197075-100002064247926> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002064247926> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1317197075-100002676570427> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002676570427> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1317197075-100004965936784> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100004965936784> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1317197075-1096810827> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1096810827> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1317197075-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1317197075-1198094112> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1317197075-1227812955> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1227812955> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1317197075-1385523446> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1317197075-1610656552> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1610656552> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1317197075-1816568263> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1816568263> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1317197075-1838521664> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1838521664> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1317197075-648074517> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#648074517> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1317197075-793612563> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1317197075> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#793612563> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1329845869-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1329845869> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1344052982-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1344052982> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1352225203-100000127522291> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1352225203> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000127522291> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1352225203-100002210876741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1352225203> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002210876741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1352225203-100002676570427> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1352225203> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002676570427> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1352225203-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1352225203> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1352225203-1198094112> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1352225203> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1352225203-1385523446> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1352225203> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1352225203-1639093279> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1352225203> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1639093279> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1353256744-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1353256744> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1353256744-582803802> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1353256744> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1356369103-100000304186891> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1356369103> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000304186891> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1369582438-1385523446> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1369582438> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1369582438-1683784035> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1369582438> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1385523446-100002392833540> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002392833540> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1385523446-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1385523446-1457501009> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1457501009> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1385523446-1683784035> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1424168800-100002210876741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1424168800> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002210876741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1424168800-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1424168800> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1457501009-100002392833540> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1457501009> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002392833540> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1457501009-1385523446> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1457501009> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1460383510-100001816781181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1460383510> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1460761373-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1460761373> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1460761373-1282877790> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1460761373> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1282877790> ;
+    fb:weight 7 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1460761373-1524034403> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1460761373> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1524034403> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1574285710-582803802> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1574285710> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1607283718-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1607283718> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1610656552-832259597> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1610656552> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#832259597> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1619889998-100004965936784> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1619889998> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100004965936784> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1644781057-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1644781057> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1658800004-100000127522291> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1658800004> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000127522291> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1658800004-100002326614854> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1658800004> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002326614854> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1658800004-1198094112> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1658800004> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1683784035-100001626667471> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001626667471> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1683784035-100001816781181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001816781181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1683784035-100002326614854> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002326614854> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1683784035-100002437301741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002437301741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1683784035-100002532735716> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002532735716> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1683784035-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1683784035-1198094112> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1683784035-1385523446> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1683784035-1457501009> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1457501009> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1698529463-100000380921624> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1698529463> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000380921624> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1700693802-100000699546181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1700693802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000699546181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1700693802-100001319373091> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1700693802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001319373091> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1700693802-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1700693802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1700693802-100002210876741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1700693802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002210876741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1700693802-100002532735716> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1700693802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002532735716> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1700693802-100002548018401> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1700693802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002548018401> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1700693802-1053199408> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1700693802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1053199408> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1700693802-1096810827> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1700693802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1096810827> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1700693802-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1700693802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 7 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1700693802-1385523446> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1700693802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1700693802-1683784035> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1700693802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1683784035> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1700693802-1816568263> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1700693802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1816568263> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1700693802-1838521664> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1700693802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1838521664> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1700693802-781874002> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1700693802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#781874002> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1713144485-100000542756772> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1713144485> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000542756772> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-100000263266146> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000263266146> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-100001186233521> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001186233521> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-100001729743644> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001729743644> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-100002210876741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002210876741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-100002392833540> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002392833540> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-100002437301741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002437301741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-100002548018401> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002548018401> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-100003167729136> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003167729136> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-1042215192> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1042215192> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 11 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-1198094112> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-1385523446> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-1524034403> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1524034403> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-1610656552> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1610656552> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1739577760-1816568263> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1739577760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1816568263> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1767896215-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1767896215> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1775854546-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1775854546> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1789418663-1198094112> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1789418663> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1789418663-793612563> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1789418663> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#793612563> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1816568263-100000127522291> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1816568263> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000127522291> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1816568263-100000343601513> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1816568263> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000343601513> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1816568263-100001729743644> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1816568263> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001729743644> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1816568263-100002532735716> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1816568263> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002532735716> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1816568263-100002676570427> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1816568263> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002676570427> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1816568263-100004965936784> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1816568263> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100004965936784> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1816568263-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1816568263> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 10 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1816568263-1700693802> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1816568263> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1700693802> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1816568263-1838521664> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1816568263> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1838521664> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1823250605-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1823250605> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1825398197-683091566> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1825398197> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#683091566> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1838113969-100002193124791> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1838113969> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002193124791> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1838113969-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1838113969> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1838113969-790739540> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1838113969> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#790739540> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1838521664-1385523446> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1838521664> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1385523446> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1842685287-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1842685287> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1842685287-100002326614854> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1842685287> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002326614854> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1842685287-1096810827> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1842685287> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1096810827> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-1842685287-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#1842685287> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-513962385-1049789948> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#513962385> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1049789948> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-522412502-100003167729136> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#522412502> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100003167729136> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-548475089-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#548475089> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-550283637-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#550283637> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-555340293-1198094112> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#555340293> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-571364441-100000699546181> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#571364441> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000699546181> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-582803802-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-582803802-1282877790> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1282877790> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-582803802-582803802> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#582803802> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-591523438-1198094112> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#591523438> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-610653486-100000366402948> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#610653486> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000366402948> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-610653486-100001729743644> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#610653486> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001729743644> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-610653486-100002210876741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#610653486> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002210876741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-610653486-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#610653486> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-610653486-1610656552> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#610653486> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1610656552> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-610653486-1775854546> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#610653486> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1775854546> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-610653486-815438329> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#610653486> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#815438329> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-638803249-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#638803249> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-638803249-793612563> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#638803249> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#793612563> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-648074517-100001772438614> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#648074517> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100001772438614> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-696441575-793612563> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#696441575> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#793612563> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-733507777-100002392833540> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#733507777> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002392833540> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-740973930-100002210876741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#740973930> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002210876741> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-765413424-100000343601513> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#765413424> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000343601513> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-765413424-1457501009> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#765413424> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1457501009> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-767916574-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#767916574> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-788428170-100002437301741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#788428170> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100002437301741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-788428170-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#788428170> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-788428170-1198094112> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#788428170> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1198094112> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-793612563-793612563> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#793612563> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#793612563> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-815438329-1111060123> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#815438329> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#1111060123> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-815438329-683091566> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#815438329> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#683091566> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-832259597-100000195970885> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#832259597> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#100000195970885> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#EconomiaCriativaDigital03032013.gdf-2013-03-03-832259597-832259597> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#832259597> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#832259597> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#100000076815420> a fb:Participant ;
+    fb:name "Renata Santos Guarani Kaiowá"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000076815420"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000163175703> a fb:Participant ;
+    fb:name "Henrique Silveira"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000163175703"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002441093968> a fb:Participant ;
+    fb:name "Ecomuseu de Maranguape"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100002441093968"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100004902099498> a fb:Participant ;
+    fb:name "Tara Economist"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100004902099498"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1061794791> a fb:Participant ;
+    fb:name "Larissa Almeida"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1061794791"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#575665265> a fb:Participant ;
+    fb:name "Caroline Mariga"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "575665265"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000006811474> a fb:Participant ;
+    fb:name "Alberto Amaral"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000006811474"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000106047008> a fb:Participant ;
+    fb:name "João Carlon"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000106047008"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000112494539> a fb:Participant ;
+    fb:name "Mychelle Jacob"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000112494539"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000182506333> a fb:Participant ;
+    fb:name "Flávia Gomes"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000182506333"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000191305451> a fb:Participant ;
+    fb:name "Isabella Madeira"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000191305451"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000218207623> a fb:Participant ;
+    fb:name "Francisco Saboya"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000218207623"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000239202343> a fb:Participant ;
+    fb:name "Danielle Spinelli"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000239202343"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000263266146> a fb:Participant ;
+    fb:name "Natascha Zacheo Fachim"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100000263266146"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000418043138> a fb:Participant ;
+    fb:name "Drica Veloso"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000418043138"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000516307972> a fb:Participant ;
+    fb:name "Nettü Regert"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000516307972"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000620894845> a fb:Participant ;
+    fb:name "Hermano Ramos"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000620894845"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000643166305> a fb:Participant ;
+    fb:name "Cristina Lins"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000643166305"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000644401180> a fb:Participant ;
+    fb:name "Olga Wanderley"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000644401180"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000646257118> a fb:Participant ;
+    fb:name "Patrícia Reis"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000646257118"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000681134014> a fb:Participant ;
+    fb:name "Anita Dubeux"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000681134014"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000682021341> a fb:Participant ;
+    fb:name "Cristiano Ramos"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000682021341"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000701386543> a fb:Participant ;
+    fb:name "Ivana Bentes"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000701386543"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000835483710> a fb:Participant ;
+    fb:name "Centro Macambira"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000835483710"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001071675302> a fb:Participant ;
+    fb:name "Fábio Henrique Lima De Almeida"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001071675302"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001092344884> a fb:Participant ;
+    fb:name "Mannu Costa"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001092344884"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001095521331> a fb:Participant ;
+    fb:name "Eduardo Melo"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001095521331"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001103335090> a fb:Participant ;
+    fb:name "Epaminondas Correa"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100001103335090"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001104617736> a fb:Participant ;
+    fb:name "Marcelo Ikeda"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001104617736"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001188057667> a fb:Participant ;
+    fb:name "Jonathan Monteiro"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001188057667"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001299080042> a fb:Participant ;
+    fb:name "Gilson Do Turismo"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001299080042"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001326678931> a fb:Participant ;
+    fb:name "Andre Gatti"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001326678931"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001508965859> a fb:Participant ;
+    fb:name "Williams Sant'anna"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001508965859"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001517685512> a fb:Participant ;
+    fb:name "Manuella Duque"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001517685512"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001547743082> a fb:Participant ;
+    fb:name "Victor Hugo Rocha"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001547743082"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001548679199> a fb:Participant ;
+    fb:name "Myrian Isis"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001548679199"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001645361900> a fb:Participant ;
+    fb:name "Animapaulisa Aurellio"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100001645361900"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001688572146> a fb:Participant ;
+    fb:name "Graziele Ferreira"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001688572146"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001744910182> a fb:Participant ;
+    fb:name "Dennis Pereira"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100001744910182"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001982133534> a fb:Participant ;
+    fb:name "Wagner Carvalho Marroquim"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001982133534"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002203725069> a fb:Participant ;
+    fb:name "Antonio Leal"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100002203725069"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002254419605> a fb:Participant ;
+    fb:name "Flammarion Cysneiros Junior"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100002254419605"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002269291161> a fb:Participant ;
+    fb:name "Philippe Wollney"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100002269291161"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002379949527> a fb:Participant ;
+    fb:name "Alexandre Henrique"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100002379949527"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002501649692> a fb:Participant ;
+    fb:name "Hanna Godoy"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100002501649692"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002822180255> a fb:Participant ;
+    fb:name "Natália Ribeiro Barreto"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100002822180255"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100004533480964> a fb:Participant ;
+    fb:name "Marcelo Serra Diniz"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100004533480964"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1029834388> a fb:Participant ;
+    fb:name "Gustavo Santos"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1029834388"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1103352263> a fb:Participant ;
+    fb:name "Fatima Maia"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1103352263"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1127709963> a fb:Participant ;
+    fb:name "Andréa Pereira"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1127709963"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1132036856> a fb:Participant ;
+    fb:name "Maíra Brandão"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1132036856"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1205206338> a fb:Participant ;
+    fb:name "Jonara Medeiros"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1205206338"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1210872044> a fb:Participant ;
+    fb:name "Carla Costa"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1210872044"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1224671916> a fb:Participant ;
+    fb:name "Angela Tribuzi"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1224671916"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1236636464> a fb:Participant ;
+    fb:name "Mariana Kaiowá Mesquita"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1236636464"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1254960404> a fb:Participant ;
+    fb:name "Francisco Tupy"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1254960404"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1281429765> a fb:Participant ;
+    fb:name "Sergio Guedes"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1281429765"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1312695016> a fb:Participant ;
+    fb:name "Rafaela Cappai"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1312695016"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1329845869> a fb:Participant ;
+    fb:name "Pedro Luna"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1329845869"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1344052982> a fb:Participant ;
+    fb:name "Rafael Leite"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1344052982"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1356369103> a fb:Participant ;
+    fb:name "Chico Egídio"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1356369103"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1460383510> a fb:Participant ;
+    fb:name "Raquel Monteath"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1460383510"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1574285710> a fb:Participant ;
+    fb:name "Juliana Sá"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1574285710"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1607283718> a fb:Participant ;
+    fb:name "Liduina Lins"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1607283718"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1619889998> a fb:Participant ;
+    fb:name "Josiane Figueira de Oliveira"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1619889998"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1639093279> a fb:Participant ;
+    fb:name "Leonardo Chaves"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1639093279"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1644781057> a fb:Participant ;
+    fb:name "Silvia De Abreu Gomes"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1644781057"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1698529463> a fb:Participant ;
+    fb:name "Paulo Augusto de Azevedo"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1698529463"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1713144485> a fb:Participant ;
+    fb:name "Laila Guarani-Kaiowá Manuelle"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1713144485"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1767896215> a fb:Participant ;
+    fb:name "Janine Malanski"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1767896215"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1823250605> a fb:Participant ;
+    fb:name "Saskia Sa"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1823250605"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1825398197> a fb:Participant ;
+    fb:name "Solange Lima"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1825398197"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#513962385> a fb:Participant ;
+    fb:name "Joao Carlos Caribe"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "513962385"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#548475089> a fb:Participant ;
+    fb:name "Mariana Soldi"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "548475089"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#550283637> a fb:Participant ;
+    fb:name "Regina Cunha"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "550283637"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#555340293> a fb:Participant ;
+    fb:name "Lucas Foster"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "555340293"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#571364441> a fb:Participant ;
+    fb:name "Maria Duda"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "571364441"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#591523438> a fb:Participant ;
+    fb:name "Jorge Cerveira Pinto"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "591523438"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#696441575> a fb:Participant ;
+    fb:name "Eiran Simis"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "696441575"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#733507777> a fb:Participant ;
+    fb:name "Willian Alexandrino"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "733507777"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#740973930> a fb:Participant ;
+    fb:name "Lina Luz"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "740973930"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#752307355> a fb:Participant ;
+    fb:name "Edinéa Alcântara"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "752307355"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#767916574> a fb:Participant ;
+    fb:name "Carolina Palhares"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "767916574"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#790739540> a fb:Participant ;
+    fb:name "Americo Cordula"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "790739540"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000366402948> a fb:Participant ;
+    fb:name "Humberto Cunha"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000366402948"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000805004346> a fb:Participant ;
+    fb:name "Thiago Skárnio"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000805004346"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001020928340> a fb:Participant ;
+    fb:name "Gilberto Freyre Neto"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001020928340"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001090962235> a fb:Participant ;
+    fb:name "Lu Azevedo"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001090962235"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001186983383> a fb:Participant ;
+    fb:name "James Görgen"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001186983383"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001365571908> a fb:Participant ;
+    fb:name "Luciana Araújo Araújo"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001365571908"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001614760066> a fb:Participant ;
+    fb:name "Rafaella Ribeiro"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001614760066"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002064247926> a fb:Participant ;
+    fb:name "Thiago Honorato"^^xsd:string ;
+    fb:posts 8 ;
+    fb:uid "100002064247926"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002255649844> a fb:Participant ;
+    fb:name "Jose Bertotti"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100002255649844"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002583214531> a fb:Participant ;
+    fb:name "Amelia Campello"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100002583214531"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100005100963605> a fb:Participant ;
+    fb:name "Oswaldo Reis Junior"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100005100963605"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1088402872> a fb:Participant ;
+    fb:name "Samantha Mourão"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1088402872"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1131656096> a fb:Participant ;
+    fb:name "Joana Mendonça"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1131656096"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1146995946> a fb:Participant ;
+    fb:name "Leonardo Barbosa Rossato"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1146995946"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1176092522> a fb:Participant ;
+    fb:name "Rejane Trindade"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1176092522"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1353256744> a fb:Participant ;
+    fb:name "Edivane Bactista"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1353256744"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1369582438> a fb:Participant ;
+    fb:name "Luciana Padilha"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1369582438"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1424168800> a fb:Participant ;
+    fb:name "Paulo Tarcisio Magalhães"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1424168800"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#522412502> a fb:Participant ;
+    fb:name "Luiz Antônio Gouveia Oliveira"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "522412502"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#638803249> a fb:Participant ;
+    fb:name "Rodrigo Mendes Bessone"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "638803249"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#765413424> a fb:Participant ;
+    fb:name "Mari Wire"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "765413424"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000304186891> a fb:Participant ;
+    fb:name "Lucio Mauro Lira"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000304186891"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000860745665> a fb:Participant ;
+    fb:name "Vania Brayner"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000860745665"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001021086081> a fb:Participant ;
+    fb:name "Moema Vilar"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001021086081"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001319373091> a fb:Participant ;
+    fb:name "Wecsley Mariano"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100001319373091"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001447681239> a fb:Participant ;
+    fb:name "Laressa Eurich"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001447681239"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001956054193> a fb:Participant ;
+    fb:name "Zilda Borges"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001956054193"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002053233286> a fb:Participant ;
+    fb:name "Thiago Neves"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100002053233286"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002054098220> a fb:Participant ;
+    fb:name "Ana Claudia Frazão"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100002054098220"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002193124791> a fb:Participant ;
+    fb:name "Wellington de Melo"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100002193124791"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100003112287430> a fb:Participant ;
+    fb:name "Economia Criativa"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100003112287430"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1042215192> a fb:Participant ;
+    fb:name "Ana Carla Fonseca Cainha"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1042215192"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1371966738> a fb:Participant ;
+    fb:name "Gerino Xavier"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1371966738"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1460761373> a fb:Participant ;
+    fb:name "Egeu Laus"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1460761373"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1658800004> a fb:Participant ;
+    fb:name "André Martinez"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1658800004"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1789418663> a fb:Participant ;
+    fb:name "Mauricio Correa Silva"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1789418663"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1838113969> a fb:Participant ;
+    fb:name "Bernardo Teshima"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1838113969"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#648074517> a fb:Participant ;
+    fb:name "André Soares"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "648074517"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#781874002> a fb:Participant ;
+    fb:name "Juliana Naltchadjian"^^xsd:string ;
+    fb:posts 4 ;
+    fb:uid "781874002"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#788428170> a fb:Participant ;
+    fb:name "Sergio Bicudo Veras"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "788428170"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000343601513> a fb:Participant ;
+    fb:name "Flávio Barbosa"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000343601513"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000375388798> a fb:Participant ;
+    fb:name "Rossana Pavanelli"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000375388798"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000380860930> a fb:Participant ;
+    fb:name "Jenifer Pinheiro"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000380860930"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000708390124> a fb:Participant ;
+    fb:name "Alfredo Galamba"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000708390124"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100004965936784> a fb:Participant ;
+    fb:name "Eco Passaporte"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "100004965936784"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1053199408> a fb:Participant ;
+    fb:name "Igor Rafailov"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1053199408"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1227812955> a fb:Participant ;
+    fb:name "Renata Stolarski Gamelo"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1227812955"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1524034403> a fb:Participant ;
+    fb:name "Wilma Nóbrega"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1524034403"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1842685287> a fb:Participant ;
+    fb:name "Jessica Miranda"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1842685287"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#815438329> a fb:Participant ;
+    fb:name "Tatti Carvalho"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "815438329"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000669150069> a fb:Participant ;
+    fb:name "Mariângela Borba"^^xsd:string ;
+    fb:posts 5 ;
+    fb:uid "100000669150069"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001253438641> a fb:Participant ;
+    fb:name "Danilo Lucio"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001253438641"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001626667471> a fb:Participant ;
+    fb:name "Canal Capibaribe"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100001626667471"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002230098447> a fb:Participant ;
+    fb:name "Laia Laboratório"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100002230098447"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002532735716> a fb:Participant ;
+    fb:name "Marcos Buccini"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100002532735716"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100003319999954> a fb:Participant ;
+    fb:name "Regi Dubeux"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100003319999954"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1049789948> a fb:Participant ;
+    fb:name "André Raboni"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1049789948"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#683091566> a fb:Participant ;
+    fb:name "Rosângela Rocha"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "683091566"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000542756772> a fb:Participant ;
+    fb:name "Alejandro Vargas"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000542756772"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001942917462> a fb:Participant ;
+    fb:name "Nice Lima"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "100001942917462"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002326614854> a fb:Participant ;
+    fb:name "Instituto InterCidadania"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100002326614854"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002548018401> a fb:Participant ;
+    fb:name "Belén Elisa Díaz Pérez"^^xsd:string ;
+    fb:posts 4 ;
+    fb:uid "100002548018401"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1096810827> a fb:Participant ;
+    fb:name "Lala Claudia Deheinzelin"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "1096810827"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1610656552> a fb:Participant ;
+    fb:name "Jair Pedrosa"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "1610656552"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1775854546> a fb:Participant ;
+    fb:name "Moacyr A. Alves Junior"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1775854546"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1838521664> a fb:Participant ;
+    fb:name "Ede Alves"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1838521664"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#832259597> a fb:Participant ;
+    fb:name "Everton Rodrigues"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "832259597"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001186233521> a fb:Participant ;
+    fb:name "Luiz Roberto"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "100001186233521"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001400560637> a fb:Participant ;
+    fb:name "Nayrla Silva"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100001400560637"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002437301741> a fb:Participant ;
+    fb:name "Isabela Morais"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100002437301741"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002676570427> a fb:Participant ;
+    fb:name "Afonso Oliveira"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100002676570427"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1352225203> a fb:Participant ;
+    fb:name "Adriano Araújo"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1352225203"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#610653486> a fb:Participant ;
+    fb:name "Claudio Machado"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "610653486"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000017581888> a fb:Participant ;
+    fb:name "Ana Cláudia Dias Vasconcelos"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "100000017581888"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000699546181> a fb:Participant ;
+    fb:name "Sebba Cavalcante"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000699546181"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001729743644> a fb:Participant ;
+    fb:name "Leonardo Salazar"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100001729743644"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1282877790> a fb:Participant ;
+    fb:name "Thomás Cairo"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1282877790"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#793612563> a fb:Participant ;
+    fb:name "Vítor Andrade"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "793612563"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000127522291> a fb:Participant ;
+    fb:name "Thiago Laranjeiras"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100000127522291"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000195970885> a fb:Participant ;
+    fb:name "Bruno Mendonça"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000195970885"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100003167729136> a fb:Participant ;
+    fb:name "Gustavo Vidigal"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100003167729136"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1457501009> a fb:Participant ;
+    fb:name "Paulo Cunha"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "1457501009"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000651568500> a fb:Participant ;
+    fb:name "Willamy Tenório"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100000651568500"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100000380921624> a fb:Participant ;
+    fb:name "Decio Coutinho"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100000380921624"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002392833540> a fb:Participant ;
+    fb:name "Alexandre Santos"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "100002392833540"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1816568263> a fb:Participant ;
+    fb:name "Simone Simonek"^^xsd:string ;
+    fb:posts 4 ;
+    fb:uid "1816568263"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100002210876741> a fb:Participant ;
+    fb:name "Alexandre Barbalho"^^xsd:string ;
+    fb:posts 5 ;
+    fb:uid "100002210876741"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1700693802> a fb:Participant ;
+    fb:name "Lílian Ferreira"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "1700693802"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1739577760> a fb:Participant ;
+    fb:name "Vando Rodrigues"^^xsd:string ;
+    fb:posts 0 ;
+    fb:uid "1739577760"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#582803802> a fb:Participant ;
+    fb:name "Uirá Porã"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "582803802"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001816781181> a fb:Participant ;
+    fb:name "Caio Dornelas"^^xsd:string ;
+    fb:posts 1 ;
+    fb:uid "100001816781181"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1683784035> a fb:Participant ;
+    fb:name "Luciano Goncalo"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "1683784035"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1385523446> a fb:Participant ;
+    fb:name "Beto Azoubel"^^xsd:string ;
+    fb:posts 5 ;
+    fb:uid "1385523446"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#100001772438614> a fb:Participant ;
+    fb:name "João Paulo Seixas"^^xsd:string ;
+    fb:posts 9 ;
+    fb:uid "100001772438614"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1198094112> a fb:Participant ;
+    fb:name "Luciana Guilherme"^^xsd:string ;
+    fb:posts 3 ;
+    fb:uid "1198094112"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1317197075> a fb:Participant ;
+    fb:name "Veronica Ribeiro"^^xsd:string ;
+    fb:posts 2 ;
+    fb:uid "1317197075"^^xsd:string .
+
+<http://purl.org/socialparticipation/fb/Participant#1111060123> a fb:Participant ;
+    fb:name "Tarciana Portella"^^xsd:string ;
+    fb:posts 62 ;
+    fb:uid "1111060123"^^xsd:string .
+

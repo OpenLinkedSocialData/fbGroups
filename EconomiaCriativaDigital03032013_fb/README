@@ -1,0 +1,22 @@
+This repo delivers RDF data from the facebook
+friendship network of EconomiaCriativaDigital03032013 collected around 2013-03-03.
+1684 individuals with metadata ['locale', 'uid', 'name', 'sex']
+and 42735 friendships constitute the friendship network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/EconomiaCriativaDigital03032013_fb/rdf/EconomiaCriativaDigital03032013_fbFriendship.owl
+(anonymized: False).
+181 individuals with metadata ['posts', 'uid', 'name']
+and 393 interactions with metadata ['node1', 'node2', 'weight'] constitute the interaction 
+network in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/EconomiaCriativaDigital03032013_fb/rdf/EconomiaCriativaDigital03032013_fbInteraction.owl
+(anonymized: False).
+Metadata for discovery is in file:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/EconomiaCriativaDigital03032013_fb/rdf/EconomiaCriativaDigital03032013_fbMeta.owl
+Original files:
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/EconomiaCriativaDigital03032013_fb/base/EconomiaCriativaDigital03032013.gdf
+https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/EconomiaCriativaDigital03032013_fb/base/EconomiaCriativaDigital03032013_interactions.gdf
+Ego network: False
+Friendship network: True
+Interaction network: True
+All files should be available at the git repository:
+https://github.com/OpenLinkedSocialData/fbGroups/tree/master/EconomiaCriativaDigital03032013_fb
+
