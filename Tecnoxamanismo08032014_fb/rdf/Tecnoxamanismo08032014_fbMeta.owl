@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:fb="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#Tecnoxamanismo08032014_fb">
+    <fb:friendship rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:friendship>
+    <fb:fbLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/505090906188661/permalink/733157380048678/</fb:fbLink>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tecnoxamanismo08032014</po:donatedBy>
+    <fb:originalFriendshipFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Tecnoxamanismo08032014_fb/base/Tecnoxamanismo08032014.gdf</fb:originalFriendshipFile>
+    <po:interactionXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Tecnoxamanismo08032014_fb/rdf/Tecnoxamanismo08032014_fbInteraction.owl</po:interactionXMLFile>
+    <fb:nFriendships rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1788</fb:nFriendships>
+    <fb:interactionFriendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locale</fb:interactionFriendAttribute>
+    <fb:iAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:iAnon>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">locale</fb:friendAttribute>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Tecnoxamanismo08032014_fb/rdf/Tecnoxamanismo08032014_fbMeta.owl</po:discorveryRDFFile>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-03-08</po:createdAt>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Tecnoxamanismo08032014_fb/rdf/Tecnoxamanismo08032014_fbMeta.ttl</po:discoveryTTLFile>
+    <fb:fAnon rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:fAnon>
+    <fb:interaction rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</fb:interaction>
+    <fb:friendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex</fb:friendAttribute>
+    <fb:nFriendsInteracted rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</fb:nFriendsInteracted>
+    <po:interactionTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Tecnoxamanismo08032014_fb/rdf/Tecnoxamanismo08032014_fbInteraction.ttl</po:interactionTTLFile>
+    <fb:ego rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</fb:ego>
+    <po:socialProtocol rdf:resource="http://purl.org/socialparticipation/po/Platform#Facebook"/>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/fbGroups/tree/master/Tecnoxamanismo08032014_fb</po:availableAt>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">facebook network from Tecnoxamanismo08032014 . Ego: False. Friendship: True. Interaction: True.</rdfs:comment>
+    <fb:originalInteractionFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Tecnoxamanismo08032014_fb/base/Tecnoxamanismo08032014_interactions.gdf</fb:originalInteractionFile>
+    <po:friendshipTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Tecnoxamanismo08032014_fb/rdf/Tecnoxamanismo08032014_fbFriendship.ttl</po:friendshipTTLFile>
+    <fb:interactionFriendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">sex</fb:interactionFriendAttribute>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <fb:interactionFriendAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">posts</fb:interactionFriendAttribute>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">node2</fb:interactionAttribute>
+    <po:friendshipXMLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/Tecnoxamanismo08032014_fb/rdf/Tecnoxamanismo08032014_fbFriendship.owl</po:friendshipXMLFile>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot Tecnoxamanismo08032014_fb</rdfs:label>
+    <fb:groupID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">505090906188661</fb:groupID>
+    <fb:nFriends rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">315</fb:nFriends>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">weight</fb:interactionAttribute>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-10T04:38:18.980988</po:triplifiedIn>
+    <fb:fbLink rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.facebook.com/groups/505090906188661/permalink/733144993383250/</fb:fbLink>
+    <fb:nInteractions rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">281</fb:nInteractions>
+    <fb:interactionAttribute rdf:datatype="http://www.w3.org/2001/XMLSchema#string">node1</fb:interactionAttribute>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Platform#Facebook">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Platform"/>
+  </rdf:Description>
+</rdf:RDF>
