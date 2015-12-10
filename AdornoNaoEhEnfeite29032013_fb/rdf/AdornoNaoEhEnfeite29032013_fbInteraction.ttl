@@ -6,1180 +6,1180 @@
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 58 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 4 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_11> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_11> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> ;
     fb:weight 6 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_15> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_15> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_15> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_15> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_16> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_16> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_16> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_16> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_17> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_17> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_17> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_17> ;
     fb:weight 4 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_18> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_18> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_18> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_18> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_21> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_21> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_21> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_21> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_24> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_24> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_24> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_28> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_28> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_28> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_28> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_29> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_29> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_29> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_29> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_3> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_3> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
     fb:weight 6 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_31> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_31> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_31> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_31> ;
     fb:weight 4 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_35> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_35> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_35> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_35> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_40> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_40> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_40> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_40> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_44> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_44> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_44> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_44> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_47> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_47> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_47> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_47> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_5> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_5> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_5> ;
     fb:weight 9 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_6> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_6> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_6> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_0-user_8> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_0> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_8> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_0-AdornoNaoEhEnfeite29032013_interacoes-user_8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
     fb:weight 7 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 55 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 8 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_11> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_11> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_16> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_16> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_16> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_16> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_17> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_17> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_17> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_17> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_20> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_20> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_20> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_20> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_21> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_21> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_21> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_21> ;
     fb:weight 4 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_28> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_28> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_28> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_28> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_29> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_29> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_29> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_29> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_3> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_3> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
     fb:weight 9 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_31> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_31> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_31> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_31> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_35> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_35> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_35> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_35> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_40> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_40> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_40> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_40> ;
     fb:weight 4 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_5> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_5> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_5> ;
     fb:weight 13 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_50> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_50> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_50> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_50> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_1-user_6> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_1> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_6> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_1-AdornoNaoEhEnfeite29032013_interacoes-user_6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_6> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_10-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_10> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_10-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_10> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_11-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_11> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_11-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 15 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_11-user_24> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_11> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_24> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_11-AdornoNaoEhEnfeite29032013_interacoes-user_24> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_11-user_3> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_11> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_3> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_11-AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_11-user_8> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_11> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_8> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_11-AdornoNaoEhEnfeite29032013_interacoes-user_8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
     fb:weight 7 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_12-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_12> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_12-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_12> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_13-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_13> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_13-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_13> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 9 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_13-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_13> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_13-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_13> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_13-user_17> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_13> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_17> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_13-AdornoNaoEhEnfeite29032013_interacoes-user_17> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_13> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_17> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_13-user_18> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_13> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_18> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_13-AdornoNaoEhEnfeite29032013_interacoes-user_18> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_13> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_18> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_13-user_29> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_13> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_29> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_13-AdornoNaoEhEnfeite29032013_interacoes-user_29> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_13> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_29> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_13-user_5> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_13> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_5> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_13-AdornoNaoEhEnfeite29032013_interacoes-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_13> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_5> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_13-user_8> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_13> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_8> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_13-AdornoNaoEhEnfeite29032013_interacoes-user_8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_13> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
     fb:weight 4 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_14-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_14> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_14-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_14> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 4 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_14-user_18> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_14> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_18> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_14-AdornoNaoEhEnfeite29032013_interacoes-user_18> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_14> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_18> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_14-user_20> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_14> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_20> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_14-AdornoNaoEhEnfeite29032013_interacoes-user_20> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_14> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_20> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_14-user_21> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_14> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_21> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_14-AdornoNaoEhEnfeite29032013_interacoes-user_21> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_14> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_21> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_14-user_29> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_14> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_29> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_14-AdornoNaoEhEnfeite29032013_interacoes-user_29> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_14> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_29> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_14-user_3> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_14> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_3> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_14-AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_14> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_14-user_35> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_14> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_35> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_14-AdornoNaoEhEnfeite29032013_interacoes-user_35> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_14> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_35> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_14-user_6> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_14> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_6> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_14-AdornoNaoEhEnfeite29032013_interacoes-user_6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_14> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_6> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_14-user_8> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_14> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_8> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_14-AdornoNaoEhEnfeite29032013_interacoes-user_8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_14> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_16-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_16> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_16-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_16> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 15 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_16-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_16> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_16-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_16> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_16-user_21> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_16> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_21> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_16-AdornoNaoEhEnfeite29032013_interacoes-user_21> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_16> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_21> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_16-user_3> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_16> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_3> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_16-AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_16> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_16-user_35> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_16> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_35> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_16-AdornoNaoEhEnfeite29032013_interacoes-user_35> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_16> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_35> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_16-user_40> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_16> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_40> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_16-AdornoNaoEhEnfeite29032013_interacoes-user_40> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_16> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_40> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_16-user_5> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_16> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_5> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_16-AdornoNaoEhEnfeite29032013_interacoes-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_16> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_5> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_17-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_17> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_17-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_17> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 13 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_17-user_16> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_17> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_16> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_17-AdornoNaoEhEnfeite29032013_interacoes-user_16> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_17> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_16> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_17-user_5> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_17> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_5> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_17-AdornoNaoEhEnfeite29032013_interacoes-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_17> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_5> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_18-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_18> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_18-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_18> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_18-user_24> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_18> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_24> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_18-AdornoNaoEhEnfeite29032013_interacoes-user_24> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_18> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_19-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_19> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_19-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_19> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_2-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_2> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_2-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 9 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_2-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_2> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_2-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_2-user_20> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_2> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_20> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_2-AdornoNaoEhEnfeite29032013_interacoes-user_20> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_20> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_2-user_3> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_2> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_3> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_2-AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_2-user_6> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_2> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_6> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_2-AdornoNaoEhEnfeite29032013_interacoes-user_6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_2> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_6> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_20-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_20> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_20-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_20> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 7 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_21-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_21> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_21-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_21> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_21-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_21> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_21-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_21> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_21-user_11> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_21> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_11> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_21-AdornoNaoEhEnfeite29032013_interacoes-user_11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_21> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_22-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_22> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_22-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_22> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_22-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_22> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_22-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_22> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_22-user_21> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_22> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_21> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_22-AdornoNaoEhEnfeite29032013_interacoes-user_21> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_22> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_21> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_22-user_5> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_22> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_5> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_22-AdornoNaoEhEnfeite29032013_interacoes-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_22> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_5> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_23-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_23> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_23-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_23> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_23-user_21> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_23> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_21> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_23-AdornoNaoEhEnfeite29032013_interacoes-user_21> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_23> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_21> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_24-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_24> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_24-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 6 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_24-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_24> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_24-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_24-user_20> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_24> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_20> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_24-AdornoNaoEhEnfeite29032013_interacoes-user_20> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_20> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_24-user_24> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_24> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_24> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_24-AdornoNaoEhEnfeite29032013_interacoes-user_24> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
     fb:weight 29 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_24-user_29> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_24> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_29> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_24-AdornoNaoEhEnfeite29032013_interacoes-user_29> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_29> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_24-user_3> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_24> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_3> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_24-AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_24-user_44> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_24> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_44> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_24-AdornoNaoEhEnfeite29032013_interacoes-user_44> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_44> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_24-user_47> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_24> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_47> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_24-AdornoNaoEhEnfeite29032013_interacoes-user_47> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_47> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_24-user_50> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_24> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_50> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_24-AdornoNaoEhEnfeite29032013_interacoes-user_50> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_50> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_24-user_8> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_24> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_8> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_24-AdornoNaoEhEnfeite29032013_interacoes-user_8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_25-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_25> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_25-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_25> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_26-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_26> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_26-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_26> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_26-user_11> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_26> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_11> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_26-AdornoNaoEhEnfeite29032013_interacoes-user_11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_26> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_26-user_28> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_26> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_28> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_26-AdornoNaoEhEnfeite29032013_interacoes-user_28> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_26> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_28> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_26-user_5> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_26> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_5> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_26-AdornoNaoEhEnfeite29032013_interacoes-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_26> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_5> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_27-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_27> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_27-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_27> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_27-user_11> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_27> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_11> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_27-AdornoNaoEhEnfeite29032013_interacoes-user_11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_27> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_27-user_3> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_27> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_3> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_27-AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_27> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_28-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_28> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_28-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_28> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_28-user_11> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_28> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_11> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_28-AdornoNaoEhEnfeite29032013_interacoes-user_11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_28> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_28-user_24> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_28> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_24> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_28-AdornoNaoEhEnfeite29032013_interacoes-user_24> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_28> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_28-user_28> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_28> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_28> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_28-AdornoNaoEhEnfeite29032013_interacoes-user_28> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_28> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_28> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_28-user_3> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_28> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_3> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_28-AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_28> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_29-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_29> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_29-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_29> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 6 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_29-user_29> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_29> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_29> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_29-AdornoNaoEhEnfeite29032013_interacoes-user_29> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_29> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_29> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_29-user_40> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_29> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_40> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_29-AdornoNaoEhEnfeite29032013_interacoes-user_40> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_29> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_40> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_29-user_5> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_29> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_5> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_29-AdornoNaoEhEnfeite29032013_interacoes-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_29> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_5> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_3-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_3> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_3-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 11 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_3-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_3> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_3-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_3-user_28> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_3> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_28> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_3-AdornoNaoEhEnfeite29032013_interacoes-user_28> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_28> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_3-user_3> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_3> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_3> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_3-AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_3-user_8> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_3> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_8> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_3-AdornoNaoEhEnfeite29032013_interacoes-user_8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
     fb:weight 6 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_30-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_30> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_30-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_30> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_30-user_29> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_30> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_29> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_30-AdornoNaoEhEnfeite29032013_interacoes-user_29> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_30> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_29> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_31-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_31> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_31-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_31> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 5 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_31-user_28> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_31> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_28> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_31-AdornoNaoEhEnfeite29032013_interacoes-user_28> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_31> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_28> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_31-user_8> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_31> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_8> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_31-AdornoNaoEhEnfeite29032013_interacoes-user_8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_31> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_32-user_28> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_32> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_28> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_32-AdornoNaoEhEnfeite29032013_interacoes-user_28> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_32> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_28> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_33-user_28> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_33> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_28> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_33-AdornoNaoEhEnfeite29032013_interacoes-user_28> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_33> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_28> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_34-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_34> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_34-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_34> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 6 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_34-user_28> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_34> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_28> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_34-AdornoNaoEhEnfeite29032013_interacoes-user_28> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_34> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_28> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_34-user_44> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_34> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_44> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_34-AdornoNaoEhEnfeite29032013_interacoes-user_44> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_34> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_44> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_34-user_47> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_34> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_47> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_34-AdornoNaoEhEnfeite29032013_interacoes-user_47> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_34> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_47> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_34-user_8> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_34> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_8> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_34-AdornoNaoEhEnfeite29032013_interacoes-user_8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_34> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
     fb:weight 12 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_35-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_35> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_35-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_35> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 4 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_35-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_35> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_35-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_35> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_35-user_3> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_35> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_3> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_35-AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_35> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_35-user_35> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_35> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_35> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_35-AdornoNaoEhEnfeite29032013_interacoes-user_35> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_35> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_35> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_35-user_5> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_35> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_5> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_35-AdornoNaoEhEnfeite29032013_interacoes-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_35> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_5> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_36-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_36> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_36-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_36> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_36-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_36> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_36-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_36> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_36-user_3> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_36> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_3> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_36-AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_36> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_37-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_37> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_37-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_37> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_38-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_38> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_38-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_38> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_38-user_11> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_38> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_11> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_38-AdornoNaoEhEnfeite29032013_interacoes-user_11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_38> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_39-user_31> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_39> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_31> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_39-AdornoNaoEhEnfeite29032013_interacoes-user_31> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_39> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_31> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_4-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_4> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_4-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_4> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_40-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_40> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_40-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_40> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_40-user_47> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_40> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_47> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_40-AdornoNaoEhEnfeite29032013_interacoes-user_47> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_40> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_47> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_41-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_41> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_41-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_41> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_41-user_11> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_41> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_11> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_41-AdornoNaoEhEnfeite29032013_interacoes-user_11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_41> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_41-user_44> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_41> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_44> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_41-AdornoNaoEhEnfeite29032013_interacoes-user_44> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_41> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_44> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_42-user_3> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_42> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_3> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_42-AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_42> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_42-user_6> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_42> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_6> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_42-AdornoNaoEhEnfeite29032013_interacoes-user_6> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_42> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_6> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_42-user_8> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_42> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_8> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_42-AdornoNaoEhEnfeite29032013_interacoes-user_8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_42> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_43-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_43> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_43-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_43> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_44-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_44> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_44-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_44> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 4 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_44-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_44> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_44-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_44> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_44-user_11> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_44> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_11> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_44-AdornoNaoEhEnfeite29032013_interacoes-user_11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_44> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_44-user_17> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_44> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_17> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_44-AdornoNaoEhEnfeite29032013_interacoes-user_17> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_44> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_17> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_44-user_24> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_44> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_24> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_44-AdornoNaoEhEnfeite29032013_interacoes-user_24> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_44> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_44-user_8> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_44> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_8> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_44-AdornoNaoEhEnfeite29032013_interacoes-user_8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_44> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_45-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_45> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_45-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_45> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_45-user_18> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_45> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_18> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_45-AdornoNaoEhEnfeite29032013_interacoes-user_18> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_45> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_18> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_45-user_50> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_45> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_50> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_45-AdornoNaoEhEnfeite29032013_interacoes-user_50> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_45> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_50> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_46-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_46> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_46-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_46> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_47-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_47> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_47-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_47> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_47-user_11> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_47> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_11> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_47-AdornoNaoEhEnfeite29032013_interacoes-user_11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_47> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_48-user_3> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_48> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_3> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_48-AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_48> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_49-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_49> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_49-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_49> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_49-user_29> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_49> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_29> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_49-AdornoNaoEhEnfeite29032013_interacoes-user_29> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_49> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_29> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_49-user_8> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_49> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_8> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_49-AdornoNaoEhEnfeite29032013_interacoes-user_8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_49> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_5-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_5> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_5-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_5> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 8 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_5-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_5> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_5-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_5> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_5-user_21> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_5> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_21> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_5-AdornoNaoEhEnfeite29032013_interacoes-user_21> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_5> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_21> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_5-user_5> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_5> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_5> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_5-AdornoNaoEhEnfeite29032013_interacoes-user_5> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_5> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_5> ;
     fb:weight 9 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_51-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_51> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_51-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_51> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 4 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_51-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_51> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_51-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_51> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_51-user_29> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_51> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_29> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_51-AdornoNaoEhEnfeite29032013_interacoes-user_29> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_51> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_29> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_52-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_52> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_52-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_52> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_53-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_53> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_53-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_53> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_54-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_54> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_54-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_54> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 4 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_55-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_55> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_55-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_55> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_56-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_56> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_56-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_56> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 3 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_56-user_8> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_56> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_8> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_56-AdornoNaoEhEnfeite29032013_interacoes-user_8> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_56> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_57-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_57> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_57-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_57> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_58-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_58> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_58-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_58> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_59-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_59> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_59-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_59> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_6-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_6> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_6-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 7 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_6-user_20> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_6> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_20> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_6-AdornoNaoEhEnfeite29032013_interacoes-user_20> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_6> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_20> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_60-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_60> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_60-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_60> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_61-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_61> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_61-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_61> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_62-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_62> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_62-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_62> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_63-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_63> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_63-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_63> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_7-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_7> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_7-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_7> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 4 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_8-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_8> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_8-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 27 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_8-user_1> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_8> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_1> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_8-AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_8-user_11> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_8> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_11> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_8-AdornoNaoEhEnfeite29032013_interacoes-user_11> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> ;
     fb:weight 1 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_8-user_24> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_8> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_24> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_8-AdornoNaoEhEnfeite29032013_interacoes-user_24> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_8-user_3> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_8> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_3> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_8-AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> ;
     fb:weight 2 .
 
-<http://purl.org/socialparticipation/fb/Interaction#user_9-user_0> a fb:Interaction ;
-    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#user_9> ;
-    fb:iTo <http://purl.org/socialparticipation/fb/Participant#user_0> ;
+<http://purl.org/socialparticipation/fb/Interaction#AdornoNaoEhEnfeite29032013_interacoes-user_9-AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_9> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> ;
     fb:weight 4 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_0> a fb:Participant ;
-    fb:uid "34f4e78ef6e88681514323429fcb167b291b29be"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_10> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_1> a fb:Participant ;
-    fb:uid "e1ab4ee2d1da43388d7b6b7649416915520ccc58"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_12> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_10> a fb:Participant ;
-    fb:uid "e006592e6d160eaa9bc37c2f5d45cb193b784fea"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_15> a fb:Participant ;
+    fb:posts 1 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_11> a fb:Participant ;
-    fb:uid "4f27bc630e4dd0faa73609af9710d5a379b02743"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_19> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_12> a fb:Participant ;
-    fb:uid "a61dc894f3a4acaf287e02fe3bcb8db6a8240927"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_25> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_13> a fb:Participant ;
-    fb:uid "afb730a3b527bcd99dba77d7c781dff15efbc73c"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_32> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_14> a fb:Participant ;
-    fb:uid "4acf621acb858c3fe42290864b2cf991066bcca5"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_33> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_15> a fb:Participant ;
-    fb:uid "8b31fc1a8cfcd512c88d984198a72cdc42f63a8d"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_37> a fb:Participant ;
+    fb:posts 1 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_16> a fb:Participant ;
-    fb:uid "25ea710e2eeff851e9ee31a9f87c6d973b4c5752"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_39> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_17> a fb:Participant ;
-    fb:uid "cc5b0e0202da0e33dd7a0a9c0cd5c3ad00f203a1"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_4> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_18> a fb:Participant ;
-    fb:uid "6ea6f35c0b8f246878fcf95965b868744df0f0e8"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_43> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_19> a fb:Participant ;
-    fb:uid "e4f59f41bdf3a6a64c1fb4b12e8d8d9480b3d34e"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_46> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_2> a fb:Participant ;
-    fb:uid "c7eb6ecfbcebd079a252f0af81618a335304cffa"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_48> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_20> a fb:Participant ;
-    fb:uid "ab054a4ac11ab6c7cc411f715ae0d982c26c6f7b"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_52> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_21> a fb:Participant ;
-    fb:uid "b758e9f21ee9ee1b8f679868058b3780dd91dceb"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_53> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_22> a fb:Participant ;
-    fb:uid "889b92201ede006d4af59afb51cd2fafed846815"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_54> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_23> a fb:Participant ;
-    fb:uid "4333fef33f93621d40533486bc164d1febda34f8"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_55> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_24> a fb:Participant ;
-    fb:uid "b4e75f8f131689b08999fc952f572822849d3dcb"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_57> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_25> a fb:Participant ;
-    fb:uid "eda597cb7c7c94e11863749a52a2c7d585ef49f2"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_58> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_26> a fb:Participant ;
-    fb:uid "83f97b0030ca5c97fbf71a2f460fdee0bfe8ee63"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_59> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_27> a fb:Participant ;
-    fb:uid "8bd054df3ff5d4cfe0df56244f6be357f6bf24b6"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_60> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_28> a fb:Participant ;
-    fb:uid "2d8aa802dcc3a89a78ab9c42bb5ed811beb27d6a"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_61> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_29> a fb:Participant ;
-    fb:uid "c61e7c5c146097a2ba8e0e4adf5f2d8082eb7653"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_62> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_3> a fb:Participant ;
-    fb:uid "822cf63cc461a6fb87eb704215f0abea916c7305"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_63> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_30> a fb:Participant ;
-    fb:uid "74ad88ea7bae664bf6a625a014d5a77df3828691"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_7> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_31> a fb:Participant ;
-    fb:uid "ff4baec49ce01978b9401abce30a6868166c77fe"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_9> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_32> a fb:Participant ;
-    fb:uid "d73162495ce33b30c42854dee2c52f9b09de7243"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_23> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_33> a fb:Participant ;
-    fb:uid "e4d6f6b1d467862a232d81c47e085e44f7f16175"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_30> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_34> a fb:Participant ;
-    fb:uid "cde8ad7b0a5f7d37d2cb1e53e9fe5519917c4167"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_38> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_35> a fb:Participant ;
-    fb:uid "b620117ef8b98d86eb421d548201b0ceb3088d26"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_56> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_36> a fb:Participant ;
-    fb:uid "88ee3b630210f8601a87eefa9c8a6772b3151674"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_27> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_37> a fb:Participant ;
-    fb:uid "350a638313394f62c4457a75206c875b85c2406b"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_36> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_38> a fb:Participant ;
-    fb:uid "9a00da8f09916abea5709a8808dd8e43733b740c"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_41> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_39> a fb:Participant ;
-    fb:uid "26d844075553d22d07920b0dd9273ae2877974f8"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_42> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_4> a fb:Participant ;
-    fb:uid "82868cfde0f4ab7f759f9d2da41e3c2a6eab2644"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_45> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_40> a fb:Participant ;
-    fb:uid "441abcfb4ea5bb72c9e4dda9b57073dca75ee668"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_49> a fb:Participant ;
+    fb:posts 1 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_41> a fb:Participant ;
-    fb:uid "d3696620f4b4b76ff34649e9c251de55c3115ff8"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_50> a fb:Participant ;
+    fb:posts 1 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_42> a fb:Participant ;
-    fb:uid "6405c5508229011b26873663e4610cf4fc22ac37"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_51> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_43> a fb:Participant ;
-    fb:uid "2cdde11783bb31ecb5e0435e27951cef4ecef94e"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_22> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_44> a fb:Participant ;
-    fb:uid "0ae7daf473f5f07e58125ae5468449209ea17bd1"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_26> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_45> a fb:Participant ;
-    fb:uid "d5cbec11618deda254ee067bff6b162e8ba6dd0b"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_2> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_46> a fb:Participant ;
-    fb:uid "ce12a9bf67365f7b3b4e96d45cb4c0273816c40d"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_34> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_47> a fb:Participant ;
-    fb:uid "9814bdde76ae9c50f79952d839ff2cb8fa4ffddf"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_18> a fb:Participant ;
+    fb:posts 5 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_48> a fb:Participant ;
-    fb:uid "899eb753ec555b70cf522346d0ffc13d51059ada"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_20> a fb:Participant ;
+    fb:posts 2 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_49> a fb:Participant ;
-    fb:uid "c12761b8ba3e2c708e07e6000b29d7e101e8b8ab"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_31> a fb:Participant ;
+    fb:posts 3 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_5> a fb:Participant ;
-    fb:uid "58ccfa902c64de8634e8d19848ca85116a0c0e1a"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_40> a fb:Participant ;
+    fb:posts 1 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_50> a fb:Participant ;
-    fb:uid "59d8c9150c1c742bbd0668f022a2d4db9d0488ee"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_47> a fb:Participant ;
+    fb:posts 1 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_51> a fb:Participant ;
-    fb:uid "d727175560f77a2aa631844ef41028af915bc4f1"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_13> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_52> a fb:Participant ;
-    fb:uid "7632bda1a4731bff9a644973a87e7188022ed4a9"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_17> a fb:Participant ;
+    fb:posts 5 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_53> a fb:Participant ;
-    fb:uid "266a6b8251d7154dedeab7c2b051b5a3069752cb"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_6> a fb:Participant ;
+    fb:posts 1 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_54> a fb:Participant ;
-    fb:uid "586d1130b1b9996e954ad11874bed0cdc974d592"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_14> a fb:Participant ;
+    fb:posts 0 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_55> a fb:Participant ;
-    fb:uid "6b5e79baf456bd6bdf0f6919d6bd91e0a78b5ada"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_16> a fb:Participant ;
+    fb:posts 1 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_56> a fb:Participant ;
-    fb:uid "0489f676e00f5c6596daf9984f6c0fc58b4e9b4a"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_21> a fb:Participant ;
+    fb:posts 1 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_57> a fb:Participant ;
-    fb:uid "60ad4f263c0d33eca663b989a32084238886a249"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_35> a fb:Participant ;
+    fb:posts 1 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_58> a fb:Participant ;
-    fb:uid "0b43102d7c525e90e859f922159406d9cc13e1c2"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_44> a fb:Participant ;
+    fb:posts 12 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_59> a fb:Participant ;
-    fb:uid "193b166f878657bce576b982ef786df59e9cfe7a"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_29> a fb:Participant ;
+    fb:posts 9 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_6> a fb:Participant ;
-    fb:uid "111885f09fe6c434e52f569ea0414d3b46b4dd87"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_28> a fb:Participant ;
+    fb:posts 1 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_60> a fb:Participant ;
-    fb:uid "43c651331f255801382d9b0c999d9fb93c4a9410"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_5> a fb:Participant ;
+    fb:posts 5 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_61> a fb:Participant ;
-    fb:uid "60583d66f68e63f986d2482b2cba724c42ca5194"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_11> a fb:Participant ;
+    fb:posts 8 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_62> a fb:Participant ;
-    fb:uid "7b0d2099c6ac8aa4a7dd37050b6538eaed042763"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_24> a fb:Participant ;
+    fb:posts 6 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_63> a fb:Participant ;
-    fb:uid "8b8f4614c9db0ac743149d7b4758bd1c3acf8872"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_8> a fb:Participant ;
+    fb:posts 33 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_7> a fb:Participant ;
-    fb:uid "ae34d80a7f1090992d1b5b46aea2bd32058626a0"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_3> a fb:Participant ;
+    fb:posts 11 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_8> a fb:Participant ;
-    fb:uid "aa9c4873d7bcf6be3804ba02f12344e56da55fbf"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_1> a fb:Participant ;
+    fb:posts 11 .
 
-<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013-user_9> a fb:Participant ;
-    fb:uid "293624d809532c07173c0e32cdb85090b73dac5e"^^xsd:string .
+<http://purl.org/socialparticipation/fb/Participant#AdornoNaoEhEnfeite29032013_interacoes-user_0> a fb:Participant ;
+    fb:posts 70 .
 

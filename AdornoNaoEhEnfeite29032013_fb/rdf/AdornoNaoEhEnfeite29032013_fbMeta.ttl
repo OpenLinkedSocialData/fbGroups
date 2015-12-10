@@ -16,15 +16,13 @@
         "sex"^^xsd:string,
         "uid"^^xsd:string ;
     fb:friendship true ;
-    fb:groupID 265217103529531 ;
+    fb:groupID "265217103529531"^^xsd:string ;
     fb:iAnon true ;
     fb:interaction true ;
     fb:interactionAttribute "node1"^^xsd:string,
         "node2"^^xsd:string,
         "weight"^^xsd:string ;
-    fb:interactionFriendAttribute "name"^^xsd:string,
-        "posts"^^xsd:string,
-        "uid"^^xsd:string ;
+    fb:interactionFriendAttribute "posts"^^xsd:string ;
     fb:nFriends 229 ;
     fb:nFriendsInteracted 64 ;
     fb:nFriendships 1095 ;
@@ -32,8 +30,8 @@
     fb:originalFriendshipFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/base/AdornoNaoEhEnfeite29032013.gdf"^^xsd:string ;
     fb:originalInteractionFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/base/AdornoNaoEhEnfeite29032013_interacoes.gdf"^^xsd:string ;
     po:acquiredThrough "Netvizz"^^xsd:string ;
-    po:availableAt "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb"^^xsd:string ;
-    po:createdAt "2013-03-29T00:00:00"^^xsd:datetime ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/fbGroups/tree/master/AdornoNaoEhEnfeite29032013_fb"^^xsd:string ;
+    po:createdAt "2013-03-29"^^xsd:date ;
     po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbMeta.owl"^^xsd:string ;
     po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbMeta.ttl"^^xsd:string ;
     po:donatedBy "AdornoNaoEhEnfeite29032013"^^xsd:string ;
@@ -42,7 +40,7 @@
     po:interactionTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbInteraction.ttl"^^xsd:string ;
     po:interactionXMLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/fbGroups/master/AdornoNaoEhEnfeite29032013_fb/rdf/AdornoNaoEhEnfeite29032013_fbInteraction.owl"^^xsd:string ;
     po:socialProtocol <http://purl.org/socialparticipation/po/Platform#Facebook> ;
-    po:triplifiedIn "2015-12-09T20:10:42.174027"^^xsd:datetime ;
+    po:triplifiedIn "2015-12-10T00:00:18.599427"^^xsd:datetime ;
     rdfs:comment "facebook network from AdornoNaoEhEnfeite29032013 . Ego: False. Friendship: True. Interaction: True."^^xsd:string .
 
 <http://purl.org/socialparticipation/po/Platform#Facebook> a po:Platform .

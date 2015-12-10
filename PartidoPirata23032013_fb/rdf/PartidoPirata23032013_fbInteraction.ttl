@@ -1,0 +1,3003 @@
+@prefix fb: <http://purl.org/socialparticipation/fb/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_103-PartidoPirata23032013-user_103> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_103> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_103> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_110-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 7 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_110-PartidoPirata23032013-user_1734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1734> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1117-PartidoPirata23032013-user_1117> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1117> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1117> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1132-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1132> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1134-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1134> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_118-PartidoPirata23032013-user_1294> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_118> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_118-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_118> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_118-PartidoPirata23032013-user_1484> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_118> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_118-PartidoPirata23032013-user_1572> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_118> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1572> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_118-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_118> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_118-PartidoPirata23032013-user_252> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_118> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_118-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_118> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_118-PartidoPirata23032013-user_741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_118> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_741> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_118-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_118> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1180-PartidoPirata23032013-user_1716> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1180> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1716> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1189-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1189> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_119-PartidoPirata23032013-user_1716> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_119> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1716> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_119-PartidoPirata23032013-user_252> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_119> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1198-PartidoPirata23032013-user_211> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1198> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1200-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1200> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1200-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1200> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1200-PartidoPirata23032013-user_888> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1200> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_888> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1216-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1216> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1216-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1216> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1219-PartidoPirata23032013-user_1291> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1219> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1291> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1232-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1232> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1232-PartidoPirata23032013-user_211> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1232> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1237-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1237> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1241-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1241> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_126-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_126> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1272-PartidoPirata23032013-user_1272> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1272> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1272> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1291-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1291-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1291-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 9 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1291-PartidoPirata23032013-user_688> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1291-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1291> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1294-PartidoPirata23032013-user_103> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_103> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1294-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1294-PartidoPirata23032013-user_1294> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1294-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1294-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1294-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1294-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1294-PartidoPirata23032013-user_741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1294-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_1263> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1263> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_1291> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1291> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_1295> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1295> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 10 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_1484> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_154> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_1656> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_1716> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1716> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_1734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1734> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_1850> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1850> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_211> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_252> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_53> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_53> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_58> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_58> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1297-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1329-PartidoPirata23032013-user_688> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1329> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_133-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_133> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1332-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1332> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1332-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1332> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1332-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1332> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1332-PartidoPirata23032013-user_252> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1332> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_134-PartidoPirata23032013-user_150> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_134> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_150> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1359-PartidoPirata23032013-user_1484> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1359> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1359-PartidoPirata23032013-user_464> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1359> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_464> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1359-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1359> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1361-PartidoPirata23032013-user_585> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1361> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_585> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1370-PartidoPirata23032013-user_1572> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1370> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1572> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1376-PartidoPirata23032013-user_1896> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1376> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1896> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_103> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_103> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_1263> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1263> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_1294> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_150> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_150> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_154> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_1566> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1566> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_1618> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1618> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_1643> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1643> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_1656> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_1685> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1685> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_1734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1734> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_252> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_365> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_365> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_53> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_53> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_557> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_557> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_680> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_680> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_688> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_888> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_888> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1380-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1386-PartidoPirata23032013-user_1294> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1386-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 15 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1386-PartidoPirata23032013-user_1572> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1572> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1386-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_141-PartidoPirata23032013-user_343> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_141> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_343> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1413-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1413> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1413-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1413> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1413-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1413> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1448-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1448> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1465-PartidoPirata23032013-user_1291> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1465> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1291> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1481-PartidoPirata23032013-user_1272> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1481> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1272> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1481-PartidoPirata23032013-user_154> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1481> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1481-PartidoPirata23032013-user_1716> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1481> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1716> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1484-PartidoPirata23032013-user_1295> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1295> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1484-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1484-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1484-PartidoPirata23032013-user_1484> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:weight 15 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1484-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1484-PartidoPirata23032013-user_211> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:weight 11 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1484-PartidoPirata23032013-user_343> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_343> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1484-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 7 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1484-PartidoPirata23032013-user_734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1484-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1484-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1495-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1495> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1495-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1495> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1495-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1495> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1498-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1498> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_150-PartidoPirata23032013-user_154> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_150> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_150-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_150> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_150-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_150> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_150-PartidoPirata23032013-user_365> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_150> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_365> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_150-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_150> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1503-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1503> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1537-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1537> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1537-PartidoPirata23032013-user_54> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1537> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_54> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1538-PartidoPirata23032013-user_1291> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1538> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1291> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1538-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1538> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1538-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1538> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1538-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1538> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1538-PartidoPirata23032013-user_1850> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1538> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1850> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_154-PartidoPirata23032013-user_154> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_154-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_154-PartidoPirata23032013-user_211> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_154-PartidoPirata23032013-user_688> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_154-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1540-PartidoPirata23032013-user_1294> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1540> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1540-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1540> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1541-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1541> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1541-PartidoPirata23032013-user_1541> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1541> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1541> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1541-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1541> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1541-PartidoPirata23032013-user_252> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1541> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1541-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1541> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1541-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1541> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1546-PartidoPirata23032013-user_1618> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1546> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1618> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1552-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1552> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1552-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1552> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1552-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1552> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1552-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1552> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1552-PartidoPirata23032013-user_58> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1552> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_58> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1560-PartidoPirata23032013-user_1582> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1560> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1582> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_1295> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1295> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 8 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_150> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_150> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 9 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_1566> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1566> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_1582> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1582> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_1643> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1643> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_1656> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_1734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1734> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_1896> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1896> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_211> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_252> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_58> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_58> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_680> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_680> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_688> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:weight 14 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1561-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1564-PartidoPirata23032013-user_734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1564> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1566-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1566> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1568-PartidoPirata23032013-user_1294> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1568-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 8 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1568-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1568-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 13 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1582-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1582> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1582-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1582> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1582-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1582> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 11 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1582-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1582> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1582-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1582> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1589-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1589> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_164-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_164> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1645-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1645> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1654-PartidoPirata23032013-user_1272> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1272> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1654-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1654-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1654-PartidoPirata23032013-user_154> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1654-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1654-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1654-PartidoPirata23032013-user_1618> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1618> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1654-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1654-PartidoPirata23032013-user_343> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_343> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1654-PartidoPirata23032013-user_464> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_464> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1654-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1654-PartidoPirata23032013-user_680> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_680> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1654-PartidoPirata23032013-user_734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1654-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1656-PartidoPirata23032013-user_1272> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1272> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1656-PartidoPirata23032013-user_1294> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1656-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1656-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1656-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1656-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1656-PartidoPirata23032013-user_680> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_680> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1656-PartidoPirata23032013-user_688> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1656-PartidoPirata23032013-user_734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1656-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1659-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1659> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1659-PartidoPirata23032013-user_1291> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1659> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1291> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1659-PartidoPirata23032013-user_1294> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1659> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1659-PartidoPirata23032013-user_154> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1659> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1659-PartidoPirata23032013-user_1541> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1659> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1541> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1659-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1659> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1659-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1659> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1659-PartidoPirata23032013-user_1582> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1659> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1582> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1659-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1659> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1659-PartidoPirata23032013-user_252> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1659> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1659-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1659> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1659-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1659> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1662-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1662> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1685-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1685> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1689-PartidoPirata23032013-user_1272> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1689> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1272> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1689-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1689> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1689-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1689> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 10 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_169-PartidoPirata23032013-user_1850> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_169> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1850> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1716-PartidoPirata23032013-user_1294> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1716> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1716-PartidoPirata23032013-user_154> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1716> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1716-PartidoPirata23032013-user_1618> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1716> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1618> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1734-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1734> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1734-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1734> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1790-PartidoPirata23032013-user_464> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1790> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_464> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1790-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1790> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1804-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1804> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_182-PartidoPirata23032013-user_1294> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_182> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_182-PartidoPirata23032013-user_1295> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_182> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1295> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_182-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_182> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1850-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1850> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1850-PartidoPirata23032013-user_1850> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1850> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1850> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1852-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1852> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_1937-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1937> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_205-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_205> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_205-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_205> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_205-PartidoPirata23032013-user_343> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_205> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_343> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_209-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_209> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_211-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_211-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_211-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_211-PartidoPirata23032013-user_154> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_211-PartidoPirata23032013-user_158> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_158> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_211-PartidoPirata23032013-user_1643> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1643> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_211-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_211-PartidoPirata23032013-user_1698> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1698> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_211-PartidoPirata23032013-user_211> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:weight 10 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_211-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_211-PartidoPirata23032013-user_688> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_211-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_211-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 12 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_230-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_230> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_252-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_252-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_252-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_252-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_252-PartidoPirata23032013-user_1850> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1850> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_252-PartidoPirata23032013-user_464> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_464> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_255-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_255> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_255-PartidoPirata23032013-user_734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_255> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_260-PartidoPirata23032013-user_1291> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_260> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1291> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_260-PartidoPirata23032013-user_1364> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_260> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1364> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_260-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_260> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_260-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_260> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_260-PartidoPirata23032013-user_1734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_260> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1734> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_260-PartidoPirata23032013-user_688> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_260> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_261-PartidoPirata23032013-user_1294> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_261> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_261-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_261> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_268-PartidoPirata23032013-user_154> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_268> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_268-PartidoPirata23032013-user_464> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_268> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_464> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_268-PartidoPirata23032013-user_741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_268> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_269-PartidoPirata23032013-user_1850> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_269> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1850> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_340-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_340> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_344-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_344> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_344-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_344> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_349-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_349> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_349-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_349> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_349-PartidoPirata23032013-user_674> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_349> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_674> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_357-PartidoPirata23032013-user_585> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_357> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_585> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_365-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_365> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_365-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_365> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_365-PartidoPirata23032013-user_1734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_365> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1734> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_365-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_365> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_365-PartidoPirata23032013-user_688> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_365> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_365-PartidoPirata23032013-user_741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_365> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_365-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_365> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_373-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_373> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_373-PartidoPirata23032013-user_211> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_373> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_385-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_385> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_385-PartidoPirata23032013-user_680> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_385> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_680> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_418-PartidoPirata23032013-user_1541> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_418> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1541> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_418-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_418> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_418-PartidoPirata23032013-user_1582> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_418> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1582> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_418-PartidoPirata23032013-user_211> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_418> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_418-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_418> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_418-PartidoPirata23032013-user_688> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_418> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_418-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_418> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_418-PartidoPirata23032013-user_97> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_418> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_97> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_42-PartidoPirata23032013-user_688> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_42> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_420-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_420> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_420-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_420> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 31 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_420-PartidoPirata23032013-user_680> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_420> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_680> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_444-PartidoPirata23032013-user_1698> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_444> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1698> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_457-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_457> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_457-PartidoPirata23032013-user_741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_457> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_464-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_464> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_464-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_464> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 17 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_464-PartidoPirata23032013-user_484> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_464> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_484> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_464-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_464> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_484-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_484-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_484-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_484-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_484-PartidoPirata23032013-user_252> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_484-PartidoPirata23032013-user_484> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_484> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_484-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_484-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_484> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_523-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_523> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_523-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_523> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_534-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_534> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_534-PartidoPirata23032013-user_53> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_534> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_53> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_534-PartidoPirata23032013-user_97> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_534> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_97> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_557-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_557> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_557-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_557> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_572-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_572> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_574-PartidoPirata23032013-user_1272> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_574> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1272> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_58-PartidoPirata23032013-user_58> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_58> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_58> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_585-PartidoPirata23032013-user_585> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_585> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_585> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 14 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1117> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1117> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1217> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1217> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1272> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1272> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1291> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1291> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1294> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:weight 8 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1295> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1295> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 8 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 7 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1448> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1448> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1484> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:weight 7 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_154> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1541> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1541> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 11 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 9 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1572> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1572> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_158> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_158> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1618> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1618> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 8 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1716> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1716> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1734> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1850> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1850> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_1896> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1896> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_211> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_252> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_349> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_349> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_365> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_365> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_464> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_464> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_484> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_484> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_58> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_58> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_585> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_585> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 21 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_674> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_674> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_680> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_680> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 8 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 12 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_950> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_950> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_609-PartidoPirata23032013-user_978> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_978> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_610-PartidoPirata23032013-user_61> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_610> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_61> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_1294> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:weight 10 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_154> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_1582> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1582> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_1698> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1698> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_211> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_252> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_54> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_54> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_688> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_643-PartidoPirata23032013-user_950> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_950> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_649-PartidoPirata23032013-user_1656> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_649> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_669-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_669> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_674-PartidoPirata23032013-user_674> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_674> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_674> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_680-PartidoPirata23032013-user_1295> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_680> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1295> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_680-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_680> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_680-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_680> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_680-PartidoPirata23032013-user_1850> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_680> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1850> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_680-PartidoPirata23032013-user_680> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_680> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_680> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_680-PartidoPirata23032013-user_734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_680> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:weight 8 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_688-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_688-PartidoPirata23032013-user_1294> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_688-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_688-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_688-PartidoPirata23032013-user_464> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_464> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_688-PartidoPirata23032013-user_688> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_688-PartidoPirata23032013-user_734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_690-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_690> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_690-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_690> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_690-PartidoPirata23032013-user_211> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_690> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_690-PartidoPirata23032013-user_97> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_690> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_97> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_691-PartidoPirata23032013-user_150> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_691> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_150> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_691-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_691> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_691-PartidoPirata23032013-user_211> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_691> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_734-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_734-PartidoPirata23032013-user_1630> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1630> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_734-PartidoPirata23032013-user_484> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_484> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_734-PartidoPirata23032013-user_688> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_734-PartidoPirata23032013-user_734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_734-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_74-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_74> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_74-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_74> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_740-PartidoPirata23032013-user_103> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_740> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_103> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_740-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_740> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_740-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_740> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_740-PartidoPirata23032013-user_1541> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_740> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1541> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_740-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_740> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_740-PartidoPirata23032013-user_1734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_740> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1734> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_740-PartidoPirata23032013-user_1850> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_740> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1850> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_740-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_740> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_741-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_741> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_741-PartidoPirata23032013-user_154> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_741> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_741-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_741> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_741-PartidoPirata23032013-user_158> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_741> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_158> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_741-PartidoPirata23032013-user_741> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_741> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_741> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_760-PartidoPirata23032013-user_1380> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_760> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_761-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_761> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_761-PartidoPirata23032013-user_154> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_761> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_761-PartidoPirata23032013-user_1656> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_761> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_761-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_761> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 6 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_793-PartidoPirata23032013-user_1295> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_793> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1295> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_874-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_874> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_1117> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1117> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_1217> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1217> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_1272> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1272> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_1291> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1291> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_1295> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1295> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_1297> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_1386> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> ;
+    fb:weight 5 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_1484> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_154> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_1654> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_1698> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1698> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_1850> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1850> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_1896> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1896> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_252> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_464> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_464> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_484> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_484> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_557> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_557> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_609> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> ;
+    fb:weight 3 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_674> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_674> ;
+    fb:weight 2 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 11 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 9 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_950> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_950> ;
+    fb:weight 4 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_921-PartidoPirata23032013-user_97> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_97> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_944-PartidoPirata23032013-user_734> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_944-PartidoPirata23032013-user_944> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> ;
+    fb:weight 24 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_945-PartidoPirata23032013-user_110> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_945> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_950-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_950> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_97-PartidoPirata23032013-user_1656> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_97> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_97-PartidoPirata23032013-user_921> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_97> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013-user_994-PartidoPirata23032013-user_1561> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_994> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013_interactions-user_109-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013_interactions-user_109> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 42 .
+
+<http://purl.org/socialparticipation/fb/Interaction#PartidoPirata23032013_interactions-user_110-PartidoPirata23032013-user_1568> a fb:Interaction ;
+    fb:iFrom <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013_interactions-user_110> ;
+    fb:iTo <http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> ;
+    fb:weight 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_10> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1107> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_116> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1377> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_193> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_29> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_559> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_846> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013_interactions-user_121> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1132> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1134> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1180> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1189> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1198> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1219> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1237> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1241> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_126> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1329> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_133> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_134> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1361> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1364> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1370> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1376> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_141> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1465> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1498> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1503> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1546> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1560> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1564> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1589> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1630> a fb:Participant ;
+    fb:posts 3 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_164> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1645> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1662> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_169> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1804> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1852> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1937> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_209> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_230> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_269> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_340> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_357> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_42> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_444> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_572> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_574> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_61> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_610> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_649> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_669> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_760> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_793> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_874> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_945> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_978> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_994> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013_interactions-user_109> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013_interactions-user_110> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_119> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1216> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1217> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1232> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1263> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1448> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1537> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1540> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1685> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1790> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_255> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_261> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_344> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_373> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_385> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_457> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_523> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_54> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_74> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_888> a fb:Participant ;
+    fb:posts 3 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1200> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1359> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1413> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1481> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1495> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1566> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_158> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1643> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1689> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_182> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_205> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_268> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_420> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_53> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_534> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_691> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1117> a fb:Participant ;
+    fb:posts 3 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1332> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1572> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1698> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1896> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_343> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_349> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_557> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_690> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_761> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_950> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_103> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1538> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1552> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1618> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_585> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_674> a fb:Participant ;
+    fb:posts 3 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_260> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_58> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_97> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1295> a fb:Participant ;
+    fb:posts 5 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1716> a fb:Participant ;
+    fb:posts 3 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_418> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_740> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_118> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1272> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_150> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1582> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1734> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_365> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1541> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1659> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1850> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_464> a fb:Participant ;
+    fb:posts 3 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1291> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_484> a fb:Participant ;
+    fb:posts 3 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_680> a fb:Participant ;
+    fb:posts 1 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_741> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1656> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1484> a fb:Participant ;
+    fb:posts 5 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_643> a fb:Participant ;
+    fb:posts 0 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_252> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_734> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_154> a fb:Participant ;
+    fb:posts 6 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_688> a fb:Participant ;
+    fb:posts 6 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1294> a fb:Participant ;
+    fb:posts 2 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1386> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_944> a fb:Participant ;
+    fb:posts 9 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_211> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_110> a fb:Participant ;
+    fb:posts 13 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1568> a fb:Participant ;
+    fb:posts 3 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1297> a fb:Participant ;
+    fb:posts 9 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_921> a fb:Participant ;
+    fb:posts 6 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1380> a fb:Participant ;
+    fb:posts 4 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1561> a fb:Participant ;
+    fb:posts 9 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_1654> a fb:Participant ;
+    fb:posts 10 .
+
+<http://purl.org/socialparticipation/fb/Participant#PartidoPirata23032013-user_609> a fb:Participant ;
+    fb:posts 9 .
+
